@@ -1,0 +1,37 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icons/action_inactive.png"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "chromeos": "Ctrl+Shift+X",
+            "linux": "Ctrl+Shift+X",
+            "mac": "Command+Shift+X",
+            "windows": "Ctrl+Shift+X"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "ctre_content.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Remove annoying elements with a single click",
+   "icons": {
+      "128": "icons/icon_128.png",
+      "16": "icons/action_inactive.png",
+      "48": "icons/icon_48.png"
+   },
+   "incognito": "spanning",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDT5RyBa5qWDzgXRyl9hw8FpWq/bN2rcYj0TsP2T4SpRo+Mzwaaf7G31ymC779kbJC2IIGf6GH1DlkDHQqcuwZBSeKuSAuPg0w7zr667W87rIgjIJlk+pb1M0kE8xkze650Ys9QDvzDQpjPTqT2i+3NMD9QqGCwoTap4PJu9J0bswIDAQAB",
+   "manifest_version": 2,
+   "name": "Click to Remove Element",
+   "permissions": [ "tabs", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.6"
+}

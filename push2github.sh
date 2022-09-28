@@ -51,7 +51,8 @@ time ( \
     sleep $sleep_time;
     git add --verbose --all;
     sleep $sleep_time;
-    git commit --allow-empty-message --message="$script_version" --verbose;
+    #git commit --allow-empty-message --message="$script_version" --verbose;
+    git commit --verbose;
     sleep $sleep_time;
     git push --verbose;
     echo  " ● ${script_version} ● ";

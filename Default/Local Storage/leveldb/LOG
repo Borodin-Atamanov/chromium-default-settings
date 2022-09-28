@@ -1,3 +1,5 @@
-2022/09/28-23:48:17.834 3 Reusing MANIFEST /home/i/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2022/09/28-23:48:17.859 3 Recovering log #3
-2022/09/28-23:48:17.860 3 Reusing old log /home/i/.config/chromium/Default/Local Storage/leveldb/000003.log 
+2022/09/29-00:07:09.967 3 Reusing MANIFEST /home/i/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2022/09/29-00:07:09.968 3 Recovering log #3
+2022/09/29-00:07:09.969 3 Reusing old log /home/i/.config/chromium/Default/Local Storage/leveldb/000003.log 
+2022/09/29-00:07:20.620 3 Level-0 table #5: started
+2022/09/29-00:07:20.631 3 Level-0 table #5: 53903 bytes OK

@@ -1,2 +1,3 @@
-2022/09/28-23:37:18.399 1d86c Creating DB /home/i/.config/chromium/Default/GCM Store/Encryption since it was missing.
-2022/09/28-23:37:18.412 1d86c Reusing MANIFEST /home/i/.config/chromium/Default/GCM Store/Encryption/MANIFEST-000001
+2022/09/28-23:57:38.223 49ede Reusing MANIFEST /home/i/.config/chromium/Default/GCM Store/Encryption/MANIFEST-000001
+2022/09/28-23:57:38.223 49ede Recovering log #3
+2022/09/28-23:57:38.223 49ede Reusing old log /home/i/.config/chromium/Default/GCM Store/Encryption/000003.log 
