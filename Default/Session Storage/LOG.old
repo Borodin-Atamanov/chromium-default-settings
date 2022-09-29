@@ -1,3 +1,2 @@
-2022/09/28-23:57:35.103 3 Reusing MANIFEST /home/i/.config/chromium/Default/Session Storage/MANIFEST-000001
-2022/09/28-23:57:35.106 3 Recovering log #3
-2022/09/28-23:57:35.107 3 Reusing old log /home/i/.config/chromium/Default/Session Storage/000003.log 
+2022/09/29-22:33:59.056 9 Creating DB /home/i/.config/chromium/Default/Session Storage__tmp_for_rebuild since it was missing.
+2022/09/29-22:33:59.093 9 Reusing MANIFEST /home/i/.config/chromium/Default/Session Storage__tmp_for_rebuild/MANIFEST-000001

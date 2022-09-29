@@ -1,3 +1,2 @@
-2022/09/28-23:57:34.802 3 Reusing MANIFEST /home/i/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2022/09/28-23:57:34.803 3 Recovering log #3
-2022/09/28-23:57:34.803 3 Reusing old log /home/i/.config/chromium/Default/Local Storage/leveldb/000003.log 
+2022/09/29-22:33:59.056 5 Creating DB /home/i/.config/chromium/Default/Local Storage/leveldb__tmp_for_rebuild since it was missing.
+2022/09/29-22:33:59.093 5 Reusing MANIFEST /home/i/.config/chromium/Default/Local Storage/leveldb__tmp_for_rebuild/MANIFEST-000001
