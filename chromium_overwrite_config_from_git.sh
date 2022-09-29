@@ -2,7 +2,7 @@
 #Author dev@Borodin-Atamanov.ru
 #License: MIT
 
-chromium_config_dir="$(PWD)"
+chromium_config_dir="$(pwd)"
 
 temp_dir="${TMPDIR:-/tmp}/dzintara_chromium_dir-$(date "+%F-%H-%M-%S")";
 mkdir -pv "${temp_dir}";
