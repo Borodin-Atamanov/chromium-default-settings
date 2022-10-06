@@ -1,0 +1,200 @@
+{
+   "about": {
+      "message": "เกี่ยวกับ Favorites..."
+   },
+   "add": {
+      "message": "เพิ่ม"
+   },
+   "add_bookmark": {
+      "message": "เพิ่มบุ๊กมาร์ก"
+   },
+   "add_folder": {
+      "message": "เพิ่มโฟลเดอร์"
+   },
+   "add_page": {
+      "message": "เพิ่มหน้า..."
+   },
+   "apps": {
+      "message": "แอป"
+   },
+   "back": {
+      "message": "กลับ"
+   },
+   "bookmark": {
+      "message": "บุ๊กมาร์ก"
+   },
+   "bookmark_manager": {
+      "message": "ตัวจัดการบุ๊กมาร์ก"
+   },
+   "bookmarks": {
+      "message": "บุ๊กมาร์ก"
+   },
+   "cancel": {
+      "message": "ยกเลิก"
+   },
+   "cancelled": {
+      "message": "ยกเลิกแล้ว"
+   },
+   "click_to_open_x": {
+      "message": "คลิกเพื่อเปิด $1"
+   },
+   "close": {
+      "message": "ปิด"
+   },
+   "complete": {
+      "message": "เสร็จสมบูรณ์"
+   },
+   "confirm": {
+      "message": "ยืนยัน"
+   },
+   "confirm_changes": {
+      "message": "ยืนยันการเปลี่ยนแปลง"
+   },
+   "confirm_permiission": {
+      "message": "ยืนยันการอนุญาต"
+   },
+   "context_menu": {
+      "message": "เมนูตามบริบท"
+   },
+   "copy": {
+      "message": "คัดลอก"
+   },
+   "cut": {
+      "message": "ตัด"
+   },
+   "default": {
+      "message": "ค่าเริ่มต้น"
+   },
+   "delete": {
+      "message": "ลบ..."
+   },
+   "delete_item_confirm_many": {
+      "message": "คุณแน่ใจหรือไม่ว่าต้องการลบ $1 รายการ"
+   },
+   "delete_item_confirm_single": {
+      "message": "คุณแน่ใจหรือไม่ว่าต้องการลบ \"$1\""
+   },
+   "deleted": {
+      "message": "ลบแล้ว"
+   },
+   "do_not_show_again": {
+      "message": "รับทราบ ไม่ต้องแสดงอีก"
+   },
+   "downloads": {
+      "message": "ดาวน์โหลด"
+   },
+   "edit": {
+      "message": "แก้ไข..."
+   },
+   "experimental": {
+      "message": "ทดลอง"
+   },
+   "extensions": {
+      "message": "ส่วนขยาย"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "ต้องมีการอนุญาตใหม่สำหรับ Favorites"
+   },
+   "folder": {
+      "message": "โฟลเดอร์"
+   },
+   "forward": {
+      "message": "ส่งต่อ"
+   },
+   "got_it": {
+      "message": "สำเร็จ"
+   },
+   "help": {
+      "message": "ความช่วยเหลือ"
+   },
+   "history": {
+      "message": "ประวัติการเข้าชม"
+   },
+   "more_information": {
+      "message": "ข้อมูลเพิ่มเติม"
+   },
+   "name": {
+      "message": "ชื่อ"
+   },
+   "new_tab": {
+      "message": "แท็บใหม่"
+   },
+   "no_search_results_found": {
+      "message": "ไม่พบผลการค้นหา"
+   },
+   "not_found": {
+      "message": "ไม่พบ"
+   },
+   "ok": {
+      "message": "ตกลง"
+   },
+   "open": {
+      "message": "เปิด"
+   },
+   "open_all_links": {
+      "message": "เปิดบุ๊กมาร์กทั้งหมด"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "เปิดบุ๊กมาร์กทั้งหมดในหน้าต่างที่ไม่ระบุตัวตน"
+   },
+   "open_all_links_in_new_window": {
+      "message": "เปิดบุ๊กมาร์กทั้งหมดในหน้าต่างใหม่"
+   },
+   "open_in_incognito_window": {
+      "message": "เปิดในหน้าต่างที่ไม่ระบุตัวตน"
+   },
+   "open_in_new_tab": {
+      "message": "เปิดในแท็บใหม่"
+   },
+   "open_in_new_window": {
+      "message": "เปิดในหน้าต่างใหม่"
+   },
+   "paste": {
+      "message": "วาง"
+   },
+   "permission_symbols": {
+      "message": "อ่านไอคอนของเว็บไซต์ที่คุณเข้าชม"
+   },
+   "reload": {
+      "message": "โหลดใหม่"
+   },
+   "remove": {
+      "message": "นำออก"
+   },
+   "reorder_by_title": {
+      "message": "จัดลำดับใหม่ตามชื่อ"
+   },
+   "search": {
+      "message": "ค้นหา"
+   },
+   "search_": {
+      "message": "ค้นหา..."
+   },
+   "search_the_web": {
+      "message": "ค้นหาเว็บ..."
+   },
+   "set_wallpaper_": {
+      "message": "ตั้งค่าวอลเปเปอร์..."
+   },
+   "settings": {
+      "message": "การตั้งค่า"
+   },
+   "show_all": {
+      "message": "แสดงทั้งหมด"
+   },
+   "show_in_folder": {
+      "message": "แสดงในโฟลเดอร์"
+   },
+   "status": {
+      "message": "สถานะ"
+   },
+   "today": {
+      "message": "วันนี้"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "เมื่อวานนี้"
+   }
+}

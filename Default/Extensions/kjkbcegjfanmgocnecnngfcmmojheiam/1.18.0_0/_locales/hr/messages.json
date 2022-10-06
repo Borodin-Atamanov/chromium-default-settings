@@ -1,0 +1,215 @@
+{
+   "about": {
+      "message": "O proizvodu Favorites..."
+   },
+   "add": {
+      "message": "Dodaj"
+   },
+   "add_bookmark": {
+      "message": "Dodavanje oznake"
+   },
+   "add_folder": {
+      "message": "Dodavanje mape..."
+   },
+   "add_page": {
+      "message": "Dodavanje stranice..."
+   },
+   "apps": {
+      "message": "Aplikacije"
+   },
+   "back": {
+      "message": "Natrag"
+   },
+   "bookmark": {
+      "message": "Oznaka"
+   },
+   "bookmark_manager": {
+      "message": "Upravitelj oznaka"
+   },
+   "bookmarks": {
+      "message": "Knjižne oznake"
+   },
+   "cancel": {
+      "message": "Odustani"
+   },
+   "cancelled": {
+      "message": "Otkazano"
+   },
+   "close": {
+      "message": "Zatvori"
+   },
+   "colors_": {
+      "message": "Boje…"
+   },
+   "complete": {
+      "message": "Dovršeno"
+   },
+   "confirm": {
+      "message": "Potvrdi"
+   },
+   "confirm_changes": {
+      "message": "Potvrda promjene"
+   },
+   "confirm_permiission": {
+      "message": "Potvrda dozvola"
+   },
+   "context_menu": {
+      "message": "Kontekstni izbornik"
+   },
+   "copy": {
+      "message": "Kopiraj"
+   },
+   "cut": {
+      "message": "Izreži"
+   },
+   "dark": {
+      "message": "Tamno"
+   },
+   "default": {
+      "message": "Zadano"
+   },
+   "delete": {
+      "message": "Izbriši..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Jeste li sigurni da želite izbrisati ovoliko stavki: $1?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Doista želite izbrisati stavku  \"$1\"?"
+   },
+   "deleted": {
+      "message": "Izbrisano"
+   },
+   "do_not_show_again": {
+      "message": "U redu, više mi ne prikazuj tu poruku."
+   },
+   "downloads": {
+      "message": "Preuzimanje"
+   },
+   "edit": {
+      "message": "Uredi..."
+   },
+   "empty": {
+      "message": "Empty."
+   },
+   "experimental": {
+      "message": "Eksperimentalno"
+   },
+   "extensions": {
+      "message": "Proširenja"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Proširenje Favorites zahtijeva nove dozvole"
+   },
+   "folder": {
+      "message": "Mapa"
+   },
+   "forward": {
+      "message": "Naprijed"
+   },
+   "got_it": {
+      "message": "Shvaćam"
+   },
+   "help": {
+      "message": "Help (Pomoć)"
+   },
+   "history": {
+      "message": "Povijest"
+   },
+   "more_information": {
+      "message": "Više informacija"
+   },
+   "name": {
+      "message": "Naziv"
+   },
+   "new_tab": {
+      "message": "Nova kartica"
+   },
+   "no_search_results_found": {
+      "message": "Nisu pronađeni rezultati pretraživanja"
+   },
+   "not_found": {
+      "message": "Nije pronađeno"
+   },
+   "ok": {
+      "message": "U redu"
+   },
+   "open": {
+      "message": "Otvori"
+   },
+   "open_all_links": {
+      "message": "Otvaranje svih oznaka"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Otvori sve oznake u anonimnom prozoru"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Otvaranje svih oznaka u novom prozoru"
+   },
+   "open_in_incognito_window": {
+      "message": "Otvaranje u anonimnom prozoru"
+   },
+   "open_in_new_tab": {
+      "message": "Otvori u novoj kartici"
+   },
+   "open_in_new_window": {
+      "message": "Otvaranje u novom prozoru"
+   },
+   "paste": {
+      "message": "Zalijepi"
+   },
+   "permission_symbols": {
+      "message": "čitati ikone posjećenih web-lokacija"
+   },
+   "reload": {
+      "message": "Ponovno učitaj"
+   },
+   "remove": {
+      "message": "Ukloni"
+   },
+   "reorder_by_title": {
+      "message": "Poredaj po naslovu"
+   },
+   "search": {
+      "message": "Traži"
+   },
+   "search_": {
+      "message": "Traži..."
+   },
+   "search_the_web": {
+      "message": "Pretraživanje weba..."
+   },
+   "set_wallpaper_": {
+      "message": "Postavljanje pozadinske slike..."
+   },
+   "settings": {
+      "message": "Postavke"
+   },
+   "show_all": {
+      "message": "Prikaži sve"
+   },
+   "show_in_folder": {
+      "message": "Prikaži u mapi"
+   },
+   "status": {
+      "message": "Status"
+   },
+   "subscribe": {
+      "message": "Pretplati se"
+   },
+   "support": {
+      "message": "Podrška"
+   },
+   "today": {
+      "message": "Danas u"
+   },
+   "unsubscribe": {
+      "message": "Otkaži pretplatu"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "Jučer u"
+   }
+}

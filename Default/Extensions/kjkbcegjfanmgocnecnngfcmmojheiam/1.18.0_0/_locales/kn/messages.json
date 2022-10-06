@@ -1,0 +1,197 @@
+{
+   "about": {
+      "message": "Favorites ಬಗ್ಗೆ..."
+   },
+   "add": {
+      "message": "ಸೇರಿಸು"
+   },
+   "add_bookmark": {
+      "message": "ಬುಕ್‌ಮಾರ್ಕ್ ಸೇರಿಸು"
+   },
+   "add_folder": {
+      "message": "ಫೋಲ್ಡರ್ ಅನ್ನು ಸೇರಿಸಿ..."
+   },
+   "add_page": {
+      "message": "ಪುಟ ಸೇರಿಸು..."
+   },
+   "apps": {
+      "message": "ಆಪ್ಸ್‌‌"
+   },
+   "back": {
+      "message": "ಹಿಂದೆ"
+   },
+   "bookmark": {
+      "message": "ಬುಕ್‌ಮಾರ್ಕ್"
+   },
+   "bookmark_manager": {
+      "message": "ಬುಕ್‌ಮಾರ್ಕ್ ವ್ಯವಸ್ಥಾಪಕ"
+   },
+   "bookmarks": {
+      "message": "ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು"
+   },
+   "cancel": {
+      "message": "ರದ್ದುಮಾಡಿ"
+   },
+   "cancelled": {
+      "message": "ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ"
+   },
+   "close": {
+      "message": "ಮುಚ್ಚು"
+   },
+   "complete": {
+      "message": "ಪೂರ್ಣಗೊಂಡಿದೆ"
+   },
+   "confirm": {
+      "message": "ದೃಢೀಕರಿಸು"
+   },
+   "confirm_changes": {
+      "message": "ಬದಲಾವಣೆಗಳನ್ನು ದೃಢೀಕರಿಸಿ"
+   },
+   "confirm_permiission": {
+      "message": "ಅನುಮತಿಗಳನ್ನು ದೃಡೀಕರಿಸಿ"
+   },
+   "context_menu": {
+      "message": "ಸಂದರ್ಭದ ಮೆನು"
+   },
+   "copy": {
+      "message": "ನಕಲಿಸು"
+   },
+   "cut": {
+      "message": "ಕತ್ತರಿಸು"
+   },
+   "default": {
+      "message": "ಡಿಫಾಲ್ಟ್"
+   },
+   "delete": {
+      "message": "ಅಳಿಸು..."
+   },
+   "delete_item_confirm_many": {
+      "message": "$1 ಐಟಂಗಳನ್ನು ಅಳಿಸಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?"
+   },
+   "delete_item_confirm_single": {
+      "message": "\"$1\" ಅನ್ನು ಅಳಿಸಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?"
+   },
+   "deleted": {
+      "message": "ಅಳಿಸಲಾಗಿದೆ"
+   },
+   "do_not_show_again": {
+      "message": "ಅರ್ಥವಾಯಿತು, ಇದನ್ನು ಮತ್ತೆ ನನಗೆ ತೋರಿಸಬೇಡ."
+   },
+   "downloads": {
+      "message": "ಡೌನ್‌ಲೋಡ್‌ಗಳು"
+   },
+   "edit": {
+      "message": "ಎಡಿಟ್..."
+   },
+   "experimental": {
+      "message": "ಪ್ರಾಯೋಗಿಕ"
+   },
+   "extensions": {
+      "message": "ವಿಸ್ತರಣೆಗಳು"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites ಗೆ ಹೊಸ ಅನುಮತಿಗಳ ಅಗತ್ಯವಿದೆ"
+   },
+   "folder": {
+      "message": "ಫೋಲ್ಡರ್"
+   },
+   "forward": {
+      "message": "ಫಾರ್ವರ್ಡ್"
+   },
+   "got_it": {
+      "message": "ಅರ್ಥವಾಯಿತು"
+   },
+   "help": {
+      "message": "ಸಹಾಯ"
+   },
+   "history": {
+      "message": "ಇತಿಹಾಸ"
+   },
+   "more_information": {
+      "message": "ಹೆಚ್ಚಿನ ಮಾಹಿತಿ"
+   },
+   "name": {
+      "message": "ಹೆಸರು"
+   },
+   "new_tab": {
+      "message": "ಹೊಸ ಟ್ಯಾಬ್"
+   },
+   "no_search_results_found": {
+      "message": "ಯಾವುದೇ ಹುಡುಕಾಟ ಫಲಿತಾಂಶಗಳು ಕಂಡುಬಂದಿಲ್ಲ"
+   },
+   "not_found": {
+      "message": "ದೊರೆಯಲಿಲ್ಲ"
+   },
+   "ok": {
+      "message": "ಸರಿ"
+   },
+   "open": {
+      "message": "ತೆರೆ"
+   },
+   "open_all_links": {
+      "message": "ಎಲ್ಲ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "ಎಲ್ಲ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಅದೃಶ್ಯ ವಿಂಡೋದಲ್ಲಿ ತೆರೆಯಿರಿ"
+   },
+   "open_all_links_in_new_window": {
+      "message": "ಹೊಸ ವಿಂಡೋನಲ್ಲಿ ಎಲ್ಲ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ"
+   },
+   "open_in_incognito_window": {
+      "message": "ಅಜ್ಞಾತ ವಿಂಡೋದಲ್ಲಿ ತೆರೆಯಿರಿ"
+   },
+   "open_in_new_tab": {
+      "message": "ಹೊಸ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ"
+   },
+   "open_in_new_window": {
+      "message": "ಹೊಸ ವಿಂಡೋನಲ್ಲಿ ತೆರೆಯಿರಿ"
+   },
+   "paste": {
+      "message": "ಅಂಟಿಸು"
+   },
+   "permission_symbols": {
+      "message": "ನೀವು ಭೇಟಿ ನೀಡುವ ವೆಬ್‌ಸೈಟ್‌ಗಳ ಐಕಾನ್‌ಗಳನ್ನು ಓದಿರಿ"
+   },
+   "reload": {
+      "message": "ಮರುಲೋಡ್‌"
+   },
+   "remove": {
+      "message": "ತೆಗೆದುಹಾಕು"
+   },
+   "reorder_by_title": {
+      "message": "ಶೀರ್ಷಿಕೆ ಪ್ರಕಾರ ಮರುಕ್ರಮಗೊಳಿಸಿ"
+   },
+   "search": {
+      "message": "ಹುಡುಕಾಟ"
+   },
+   "search_": {
+      "message": "ಹುಡುಕಾಟ..."
+   },
+   "search_the_web": {
+      "message": "ವೆಬ್ ಹುಡುಕಿ..."
+   },
+   "set_wallpaper_": {
+      "message": "ವಾಲ್‌ಪೇಪರ್ ಅನ್ನು ಹೊಂದಿಸಿ..."
+   },
+   "settings": {
+      "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+   },
+   "show_all": {
+      "message": "ಎಲ್ಲ ತೋರಿಸು"
+   },
+   "show_in_folder": {
+      "message": "ಫೋಲ್ಡರ್‌ನಲ್ಲಿ ತೋರಿಸಿ"
+   },
+   "status": {
+      "message": "ಸ್ಥಿತಿ"
+   },
+   "today": {
+      "message": "ಇಂದು"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "ನಿನ್ನೆ"
+   }
+}

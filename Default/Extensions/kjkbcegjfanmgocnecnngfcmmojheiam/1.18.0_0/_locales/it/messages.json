@@ -1,0 +1,221 @@
+{
+   "about": {
+      "message": "Informazioni su Favorites..."
+   },
+   "add": {
+      "message": "Aggiungi"
+   },
+   "add_bookmark": {
+      "message": "Aggiungi preferito"
+   },
+   "add_folder": {
+      "message": "Aggiungi cartella..."
+   },
+   "add_page": {
+      "message": "Aggiungi pagina..."
+   },
+   "apps": {
+      "message": "App"
+   },
+   "back": {
+      "message": "Indietro"
+   },
+   "bookmark": {
+      "message": "Aggiungi ai Preferiti"
+   },
+   "bookmark_manager": {
+      "message": "Gestione Preferiti"
+   },
+   "bookmarks": {
+      "message": "Preferiti"
+   },
+   "cancel": {
+      "message": "Annulla"
+   },
+   "cancelled": {
+      "message": "Operazione annullata"
+   },
+   "click_to_open_x": {
+      "message": "Fai clic per aprire $1"
+   },
+   "close": {
+      "message": "Chiudi"
+   },
+   "colors_": {
+      "message": "Colori…"
+   },
+   "complete": {
+      "message": "Fine"
+   },
+   "confirm": {
+      "message": "Conferma"
+   },
+   "confirm_changes": {
+      "message": "Conferma modifiche"
+   },
+   "confirm_permiission": {
+      "message": "Conferma autorizzazioni"
+   },
+   "context_menu": {
+      "message": "Menu contestuale"
+   },
+   "copy": {
+      "message": "Copia"
+   },
+   "cut": {
+      "message": "Taglia"
+   },
+   "dark": {
+      "message": "Scuro"
+   },
+   "default": {
+      "message": "Predefinito"
+   },
+   "delete": {
+      "message": "Elimina..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Eliminare $1 elementi?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Eliminare \"$1\"?"
+   },
+   "deleted": {
+      "message": "Eliminato"
+   },
+   "do_not_show_again": {
+      "message": "Non mostrare più questo messaggio."
+   },
+   "downloads": {
+      "message": "Download"
+   },
+   "edit": {
+      "message": "Modifica..."
+   },
+   "empty": {
+      "message": "Vuoto."
+   },
+   "experimental": {
+      "message": "Sperimentali"
+   },
+   "extensions": {
+      "message": "Estensioni"
+   },
+   "favorites": {
+      "message": "Preferiti"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites richiede nuove autorizzazioni"
+   },
+   "folder": {
+      "message": "Cartella"
+   },
+   "forward": {
+      "message": "Avanti"
+   },
+   "got_it": {
+      "message": "Fatto"
+   },
+   "help": {
+      "message": "Guida"
+   },
+   "history": {
+      "message": "Cronologia"
+   },
+   "more_information": {
+      "message": "Ulteriori informazioni"
+   },
+   "name": {
+      "message": "Nome"
+   },
+   "new_tab": {
+      "message": "Nuova scheda"
+   },
+   "no_search_results_found": {
+      "message": "Nessun risultato di ricerca trovato"
+   },
+   "not_found": {
+      "message": "Non trovato"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open": {
+      "message": "Apri"
+   },
+   "open_all_links": {
+      "message": "Apri tutti i Preferiti"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Apri tutti i Preferiti nella finestra di navigazione in incognito"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Apri tutti i Preferiti in un'altra finestra"
+   },
+   "open_in_incognito_window": {
+      "message": "Apri in finestra di navigazione in incognito"
+   },
+   "open_in_new_tab": {
+      "message": "Apri in un'altra scheda"
+   },
+   "open_in_new_window": {
+      "message": "Apri in un'altra finestra"
+   },
+   "paste": {
+      "message": "Incolla"
+   },
+   "permission_symbols": {
+      "message": "Lettura delle icone dei siti web visitati"
+   },
+   "reload": {
+      "message": "Ricarica"
+   },
+   "remove": {
+      "message": "Rimuovi"
+   },
+   "reorder_by_title": {
+      "message": "Riordina per titolo"
+   },
+   "search": {
+      "message": "Cerca"
+   },
+   "search_": {
+      "message": "Cerca..."
+   },
+   "search_the_web": {
+      "message": "Cerca nel Web..."
+   },
+   "set_wallpaper_": {
+      "message": "Imposta sfondo..."
+   },
+   "settings": {
+      "message": "Impostazioni"
+   },
+   "show_all": {
+      "message": "Mostra tutto"
+   },
+   "show_in_folder": {
+      "message": "Mostra nella cartella"
+   },
+   "status": {
+      "message": "Stato"
+   },
+   "subscribe": {
+      "message": "Sottoscrivi"
+   },
+   "support": {
+      "message": "Supporto"
+   },
+   "today": {
+      "message": "Oggi alle"
+   },
+   "unsubscribe": {
+      "message": "Rimuovi sottoscrizione"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "Ieri alle"
+   }
+}

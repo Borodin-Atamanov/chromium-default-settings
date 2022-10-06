@@ -1,0 +1,203 @@
+{
+   "about": {
+      "message": "Par Favorites..."
+   },
+   "add": {
+      "message": "Pievienot"
+   },
+   "add_bookmark": {
+      "message": "Pievienot grāmatzīmi"
+   },
+   "add_folder": {
+      "message": "Pievienot mapi..."
+   },
+   "add_page": {
+      "message": "Pievienot lapu..."
+   },
+   "apps": {
+      "message": "Lietotnes"
+   },
+   "back": {
+      "message": "Atpakaļ"
+   },
+   "bookmark": {
+      "message": "Grāmatzīme"
+   },
+   "bookmark_manager": {
+      "message": "Grāmatzīmju pārvaldnieks"
+   },
+   "bookmarks": {
+      "message": "Grāmatzīmes"
+   },
+   "cancel": {
+      "message": "Atcelt"
+   },
+   "cancelled": {
+      "message": "Atcelts"
+   },
+   "close": {
+      "message": "Aizvērt"
+   },
+   "complete": {
+      "message": "Pabeigts"
+   },
+   "confirm": {
+      "message": "Apstiprināt"
+   },
+   "confirm_changes": {
+      "message": "Apstiprināt izmaiņas"
+   },
+   "confirm_permiission": {
+      "message": "Apstiprināt atļaujas"
+   },
+   "context_menu": {
+      "message": "Kontekstizvēlne"
+   },
+   "copy": {
+      "message": "Kopēt"
+   },
+   "cut": {
+      "message": "Izgriezt"
+   },
+   "default": {
+      "message": "Noklusējums"
+   },
+   "delete": {
+      "message": "Dzēst..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Vai tiešām vēlaties dzēst $1 vienumus?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Vai tiešām vēlaties dzēst $1?"
+   },
+   "deleted": {
+      "message": "Dzēsts"
+   },
+   "do_not_show_again": {
+      "message": "Sapratu, turpmāk vairs nerādīt!"
+   },
+   "downloads": {
+      "message": "Lejupielādes"
+   },
+   "edit": {
+      "message": "Rediģēt ..."
+   },
+   "experimental": {
+      "message": "Eksperimentāli"
+   },
+   "extensions": {
+      "message": "Paplašinājumi"
+   },
+   "favorites": {
+      "message": "Iecienītās"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Paplašinājumam Favorites nepieciešamas jaunas atļaujas"
+   },
+   "folder": {
+      "message": "Mape"
+   },
+   "forward": {
+      "message": "Pārsūtīt"
+   },
+   "got_it": {
+      "message": "Sapratu!"
+   },
+   "help": {
+      "message": "Palīdzība"
+   },
+   "history": {
+      "message": "Vēsture"
+   },
+   "more_information": {
+      "message": "Plašāka informācija"
+   },
+   "name": {
+      "message": "Nosaukums"
+   },
+   "new_tab": {
+      "message": "Jauna cilne"
+   },
+   "no_search_results_found": {
+      "message": "Netika atrasts neviens meklēšanas rezultāts."
+   },
+   "not_found": {
+      "message": "Nevar atrast"
+   },
+   "ok": {
+      "message": "Labi"
+   },
+   "open": {
+      "message": "Atvērt"
+   },
+   "open_all_links": {
+      "message": "Atvērt visas grāmatzīmes"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Atvērt visas grāmatzīmes inkognito režīma logā"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Atvērt visas grāmatzīmes jaunā logā"
+   },
+   "open_in_incognito_window": {
+      "message": "Atvērt inkognito režīma logā"
+   },
+   "open_in_new_tab": {
+      "message": "Atvērt jaunā cilnē"
+   },
+   "open_in_new_window": {
+      "message": "Atvērt jaunā logā"
+   },
+   "paste": {
+      "message": "Ielīmēt"
+   },
+   "permission_symbols": {
+      "message": "Lasīt jūsu apmeklēto vietņu ikonas"
+   },
+   "reload": {
+      "message": "Pārlādēt"
+   },
+   "remove": {
+      "message": "Noņemt"
+   },
+   "reorder_by_title": {
+      "message": "Pārkārtot pēc nosaukuma"
+   },
+   "search": {
+      "message": "Meklēt"
+   },
+   "search_": {
+      "message": "Meklēt..."
+   },
+   "search_the_web": {
+      "message": "Meklēt tīmeklī..."
+   },
+   "set_wallpaper_": {
+      "message": "Iestatīt fona tapeti..."
+   },
+   "settings": {
+      "message": "Iestatījumi"
+   },
+   "show_all": {
+      "message": "Rādīt visu"
+   },
+   "show_in_folder": {
+      "message": "Rādīt mapē"
+   },
+   "status": {
+      "message": "Statuss"
+   },
+   "support": {
+      "message": "Atbalsts"
+   },
+   "today": {
+      "message": "Šodien plkst. \u003Cph name=\"TODAY_DAYTIME\"/>"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "Vakar plkst. \u003Cph name=\"YESTERDAY_DAYTIME\"/>"
+   }
+}

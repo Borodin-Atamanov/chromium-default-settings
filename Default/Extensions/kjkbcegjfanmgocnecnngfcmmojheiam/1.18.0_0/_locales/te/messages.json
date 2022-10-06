@@ -1,0 +1,197 @@
+{
+   "about": {
+      "message": "Favorites గురించి..."
+   },
+   "add": {
+      "message": "జోడించు"
+   },
+   "add_bookmark": {
+      "message": "బుక్‌మార్క్‌ను జోడించండి"
+   },
+   "add_folder": {
+      "message": "ఫోల్డర్‌ను జోడించు..."
+   },
+   "add_page": {
+      "message": "పేజీని జోడించండి..."
+   },
+   "apps": {
+      "message": "యాప్స్"
+   },
+   "back": {
+      "message": "వెనుకకు"
+   },
+   "bookmark": {
+      "message": "బుక్‌మార్క్ చెయ్యి"
+   },
+   "bookmark_manager": {
+      "message": "బుక్‌మార్క్ సంచాలకులు"
+   },
+   "bookmarks": {
+      "message": "బుక్‌మార్క్‌లు"
+   },
+   "cancel": {
+      "message": "రద్దు చెయ్యి"
+   },
+   "cancelled": {
+      "message": "రద్దయింది"
+   },
+   "close": {
+      "message": "మూసివేయి"
+   },
+   "complete": {
+      "message": "పూర్తయింది"
+   },
+   "confirm": {
+      "message": "నిర్ధారించు"
+   },
+   "confirm_changes": {
+      "message": "మార్పులను నిర్ధారించు"
+   },
+   "confirm_permiission": {
+      "message": "అనుమతులు నిర్ధారించండి"
+   },
+   "context_menu": {
+      "message": "సందర్భ మెను"
+   },
+   "copy": {
+      "message": "కాపీ చెయ్యి"
+   },
+   "cut": {
+      "message": "కత్తిరించు"
+   },
+   "default": {
+      "message": "డిఫాల్ట్"
+   },
+   "delete": {
+      "message": "తొలగించు..."
+   },
+   "delete_item_confirm_many": {
+      "message": "మీరు $1 ఐటమ్‌లను ఖచ్చితంగా తొలగించాలనుకుంటున్నారా?"
+   },
+   "delete_item_confirm_single": {
+      "message": "మీరు \"$1\"ను ఖచ్చితంగా తొలగించాలనుకుంటున్నారా?"
+   },
+   "deleted": {
+      "message": "తొలగించబడింది"
+   },
+   "do_not_show_again": {
+      "message": "అర్థమైంది, నాకు దీన్ని మళ్లీ చూపవద్దు."
+   },
+   "downloads": {
+      "message": "డౌన్‌లోడ్‌లు"
+   },
+   "edit": {
+      "message": "సవరించు..."
+   },
+   "experimental": {
+      "message": "ప్రయోగాత్మకం"
+   },
+   "extensions": {
+      "message": "పొడిగింపులు"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favoritesకు క్రొత్త అనుమతులు అవసరం"
+   },
+   "folder": {
+      "message": "ఫోల్డర్"
+   },
+   "forward": {
+      "message": "ఫార్వార్డ్"
+   },
+   "got_it": {
+      "message": "అర్థమైంది"
+   },
+   "help": {
+      "message": "సహాయం"
+   },
+   "history": {
+      "message": "చరిత్ర"
+   },
+   "more_information": {
+      "message": "మరింత సమాచారం"
+   },
+   "name": {
+      "message": "పేరు"
+   },
+   "new_tab": {
+      "message": "కొత్త ట్యాబ్"
+   },
+   "no_search_results_found": {
+      "message": "శోధన ఫలితాలు ఏవీ కనుగొనబడలేదు"
+   },
+   "not_found": {
+      "message": "దొరకలేదు"
+   },
+   "ok": {
+      "message": "సరే"
+   },
+   "open": {
+      "message": "తెరువు"
+   },
+   "open_all_links": {
+      "message": "అన్ని బుక్‌మార్క్‌లను తెరువు"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "అన్ని బుక్‌మార్క్‌లను అజ్ఞాత విండోలో తెరువు"
+   },
+   "open_all_links_in_new_window": {
+      "message": "అన్ని బుక్‌మార్క్‌లను క్రొత్త విండోలో తెరువు"
+   },
+   "open_in_incognito_window": {
+      "message": "ఒక అజ్ఞాత విండోలో తెరువు"
+   },
+   "open_in_new_tab": {
+      "message": "క్రొత్త టాబ్‌లో తెరువు"
+   },
+   "open_in_new_window": {
+      "message": "క్రొత్త విండోలో తెరువు"
+   },
+   "paste": {
+      "message": "అతికించు"
+   },
+   "permission_symbols": {
+      "message": "మీరు సందర్శించే వెబ్‌సైట్‌ల చిహ్నాలను చదవడం"
+   },
+   "reload": {
+      "message": "రీలోడ్"
+   },
+   "remove": {
+      "message": "తీసివేయి"
+   },
+   "reorder_by_title": {
+      "message": "శీర్షిక ద్వారా క్రమాన్ని మార్చు"
+   },
+   "search": {
+      "message": "శోధించు"
+   },
+   "search_": {
+      "message": "శోధించు..."
+   },
+   "search_the_web": {
+      "message": "వెబ్‌లో శోధించండి..."
+   },
+   "set_wallpaper_": {
+      "message": "వాల్‌పేపర్‌ను సెట్ చేయి..."
+   },
+   "settings": {
+      "message": "సెట్టింగ్‌లు"
+   },
+   "show_all": {
+      "message": "అన్నీ చూపించు"
+   },
+   "show_in_folder": {
+      "message": "ఫోల్డర్‌లో చూపించు"
+   },
+   "status": {
+      "message": "స్థితి"
+   },
+   "today": {
+      "message": "ఈ రోజు"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "నిన్న"
+   }
+}

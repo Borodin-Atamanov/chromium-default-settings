@@ -1,0 +1,392 @@
+{
+   "cancelButton": {
+      "message": "取消"
+   },
+   "clouds_dropboxSync": {
+      "message": "使用 Dropbox 同步"
+   },
+   "clouds_dropboxSyncDescription": {
+      "message": "同步文件将会保存在 /Apps/uBlacklist/"
+   },
+   "clouds_dropboxSyncTurnedOn": {
+      "message": "已使用 Dropbox 同步"
+   },
+   "clouds_googleDriveSync": {
+      "message": "使用 Google Drive 同步"
+   },
+   "clouds_googleDriveSyncDescription": {
+      "message": "同步文件将会保存在一个用户不可见的应用程序数据文件夹中。"
+   },
+   "clouds_googleDriveSyncTurnedOn": {
+      "message": "已使用 Google Drive 同步"
+   },
+   "content_blockSiteLink": {
+      "message": "加入黑名单"
+   },
+   "content_hideBlockedSitesLink": {
+      "message": "隐藏"
+   },
+   "content_multipleSitesBlocked": {
+      "message": "uBlacklist 已经屏蔽了 $1 个网站"
+   },
+   "content_showBlockedSitesLink": {
+      "message": "显示"
+   },
+   "content_singleSiteBlocked": {
+      "message": "uBlacklist 已经屏蔽了 1 个网站"
+   },
+   "content_unblockSiteLink": {
+      "message": "不再屏蔽这个网站"
+   },
+   "error": {
+      "message": "出现错误: $1"
+   },
+   "extensionDescription": {
+      "message": "在谷歌的搜索结果中屏蔽特定的网站显示。"
+   },
+   "extensionName": {
+      "message": "uBlacklist"
+   },
+   "lang": {
+      "message": "zh-cn"
+   },
+   "okButton": {
+      "message": "确定"
+   },
+   "options_aboutDocumentation": {
+      "message": "文档"
+   },
+   "options_aboutPrivacyPolicy": {
+      "message": "隐私政策"
+   },
+   "options_aboutReleaseNotes": {
+      "message": "发行说明"
+   },
+   "options_aboutThirdPartyNotices": {
+      "message": "第三方声明"
+   },
+   "options_aboutTitle": {
+      "message": "关于 uBlacklist"
+   },
+   "options_aboutVersion": {
+      "message": "版本"
+   },
+   "options_addSubscriptionButton": {
+      "message": "添加订阅"
+   },
+   "options_addSubscriptionDialog_addButton": {
+      "message": "添加"
+   },
+   "options_addSubscriptionDialog_nameLabel": {
+      "message": "名称"
+   },
+   "options_addSubscriptionDialog_title": {
+      "message": "添加订阅"
+   },
+   "options_addSubscriptionDialog_urlLabel": {
+      "message": "订阅源地址"
+   },
+   "options_appearanceTitle": {
+      "message": "外观"
+   },
+   "options_blacklistExample": {
+      "message": "例如: $1"
+   },
+   "options_blacklistHelper": {
+      "message": "你可以使用 [匹配模式](https://developer.mozilla.org/zh-CN/docs/Mozilla/Add-ons/WebExtensions/Match_patterns) 或 [正则表达式](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions)。"
+   },
+   "options_blacklistLabel": {
+      "message": "在谷歌的搜索结果中将不会显示以下网站"
+   },
+   "options_blacklistUpdated": {
+      "message": "黑名单已更新"
+   },
+   "options_blockByTitle": {
+      "message": "要使用页面标题来屏蔽网站，请在正则表达式前添加「title」。"
+   },
+   "options_blockColor": {
+      "message": "被屏蔽的搜索结果的颜色"
+   },
+   "options_blockWholeSiteDescription": {
+      "message": "例如屏蔽 \"https://a.b.example.uk.com/\", 会添加 \"*://*.example.uk.com/*\" 规则"
+   },
+   "options_blockWholeSiteLabel": {
+      "message": "默认添加屏蔽整个网站的规则"
+   },
+   "options_colorSpecify": {
+      "message": "自定义"
+   },
+   "options_colorUseDefault": {
+      "message": "默认"
+   },
+   "options_dialogTheme": {
+      "message": "「加入黑名单」弹窗的主题"
+   },
+   "options_dialogThemeDark": {
+      "message": "深色"
+   },
+   "options_dialogThemeDefault": {
+      "message": "默认"
+   },
+   "options_dialogThemeLight": {
+      "message": "浅色"
+   },
+   "options_exportBlacklistButton": {
+      "message": "导出"
+   },
+   "options_generalTitle": {
+      "message": "常规"
+   },
+   "options_hideBlockLinksLabel": {
+      "message": "不在搜索结果中显示「加入黑名单」按钮"
+   },
+   "options_hideControlLabel": {
+      "message": "不在搜索结果页面顶部显示已被屏蔽的网站数量和「显示」按钮"
+   },
+   "options_highlightColorAdd": {
+      "message": "增加"
+   },
+   "options_highlightColorNth": {
+      "message": "颜色 $1"
+   },
+   "options_highlightColorRemove": {
+      "message": "移除"
+   },
+   "options_highlightColors": {
+      "message": "高亮显示的搜索结果的颜色"
+   },
+   "options_highlightDescription": {
+      "message": "要使用「颜色 N」来高亮显示某个搜索结果，请在规则前加上「@N」"
+   },
+   "options_importBlacklistButton": {
+      "message": "导入"
+   },
+   "options_importBlacklistDialog_append": {
+      "message": "附加到现有列表之后"
+   },
+   "options_importBlacklistDialog_fromFile": {
+      "message": "从文件中导入"
+   },
+   "options_importBlacklistDialog_fromPB": {
+      "message": "贴上从 Personal Blocklist 导出的网站黑名单"
+   },
+   "options_importBlacklistDialog_helper": {
+      "message": "贴上你从 Personal Blocklist 导出的的网站黑名单"
+   },
+   "options_importBlacklistDialog_importButton": {
+      "message": "导入"
+   },
+   "options_importBlacklistDialog_pbLabel": {
+      "message": "域名"
+   },
+   "options_importBlacklistDialog_selectFile": {
+      "message": "选择一个文件"
+   },
+   "options_importBlacklistDialog_title": {
+      "message": "导入"
+   },
+   "options_linkColor": {
+      "message": "链接的颜色"
+   },
+   "options_noSubscriptionsAdded": {
+      "message": "未添加任何订阅"
+   },
+   "options_otherSearchEngines": {
+      "message": "其他搜索引擎"
+   },
+   "options_otherSearchEnginesDescription": {
+      "message": "当前还支持以下搜索引擎（需要手动开启，并同意读取和更改网页数据）"
+   },
+   "options_registerSearchEngine": {
+      "message": "启用"
+   },
+   "options_reloadBlacklistButton": {
+      "message": "重新加载"
+   },
+   "options_removeSubscriptionMenu": {
+      "message": "移除此订阅"
+   },
+   "options_saveBlacklistButton": {
+      "message": "保存"
+   },
+   "options_searchEngineRegistered": {
+      "message": "已启用"
+   },
+   "options_showSubscriptionDialog_blacklistLabel": {
+      "message": "规则"
+   },
+   "options_showSubscriptionMenu": {
+      "message": "显示黑名单"
+   },
+   "options_skipBlockDialogLabel": {
+      "message": "加入黑名单时不显示确认提示框。"
+   },
+   "options_subscriptionCheckBoxLabel": {
+      "message": "启用"
+   },
+   "options_subscriptionFeature": {
+      "message": "订阅黑名单列表"
+   },
+   "options_subscriptionFeatureDescription": {
+      "message": "如果你添加了订阅，黑名单将会定期从指定的订阅源更新。"
+   },
+   "options_subscriptionMenuButtonLabel": {
+      "message": "菜单"
+   },
+   "options_subscriptionNameHeader": {
+      "message": "名称"
+   },
+   "options_subscriptionTitle": {
+      "message": "订阅"
+   },
+   "options_subscriptionURLHeader": {
+      "message": "订阅源地址"
+   },
+   "options_subscriptionUpdateResultHeader": {
+      "message": "最近更新"
+   },
+   "options_subscriptionUpdateRunning": {
+      "message": "正在更新..."
+   },
+   "options_syncAppearance": {
+      "message": "外观设置"
+   },
+   "options_syncBlocklist": {
+      "message": "屏蔽列表"
+   },
+   "options_syncCategories": {
+      "message": "同步选项"
+   },
+   "options_syncFeature": {
+      "message": "通过云端服务同步"
+   },
+   "options_syncFeatureDescription": {
+      "message": "可以通过云端服务在不同的设备之间同步你的黑名单数据。"
+   },
+   "options_syncFeatureUpdated": {
+      "message": "同步功能已更新。需要继续使用同步功能，请点击「开启同步」按钮。"
+   },
+   "options_syncGeneral": {
+      "message": "常规设置"
+   },
+   "options_syncInterval": {
+      "message": "同步间隔"
+   },
+   "options_syncNever": {
+      "message": "从未同步"
+   },
+   "options_syncNowButton": {
+      "message": "立即同步"
+   },
+   "options_syncReloadButton": {
+      "message": "重新加载"
+   },
+   "options_syncResult": {
+      "message": "最近同步"
+   },
+   "options_syncRunning": {
+      "message": "正在同步中..."
+   },
+   "options_syncSubscriptions": {
+      "message": "订阅设置"
+   },
+   "options_syncTitle": {
+      "message": "同步"
+   },
+   "options_turnOffSync": {
+      "message": "关闭同步"
+   },
+   "options_turnOnSync": {
+      "message": "开启同步"
+   },
+   "options_turnOnSyncDialog_altFlowAuthCodeLabel": {
+      "message": "认证码"
+   },
+   "options_turnOnSyncDialog_altFlowDescription": {
+      "message": "在认证之前，您可能会被要求获得访问 $1 的许可，但您的个人信息不会被存储在该域中。"
+   },
+   "options_turnOnSyncDialog_title": {
+      "message": "开启同步"
+   },
+   "options_turnOnSyncDialog_turnOnSyncButton": {
+      "message": "开启"
+   },
+   "options_turnOnSyncDialog_useAltFlow": {
+      "message": "在新标签页中打开认证页面"
+   },
+   "options_updateAllSubscriptionsNowButton": {
+      "message": "立即更新"
+   },
+   "options_updateInterval": {
+      "message": "更新间隔"
+   },
+   "options_updateSubscriptionNowMenu": {
+      "message": "立即更新"
+   },
+   "popup_activateButton": {
+      "message": "启用"
+   },
+   "popup_active": {
+      "message": "uBlacklist 已启用"
+   },
+   "popup_addedRulesLabel": {
+      "message": "要添加的规则"
+   },
+   "popup_blockSiteButton": {
+      "message": "确定"
+   },
+   "popup_blockSiteTitle": {
+      "message": "将该网站加入黑名单"
+   },
+   "popup_details": {
+      "message": "详情"
+   },
+   "popup_inactive": {
+      "message": "uBlacklist 已禁用"
+   },
+   "popup_openOptionsLink": {
+      "message": "选项"
+   },
+   "popup_pageTitleLabel": {
+      "message": "页面标题"
+   },
+   "popup_pageURLLabel": {
+      "message": "页面地址"
+   },
+   "popup_pathDepth": {
+      "message": "深度"
+   },
+   "popup_removedRulesLabel": {
+      "message": "要移除的规则"
+   },
+   "popup_unblockSiteButton": {
+      "message": "移除"
+   },
+   "popup_unblockSiteTitle": {
+      "message": "不再屏蔽这个网站"
+   },
+   "searchEngines_bingName": {
+      "message": "必应"
+   },
+   "searchEngines_braveName": {
+      "message": "Brave"
+   },
+   "searchEngines_duckduckgoName": {
+      "message": "DuckDuckGo"
+   },
+   "searchEngines_ecosiaName": {
+      "message": "Ecosia"
+   },
+   "searchEngines_googleName": {
+      "message": "谷歌"
+   },
+   "searchEngines_qwantName": {
+      "message": "Qwant"
+   },
+   "searchEngines_startpageName": {
+      "message": "Startpage.com"
+   },
+   "unauthorizedError": {
+      "message": "未授权的操作。请尝试先关闭同步后，再开启同步。"
+   }
+}

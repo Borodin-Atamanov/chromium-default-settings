@@ -1,0 +1,8 @@
+/*
+Copyright (c) 2017-2019 Marco Foit. All rights reserved.
+
+All portions of this file are the confidential and proprietary intellectual property of Marco Foit.
+Use of this file is permitted only within the Favorites Google Chrome™ extension as published on the Google Chrome Web Store™.
+
+For more information, see README.txt in the root directoy of this extension. Thank you!
+*/

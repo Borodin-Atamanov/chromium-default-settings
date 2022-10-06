@@ -1,0 +1,221 @@
+{
+   "about": {
+      "message": "關於 Favorites..."
+   },
+   "add": {
+      "message": "新增"
+   },
+   "add_bookmark": {
+      "message": "新增書籤"
+   },
+   "add_folder": {
+      "message": "新增資料夾..."
+   },
+   "add_page": {
+      "message": "新增網頁..."
+   },
+   "apps": {
+      "message": "應用程式"
+   },
+   "back": {
+      "message": "返回"
+   },
+   "bookmark": {
+      "message": "書籤"
+   },
+   "bookmark_manager": {
+      "message": "書籤管理員"
+   },
+   "bookmarks": {
+      "message": "書籤"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "cancelled": {
+      "message": "已取消"
+   },
+   "click_to_open_x": {
+      "message": "點擊以開啟 $1"
+   },
+   "close": {
+      "message": "關閉"
+   },
+   "colors_": {
+      "message": "色彩…"
+   },
+   "complete": {
+      "message": "完成"
+   },
+   "confirm": {
+      "message": "確認"
+   },
+   "confirm_changes": {
+      "message": "確認變更"
+   },
+   "confirm_permiission": {
+      "message": "確認權限"
+   },
+   "context_menu": {
+      "message": "內容選單"
+   },
+   "copy": {
+      "message": "複製"
+   },
+   "cut": {
+      "message": "剪下"
+   },
+   "dark": {
+      "message": "暗色調"
+   },
+   "default": {
+      "message": "預設"
+   },
+   "delete": {
+      "message": "刪除..."
+   },
+   "delete_item_confirm_many": {
+      "message": "您確定要刪除 $1 個項目嗎？"
+   },
+   "delete_item_confirm_single": {
+      "message": "您確定要刪除「$1」嗎？"
+   },
+   "deleted": {
+      "message": "已刪除"
+   },
+   "do_not_show_again": {
+      "message": "知道了，不要再顯示這則訊息。"
+   },
+   "downloads": {
+      "message": "下載"
+   },
+   "edit": {
+      "message": "編輯..."
+   },
+   "empty": {
+      "message": "Empty."
+   },
+   "experimental": {
+      "message": "實驗性"
+   },
+   "extensions": {
+      "message": "擴充功能"
+   },
+   "favorites": {
+      "message": "我的最愛"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites 需要新權限"
+   },
+   "folder": {
+      "message": "資料夾"
+   },
+   "forward": {
+      "message": "往前"
+   },
+   "got_it": {
+      "message": "我瞭解了"
+   },
+   "help": {
+      "message": "說明"
+   },
+   "history": {
+      "message": "歷史紀錄"
+   },
+   "more_information": {
+      "message": "更多資訊"
+   },
+   "name": {
+      "message": "名稱"
+   },
+   "new_tab": {
+      "message": "新增分頁"
+   },
+   "no_search_results_found": {
+      "message": "找不到相符的搜尋結果"
+   },
+   "not_found": {
+      "message": "找不到"
+   },
+   "ok": {
+      "message": "確定"
+   },
+   "open": {
+      "message": "開啟"
+   },
+   "open_all_links": {
+      "message": "開啟所有書籤"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "在無痕式視窗中開啟所有書籤"
+   },
+   "open_all_links_in_new_window": {
+      "message": "在新視窗中開啟所有書籤"
+   },
+   "open_in_incognito_window": {
+      "message": "在無痕式視窗中開啟"
+   },
+   "open_in_new_tab": {
+      "message": "在新分頁中開啟"
+   },
+   "open_in_new_window": {
+      "message": "在新視窗中開啟"
+   },
+   "paste": {
+      "message": "貼上"
+   },
+   "permission_symbols": {
+      "message": "讀取您所瀏覽網站的圖示"
+   },
+   "reload": {
+      "message": "重新載入"
+   },
+   "remove": {
+      "message": "移除"
+   },
+   "reorder_by_title": {
+      "message": "按標題重新排序"
+   },
+   "search": {
+      "message": "搜尋"
+   },
+   "search_": {
+      "message": "搜尋..."
+   },
+   "search_the_web": {
+      "message": "搜尋網頁..."
+   },
+   "set_wallpaper_": {
+      "message": "設定桌布..."
+   },
+   "settings": {
+      "message": "設定"
+   },
+   "show_all": {
+      "message": "全部顯示"
+   },
+   "show_in_folder": {
+      "message": "在資料夾中顯示"
+   },
+   "status": {
+      "message": "狀態"
+   },
+   "subscribe": {
+      "message": "訂閱"
+   },
+   "support": {
+      "message": "支援"
+   },
+   "today": {
+      "message": "今天\u003Cph name=\"TODAY_DAYTIME\"/>"
+   },
+   "unsubscribe": {
+      "message": "取消訂閱"
+   },
+   "url": {
+      "message": "網址"
+   },
+   "yesterday": {
+      "message": "昨天\u003Cph name=\"YESTERDAY_DAYTIME\"/>"
+   }
+}

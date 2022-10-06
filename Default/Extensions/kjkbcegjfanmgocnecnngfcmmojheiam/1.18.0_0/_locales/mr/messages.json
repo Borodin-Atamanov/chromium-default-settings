@@ -1,0 +1,203 @@
+{
+   "about": {
+      "message": "Favorites बद्दल..."
+   },
+   "add": {
+      "message": "जोडा"
+   },
+   "add_bookmark": {
+      "message": "बुकमार्क जोडा"
+   },
+   "add_folder": {
+      "message": "फोल्डर जोडा..."
+   },
+   "add_page": {
+      "message": "पृष्ठ जोडा..."
+   },
+   "apps": {
+      "message": "अनुप्रयोग"
+   },
+   "back": {
+      "message": "मागील"
+   },
+   "bookmark": {
+      "message": "बुकमार्क"
+   },
+   "bookmark_manager": {
+      "message": "बुकमार्क व्यवस्थापक"
+   },
+   "bookmarks": {
+      "message": "Bookmarks"
+   },
+   "cancel": {
+      "message": "रद्द करा"
+   },
+   "cancelled": {
+      "message": "रद्द झाले"
+   },
+   "close": {
+      "message": "बंद करा"
+   },
+   "complete": {
+      "message": "पूर्ण"
+   },
+   "confirm": {
+      "message": "पुष्टी करा"
+   },
+   "confirm_changes": {
+      "message": "बदलांची पुष्‍टी करा"
+   },
+   "confirm_permiission": {
+      "message": "परवानग्यांची पुष्टी करा"
+   },
+   "context_menu": {
+      "message": "संदर्भ मेनू"
+   },
+   "copy": {
+      "message": "कॉपी करा"
+   },
+   "cut": {
+      "message": "कट करा"
+   },
+   "default": {
+      "message": "डीफॉल्ट"
+   },
+   "delete": {
+      "message": "हटवा..."
+   },
+   "delete_item_confirm_many": {
+      "message": "आपली खात्री आहे की आपण $1 आयटम हटवू इच्छिता?"
+   },
+   "delete_item_confirm_single": {
+      "message": "आपली खात्री आहे की आपण \"$1\" हटवू इच्छिता?"
+   },
+   "deleted": {
+      "message": "हटविला"
+   },
+   "do_not_show_again": {
+      "message": "मला समजले, मला हे पुन्हा दर्शवू नका."
+   },
+   "downloads": {
+      "message": "डाउनलोड"
+   },
+   "edit": {
+      "message": "संपादन..."
+   },
+   "experimental": {
+      "message": "प्रायोगिक"
+   },
+   "extensions": {
+      "message": "विस्तार"
+   },
+   "favorites": {
+      "message": "पसंत"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites ला नवीन परवानग्या आवश्‍यक आहेत"
+   },
+   "folder": {
+      "message": "फोल्डर"
+   },
+   "forward": {
+      "message": "पुढील"
+   },
+   "got_it": {
+      "message": "समजले"
+   },
+   "help": {
+      "message": "मदत"
+   },
+   "history": {
+      "message": "इतिहास"
+   },
+   "more_information": {
+      "message": "अधिक माहिती"
+   },
+   "name": {
+      "message": "नाव"
+   },
+   "new_tab": {
+      "message": "नवीन टॅब"
+   },
+   "no_search_results_found": {
+      "message": "कोणतेही शोध परिणाम आढळले नाहीत"
+   },
+   "not_found": {
+      "message": "आढळली नाही"
+   },
+   "ok": {
+      "message": "ठीक आहे"
+   },
+   "open": {
+      "message": "उघडा"
+   },
+   "open_all_links": {
+      "message": "सर्व बुकमार्क उघडा"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "सर्व बुकमार्क गुप्त विंडोमध्ये उघडा"
+   },
+   "open_all_links_in_new_window": {
+      "message": "सर्व बुकमार्क नवीन विंडोमध्ये उघडा"
+   },
+   "open_in_incognito_window": {
+      "message": "गुप्त विंडोमध्ये उघडा"
+   },
+   "open_in_new_tab": {
+      "message": "नवीन विंडोमध्ये उघडा"
+   },
+   "open_in_new_window": {
+      "message": "नवीन विंडोमध्ये उघडा"
+   },
+   "paste": {
+      "message": "पेस्ट करा"
+   },
+   "permission_symbols": {
+      "message": "आपण भेट देता त्या वेबसाइटची चिन्हे वाचा"
+   },
+   "reload": {
+      "message": "रीलोड करा"
+   },
+   "remove": {
+      "message": "काढा"
+   },
+   "reorder_by_title": {
+      "message": "शीर्षकानुसार पुन्हा क्रमवारी लावा"
+   },
+   "search": {
+      "message": "शोधा"
+   },
+   "search_": {
+      "message": "शोधा..."
+   },
+   "search_the_web": {
+      "message": "वेबवर शोधा..."
+   },
+   "set_wallpaper_": {
+      "message": "वॉलपेपर सेट करा..."
+   },
+   "settings": {
+      "message": "सेटिंग्ज"
+   },
+   "show_all": {
+      "message": "सर्व दर्शवा"
+   },
+   "show_in_folder": {
+      "message": "फोल्डरमध्ये दर्शवा"
+   },
+   "status": {
+      "message": "स्थिती"
+   },
+   "support": {
+      "message": "समर्थन"
+   },
+   "today": {
+      "message": "आज"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "काल"
+   }
+}

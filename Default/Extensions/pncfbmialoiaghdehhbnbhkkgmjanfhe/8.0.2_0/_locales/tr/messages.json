@@ -1,0 +1,59 @@
+{
+   "clouds_dropboxSync": {
+      "message": "Dropbox ile senkronize et"
+   },
+   "clouds_googleDriveSync": {
+      "message": "Google Drive ile senkronize et"
+   },
+   "content_blockSiteLink": {
+      "message": "Bu siteyi engelle"
+   },
+   "content_hideBlockedSitesLink": {
+      "message": "Gizle"
+   },
+   "content_multipleSitesBlocked": {
+      "message": "uBlacklist $1 siteyi engelledi"
+   },
+   "content_showBlockedSitesLink": {
+      "message": "Göster"
+   },
+   "content_singleSiteBlocked": {
+      "message": "uBlacklist 1 siteyi engelledi"
+   },
+   "content_unblockSiteLink": {
+      "message": "Bu sitenin engelini kaldır"
+   },
+   "extensionDescription": {
+      "message": "Seçili sitelerin Google arama sonuçlarında görünmesini engeller"
+   },
+   "extensionName": {
+      "message": "uBlacklist"
+   },
+   "lang": {
+      "message": "tr"
+   },
+   "okButton": {
+      "message": "Tamam"
+   },
+   "options_blacklistHelper": {
+      "message": "[Eşleşme desenleri](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Match_patterns) veya [düzenli ifadeler](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) kullanabilirsiniz."
+   },
+   "options_blacklistLabel": {
+      "message": "Google arama sonuçlarında görünmesi engellenen siteler"
+   },
+   "options_importBlacklistDialog_helper": {
+      "message": "Personal Blocklist eklentisinden dışa aktarılmış alan adı listesini yapıştırın."
+   },
+   "options_importBlacklistDialog_importButton": {
+      "message": "İçe aktar"
+   },
+   "options_turnOnSync": {
+      "message": "Senkronizasyonu etkinleştir"
+   },
+   "popup_blockSiteTitle": {
+      "message": "Bu siteyi engelle"
+   },
+   "popup_unblockSiteTitle": {
+      "message": "Bu sitenin engelini kaldır"
+   }
+}

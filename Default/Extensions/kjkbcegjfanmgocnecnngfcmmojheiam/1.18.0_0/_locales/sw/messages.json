@@ -1,0 +1,197 @@
+{
+   "about": {
+      "message": "Kuhusu Favorites..."
+   },
+   "add": {
+      "message": "Ongeza"
+   },
+   "add_bookmark": {
+      "message": "Ongeza alamisho"
+   },
+   "add_folder": {
+      "message": "Ongeza folda..."
+   },
+   "add_page": {
+      "message": "Ongeza ukurasa..."
+   },
+   "apps": {
+      "message": "Programu"
+   },
+   "back": {
+      "message": "Nyuma"
+   },
+   "bookmark": {
+      "message": "Alamisho"
+   },
+   "bookmark_manager": {
+      "message": "Kidhibiti Alamisho"
+   },
+   "bookmarks": {
+      "message": "Alamisho"
+   },
+   "cancel": {
+      "message": "Ghairi"
+   },
+   "cancelled": {
+      "message": "Imeghairiwa"
+   },
+   "close": {
+      "message": "Funga"
+   },
+   "complete": {
+      "message": "Imekamilika"
+   },
+   "confirm": {
+      "message": "Thibitisha"
+   },
+   "confirm_changes": {
+      "message": "Thibitisha Mabadiliko"
+   },
+   "confirm_permiission": {
+      "message": "Thibitisha Vibali"
+   },
+   "context_menu": {
+      "message": "Menyu"
+   },
+   "copy": {
+      "message": "Nakili"
+   },
+   "cut": {
+      "message": "Kata"
+   },
+   "default": {
+      "message": "Chaguo Msingi"
+   },
+   "delete": {
+      "message": "Futa..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Je, una uhakika unataka kufuta vipengee %1$?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Je, una uhakika unataka kufuta \"$1\"?"
+   },
+   "deleted": {
+      "message": "Imeondolewa"
+   },
+   "do_not_show_again": {
+      "message": "Nimeelewa, usioneshe hili tena"
+   },
+   "downloads": {
+      "message": "Vipakuliwa"
+   },
+   "edit": {
+      "message": "Badilisha..."
+   },
+   "experimental": {
+      "message": "Majaribio"
+   },
+   "extensions": {
+      "message": "Viendelezi"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites inahitaji vibali vipya"
+   },
+   "folder": {
+      "message": "Folda"
+   },
+   "forward": {
+      "message": "Mbele"
+   },
+   "got_it": {
+      "message": "Nimeelewa"
+   },
+   "help": {
+      "message": "Msaada"
+   },
+   "history": {
+      "message": "Historia"
+   },
+   "more_information": {
+      "message": "Maelezo Zaidi"
+   },
+   "name": {
+      "message": "Jina"
+   },
+   "new_tab": {
+      "message": "Kichupo Kipya"
+   },
+   "no_search_results_found": {
+      "message": "Hakuna matokeo ya utafutaji yaliyopatikana"
+   },
+   "not_found": {
+      "message": "Haikupatikana"
+   },
+   "ok": {
+      "message": "Sawa"
+   },
+   "open": {
+      "message": "Fungua"
+   },
+   "open_all_links": {
+      "message": "Fungua Alamisho Zote"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Fungua Alamisho Zote katika Dirisha Fiche"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Fungua Alamisho Zote katika Dirisha Jipya"
+   },
+   "open_in_incognito_window": {
+      "message": "Fungua kwenye dirisha chini kwa chini"
+   },
+   "open_in_new_tab": {
+      "message": "Fungua katika kichupo kipya"
+   },
+   "open_in_new_window": {
+      "message": "Fungua katika dirisha jipya"
+   },
+   "paste": {
+      "message": "Bandika"
+   },
+   "permission_symbols": {
+      "message": "Soma aikoni za tovuti unazozitembelea"
+   },
+   "reload": {
+      "message": "Pakia upya"
+   },
+   "remove": {
+      "message": "Ondoa"
+   },
+   "reorder_by_title": {
+      "message": "Panga tena kwa vichwa"
+   },
+   "search": {
+      "message": "Tafuta"
+   },
+   "search_": {
+      "message": "Tafuta..."
+   },
+   "search_the_web": {
+      "message": "Tafuta Wavuti..."
+   },
+   "set_wallpaper_": {
+      "message": "Weka Mandhari..."
+   },
+   "settings": {
+      "message": "Mipangilio"
+   },
+   "show_all": {
+      "message": "Onyesha zote"
+   },
+   "show_in_folder": {
+      "message": "Onyesha katika Folda"
+   },
+   "status": {
+      "message": "Hali"
+   },
+   "today": {
+      "message": "Leo"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "Jana"
+   }
+}

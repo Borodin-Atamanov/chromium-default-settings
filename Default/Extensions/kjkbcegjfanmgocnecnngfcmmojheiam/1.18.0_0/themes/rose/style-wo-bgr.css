@@ -1,0 +1,60 @@
+:root {
+  --theme-background-color: #CDA398;
+}
+html:before {
+  content: '';
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -1000;
+  background-color: #CDA398;
+}
+:root {
+  --theme-dock-background-color: rgba(255, 255, 255, 0.2);
+}
+:root {
+  --theme-icon-border-radius: 8px;
+  --theme-icon-filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.2));
+  --theme-text-color: #6c4c44;
+  --theme-path-border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  --theme-dock-box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.01);
+  --theme-scrollbar-thumb-background-color: rgba(0, 0, 0, 0.1);
+  --theme-scrollbar-thumb-background-color-hover: rgba(0, 0, 0, 0.3);
+  --theme-overlay-color: rgba(239, 202, 195, 0.15);
+  --theme-overlay-color-input: #EFCAC3;
+  --theme-overlay-color-selected: #EFCAC3;
+  --theme-overlay-color-hover: rgba(239, 202, 195, 0.1);
+  --theme-overlay-color-border: rgba(239, 202, 195, 0.15);
+  --dash-icon-background-color: #EFCAC3;
+  --dash-icon-color: #BD9185;
+  --clock-analog-2-dial-color: #EFCAC3;
+  --clock-analog-2-hands-color: #EFCAC3;
+  --clock-analog-2-hands-inner-color: #BD9185;
+  --clock-analog-3-dial-color: rgba(189, 145, 133, 0.6);
+  --clock-analog-3-hands-color: #EFCAC3;
+}
+:root {
+  --theme-icon-folder-color: #fff7f5;
+  --theme-icon-folder-background-color: #B67868;
+  --theme-icon-bookmarks-color: #fff7f5;
+  --theme-icon-bookmarks-background-color: #B67868;
+  --theme-icon-history-color: #fff7f5;
+  --theme-icon-history-background-color: #B67868;
+  --theme-icon-downloads-color: #fff7f5;
+  --theme-icon-downloads-background-color: #B67868;
+  --theme-icon-settings-color: #fff7f5;
+  --theme-icon-settings-background-color: #B67868;
+  --theme-icon-extensions-color: #fff7f5;
+  --theme-icon-extensions-background-color: #B67868;
+  --theme-icon-apps-color: #fff7f5;
+  --theme-icon-apps-background-color: #B67868;
+  --theme-icon-games-color: #fff7f5;
+  --theme-icon-games-background-color: #B67868;
+  --theme-icon-news-color: #fff7f5;
+  --theme-icon-news-background-color: #B67868;
+  --theme-icon-chrome-color: #fff7f5;
+  --theme-icon-chrome-background-color: #B67868;
+}

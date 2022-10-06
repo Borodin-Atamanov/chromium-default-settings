@@ -1,0 +1,197 @@
+{
+    "new_tab": {
+        "message": "כרטיסייה חדשה"
+    },
+    "open_in_new_tab": {
+        "message": "פתח בכרטיסייה חדשה"
+    },
+    "open_in_new_window": {
+        "message": "פתח בחלון חדש"
+    },
+    "open_in_incognito_window": {
+        "message": "פתח בחלון גלישה בסתר"
+    },
+    "open_all_links": {
+        "message": "פתח את כל הסימניות"
+    },
+    "open_all_links_in_new_window": {
+        "message": "פתח את כל הסימניות בחלון חדש"
+    },
+    "open_all_links_in_new_incognito_window": {
+        "message": "פתח את כל הסימניות בחלון גלישה בסתר"
+    },
+    "edit": {
+        "message": "ערוך..."
+    },
+    "delete": {
+        "message": "מחק..."
+    },
+    "search_": {
+        "message": "חפש..."
+    },
+    "show_all": {
+        "message": "הצג הכל"
+    },
+    "back": {
+        "message": "חזור"
+    },
+    "forward": {
+        "message": "קדימה"
+    },
+    "reload": {
+        "message": "טען שוב"
+    },
+    "add_page": {
+        "message": "הוסף דף..."
+    },
+    "add_folder": {
+        "message": "הוסף תיקיה..."
+    },
+    "add_bookmark": {
+        "message": "הוסף סימניה"
+    },
+    "reorder_by_title": {
+        "message": "סדר מחדש לפי כותרת"
+    },
+    "delete_item_confirm_single": {
+        "message": "האם אתה בטוח שברצונך למחוק את \"$1\"?"
+    },
+    "delete_item_confirm_many": {
+        "message": "האם אתה בטוח שברצונך למחוק את פריטי $1 אלה?"
+    },
+    "name": {
+        "message": "שם"
+    },
+    "url": {
+        "message": "כתובת אתר"
+    },
+    "ok": {
+        "message": "אישור"
+    },
+    "cancel": {
+        "message": "ביטול"
+    },
+    "confirm_changes": {
+        "message": "אשר שינויים"
+    },
+    "settings": {
+        "message": "הגדרות"
+    },
+    "bookmark": {
+        "message": "סימניה"
+    },
+    "bookmarks": {
+        "message": "סימניות"
+    },
+    "bookmark_manager": {
+        "message": "מנהל הסימניות"
+    },
+    "history": {
+        "message": "היסטוריה"
+    },
+    "downloads": {
+        "message": "הורדות"
+    },
+    "apps": {
+        "message": "אפליקציות"
+    },
+    "extensions": {
+        "message": "תוספים"
+    },
+    "folder": {
+        "message": "תיקיה"
+    },
+    "context_menu": {
+        "message": "תפריט הקשר"
+    },
+    "copy": {
+        "message": "העתק"
+    },
+    "cut": {
+        "message": "חתוך"
+    },
+    "paste": {
+        "message": "הדבק"
+    },
+    "close": {
+        "message": "סגור"
+    },
+    "status": {
+        "message": "סטטוס"
+    },
+    "experimental": {
+        "message": "ניסיוני"
+    },
+    "do_not_show_again": {
+        "message": "הבנתי, אל תציג הודעה זו שוב."
+    },
+    "about": {
+        "message": "מידע על Favorites..."
+    },
+    "not_found": {
+        "message": "לא נמצא"
+    },
+    "add": {
+        "message": "הוסף"
+    },
+    "remove": {
+        "message": "הסר"
+    },
+    "search_the_web": {
+        "message": "חפש באינטרנט..."
+    },
+    "set_wallpaper_": {
+        "message": "הגדר טפט..."
+    },
+    "no_search_results_found": {
+        "message": "לא נמצאו תוצאות חיפוש"
+    },
+    "deleted": {
+        "message": "נמחק"
+    },
+    "cancelled": {
+        "message": "בוטל"
+    },
+    "complete": {
+        "message": "בוצע"
+    },
+    "open": {
+        "message": "פתח"
+    },
+    "today": {
+        "message": "היום"
+    },
+    "yesterday": {
+        "message": "אתמול"
+    },
+    "default": {
+        "message": "ברירת מחדל"
+    },
+    "help": {
+        "message": "עזרה"
+    },
+    "got_it": {
+        "message": "הבנתי"
+    },
+    "show_in_folder": {
+        "message": "הצג בתיקייה"
+    },
+    "search": {
+        "message": "חפש"
+    },
+    "confirm": {
+        "message": "אישור"
+    },
+    "confirm_permiission": {
+        "message": "אשר הרשאות"
+    },
+    "more_information": {
+        "message": "מידע נוסף"
+    },
+    "favorites_requires_new_permissions": {
+        "message": "Favorites דורש הרשאות חדשות"
+    },
+    "permission_symbols": {
+        "message": "קריאה של סמלי האתרים שבהם אתה מבקר"
+    }
+}

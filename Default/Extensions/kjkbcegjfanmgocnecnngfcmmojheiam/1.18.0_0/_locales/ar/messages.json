@@ -1,0 +1,215 @@
+{
+   "about": {
+      "message": "حول Favorites..."
+   },
+   "add": {
+      "message": "إضافة"
+   },
+   "add_bookmark": {
+      "message": "إضافة إشارة مرجعية"
+   },
+   "add_folder": {
+      "message": "إضافة مجلد..."
+   },
+   "add_page": {
+      "message": "إضافة صفحة..."
+   },
+   "apps": {
+      "message": "تطبيقات"
+   },
+   "back": {
+      "message": "الرجوع إلى الوراء"
+   },
+   "bookmark": {
+      "message": "إشارة"
+   },
+   "bookmark_manager": {
+      "message": "مدير الإشارات"
+   },
+   "bookmarks": {
+      "message": "إشارات"
+   },
+   "cancel": {
+      "message": "إلغاء"
+   },
+   "cancelled": {
+      "message": "تم الإلغاء"
+   },
+   "close": {
+      "message": "إغلاق"
+   },
+   "colors_": {
+      "message": "الألوان…"
+   },
+   "complete": {
+      "message": "مكتمل"
+   },
+   "confirm": {
+      "message": "التأكيد"
+   },
+   "confirm_changes": {
+      "message": "تأكيد التغييرات"
+   },
+   "confirm_permiission": {
+      "message": "تأكيد الأذونات"
+   },
+   "context_menu": {
+      "message": "قائمة السياق"
+   },
+   "copy": {
+      "message": "نسخ"
+   },
+   "cut": {
+      "message": "قص"
+   },
+   "dark": {
+      "message": "غامق"
+   },
+   "default": {
+      "message": "الافتراضي"
+   },
+   "delete": {
+      "message": "حذف..."
+   },
+   "delete_item_confirm_many": {
+      "message": "هل تريد فعلًا حذف عناصر $1؟"
+   },
+   "delete_item_confirm_single": {
+      "message": "هل تريد فعلًا حذف \"$1\"؟"
+   },
+   "deleted": {
+      "message": "تم الحذف"
+   },
+   "do_not_show_again": {
+      "message": "أعي ذلك، عدم إظهار هذا لي مرة أخرى."
+   },
+   "downloads": {
+      "message": "التنزيلات"
+   },
+   "edit": {
+      "message": "تعديل..."
+   },
+   "empty": {
+      "message": "Empty."
+   },
+   "experimental": {
+      "message": "تجريبي"
+   },
+   "extensions": {
+      "message": "الإضافات"
+   },
+   "favorites": {
+      "message": "المفضلات"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites تتطلب أذونات جديدة"
+   },
+   "folder": {
+      "message": "المجلد"
+   },
+   "forward": {
+      "message": "إلى الأمام"
+   },
+   "got_it": {
+      "message": "تم"
+   },
+   "help": {
+      "message": "تعليمات"
+   },
+   "history": {
+      "message": "السجل"
+   },
+   "more_information": {
+      "message": "مزيد من المعلومات"
+   },
+   "name": {
+      "message": "الاسم"
+   },
+   "new_tab": {
+      "message": "علامة تبويب جديدة"
+   },
+   "no_search_results_found": {
+      "message": "لم يتم العثور على أي نتائج بحث"
+   },
+   "not_found": {
+      "message": "لم يتم العثور على الصفحة"
+   },
+   "ok": {
+      "message": "موافق"
+   },
+   "open": {
+      "message": "فتح"
+   },
+   "open_all_links": {
+      "message": "فتح كل الإشارات المرجعية"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "فتح كل الإشارات المرجعية في نافذة التصفح المتخفي"
+   },
+   "open_all_links_in_new_window": {
+      "message": "فتح كل الإشارات المرجعية في نافذة جديدة"
+   },
+   "open_in_incognito_window": {
+      "message": "فتح في نافذة التصفح المتخفي"
+   },
+   "open_in_new_tab": {
+      "message": "فتح الإشارة في علامة تبويب جديدة"
+   },
+   "open_in_new_window": {
+      "message": "فتح في نافذة جديدة"
+   },
+   "paste": {
+      "message": "لصق"
+   },
+   "permission_symbols": {
+      "message": "قراءة رموز مواقع الويب التي تزورها"
+   },
+   "reload": {
+      "message": "إعادة تحميل"
+   },
+   "remove": {
+      "message": "إزالة"
+   },
+   "reorder_by_title": {
+      "message": "إعادة الترتيب بحسب العنوان"
+   },
+   "search": {
+      "message": "البحث"
+   },
+   "search_": {
+      "message": "البحث..."
+   },
+   "search_the_web": {
+      "message": "البحث في الويب..."
+   },
+   "set_wallpaper_": {
+      "message": "تعيين خلفية..."
+   },
+   "settings": {
+      "message": "إعدادات"
+   },
+   "show_all": {
+      "message": "عرض الكل"
+   },
+   "show_in_folder": {
+      "message": "عرض في المجلد"
+   },
+   "status": {
+      "message": "الحالة"
+   },
+   "subscribe": {
+      "message": "اشترِك"
+   },
+   "today": {
+      "message": "اليوم"
+   },
+   "unsubscribe": {
+      "message": "ألغِ الاشتراك"
+   },
+   "url": {
+      "message": "‏عنوان URL"
+   },
+   "yesterday": {
+      "message": "الأمس"
+   }
+}

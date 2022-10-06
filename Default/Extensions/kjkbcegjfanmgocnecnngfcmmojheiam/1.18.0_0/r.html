@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>&#xFEFF;</title>
+<style id="theme"></style>
+<link rel="shortcut icon" type="image/x-icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
+<script>
+document.getElementById("theme").textContent = (localStorage.getItem('style/theme')||'') + (localStorage.getItem('style/background')||'') + (localStorage.getItem('style/background-filter')||'');
+if(history.state) {
+	history.replaceState(null, null, location.href);
+	setTimeout(()=>{
+		history.back()
+	}, 50)
+}
+else {
+	history.replaceState({ redirect : true }, null, location.href);
+	setTimeout(()=>{
+		chrome.tabs.update(null, { url : decodeURIComponent(location.search.substr(1)) })
+	}, 50)
+}
+</script>
+</head>
+<body>
+</body>
+</html>

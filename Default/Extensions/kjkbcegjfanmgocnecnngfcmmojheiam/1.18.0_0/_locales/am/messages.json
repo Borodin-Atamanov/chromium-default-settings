@@ -1,0 +1,197 @@
+{
+   "about": {
+      "message": "ስለ Favorites..."
+   },
+   "add": {
+      "message": "አክል"
+   },
+   "add_bookmark": {
+      "message": "ዕልባት ያክሉ"
+   },
+   "add_folder": {
+      "message": "አቃፊ አክል..."
+   },
+   "add_page": {
+      "message": "ገጽ አክል..."
+   },
+   "apps": {
+      "message": "መተግበሪያዎች"
+   },
+   "back": {
+      "message": "ተመለስ"
+   },
+   "bookmark": {
+      "message": "ዕልባት"
+   },
+   "bookmark_manager": {
+      "message": "ዕልባት አቀናባሪ"
+   },
+   "bookmarks": {
+      "message": "ዕልባቶች"
+   },
+   "cancel": {
+      "message": "ይቅር"
+   },
+   "cancelled": {
+      "message": "ተሰርዟል"
+   },
+   "close": {
+      "message": "ዝጋ"
+   },
+   "complete": {
+      "message": "ተጠናቅቋል"
+   },
+   "confirm": {
+      "message": "አረጋግጥ"
+   },
+   "confirm_changes": {
+      "message": "ለውጦችን ያረጋግጡ"
+   },
+   "confirm_permiission": {
+      "message": "ፍቃዶችን ያረጋግጡ"
+   },
+   "context_menu": {
+      "message": "የአውድ ምናሌ"
+   },
+   "copy": {
+      "message": "ቅዳ"
+   },
+   "cut": {
+      "message": "ቁረጥ"
+   },
+   "default": {
+      "message": "እንደወረደ"
+   },
+   "delete": {
+      "message": "ሰርዝ..."
+   },
+   "delete_item_confirm_many": {
+      "message": "እርግጠኛ ነዎት $1 ንጥሎችን መሰረዝ ይፈልጋሉ?"
+   },
+   "delete_item_confirm_single": {
+      "message": "እርግጠኛ ነዎት «$1»ን መሰረዝ ይፈልጋሉ?"
+   },
+   "deleted": {
+      "message": "ተሰርዟል"
+   },
+   "do_not_show_again": {
+      "message": "ገባኝ፣ ይህን ዳግም አታሳየኝ።"
+   },
+   "downloads": {
+      "message": "የወረዱ"
+   },
+   "edit": {
+      "message": "አርትዕ…"
+   },
+   "experimental": {
+      "message": "ሙከራ"
+   },
+   "extensions": {
+      "message": "ቅጥያዎች"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites አዲስ ፍቃዶችን ይፈልጋል"
+   },
+   "folder": {
+      "message": "አቃፊ"
+   },
+   "forward": {
+      "message": "ወደ ፊት"
+   },
+   "got_it": {
+      "message": "ገባኝ"
+   },
+   "help": {
+      "message": "እገዛ"
+   },
+   "history": {
+      "message": "ታሪክ"
+   },
+   "more_information": {
+      "message": "ተጨማሪ መረጃ"
+   },
+   "name": {
+      "message": "ስም"
+   },
+   "new_tab": {
+      "message": "አዲስ ትር"
+   },
+   "no_search_results_found": {
+      "message": "ምንም የፍለጋ ውጤቶች አልተገኙም"
+   },
+   "not_found": {
+      "message": "አልተገኘም"
+   },
+   "ok": {
+      "message": "ይሁን"
+   },
+   "open": {
+      "message": "ክፈት"
+   },
+   "open_all_links": {
+      "message": "ሀሉንም እልባቶች ክፈት"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "ሁሉንም እልባቶች ማንነትን በማያሳውቅ መስኮት ውስጥ ክፈት"
+   },
+   "open_all_links_in_new_window": {
+      "message": "ሁሉንም እልባቶች በአዲስ መስኮት ክፈት"
+   },
+   "open_in_incognito_window": {
+      "message": "በማንነትን የማያሳውቅ መስኮት ክፈት"
+   },
+   "open_in_new_tab": {
+      "message": "በአዲስ ትር ክፈት"
+   },
+   "open_in_new_window": {
+      "message": "በአዲስ መስኮት ውስጥ ክፈት"
+   },
+   "paste": {
+      "message": "ለጥፍ"
+   },
+   "permission_symbols": {
+      "message": "የሚጎበኟቸውን የድር ጣቢያዎች አዶዎች ያነብባል"
+   },
+   "reload": {
+      "message": "ዳግም ጫን"
+   },
+   "remove": {
+      "message": "አስወግድ"
+   },
+   "reorder_by_title": {
+      "message": "በርዕስ ቅደም ተከተል አስይዝ"
+   },
+   "search": {
+      "message": "ፍለጋ "
+   },
+   "search_": {
+      "message": "ፍለጋ ..."
+   },
+   "search_the_web": {
+      "message": "ድሩን ፈልግ..."
+   },
+   "set_wallpaper_": {
+      "message": "ልጣፍ አዘጋጅ..."
+   },
+   "settings": {
+      "message": "ቅንብሮች"
+   },
+   "show_all": {
+      "message": "ሁሉንም አሳይ"
+   },
+   "show_in_folder": {
+      "message": "በአቃፊ አሳይ"
+   },
+   "status": {
+      "message": "ሁኔታ"
+   },
+   "today": {
+      "message": "ዛሬ"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "ትላንትና"
+   }
+}

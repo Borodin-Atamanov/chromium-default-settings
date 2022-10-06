@@ -1,0 +1,221 @@
+{
+   "about": {
+      "message": "Tietoja tuotteesta Favorites..."
+   },
+   "add": {
+      "message": "Lisää"
+   },
+   "add_bookmark": {
+      "message": "Lisää kirjanmerkki"
+   },
+   "add_folder": {
+      "message": "Lisää kansio..."
+   },
+   "add_page": {
+      "message": "Lisää sivu..."
+   },
+   "apps": {
+      "message": "Sovellukset"
+   },
+   "back": {
+      "message": "Edellinen"
+   },
+   "bookmark": {
+      "message": "Kirjanmerkki"
+   },
+   "bookmark_manager": {
+      "message": "Kirjanmerkkien hallinta"
+   },
+   "bookmarks": {
+      "message": "Kirjanmerkit"
+   },
+   "cancel": {
+      "message": "Peruuta"
+   },
+   "cancelled": {
+      "message": "Peruutettu"
+   },
+   "click_to_open_x": {
+      "message": "Näpäytä avataksesi $1"
+   },
+   "close": {
+      "message": "Sulje"
+   },
+   "colors_": {
+      "message": "Värit…"
+   },
+   "complete": {
+      "message": "Valmis"
+   },
+   "confirm": {
+      "message": "Vahvista"
+   },
+   "confirm_changes": {
+      "message": "Vahvista muutokset"
+   },
+   "confirm_permiission": {
+      "message": "Vahvista luvat"
+   },
+   "context_menu": {
+      "message": "Kontekstivalikko"
+   },
+   "copy": {
+      "message": "Kopioi"
+   },
+   "cut": {
+      "message": "Leikkaa"
+   },
+   "dark": {
+      "message": "Tumma"
+   },
+   "default": {
+      "message": "Oletus"
+   },
+   "delete": {
+      "message": "Poista..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Haluatko varmasti poistaa $1 kohdetta?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Haluatko varmasti poistaa kohteen $1?"
+   },
+   "deleted": {
+      "message": "Poistettu"
+   },
+   "do_not_show_again": {
+      "message": "Ymmärrän, älä näytä uudelleen."
+   },
+   "downloads": {
+      "message": "Lataukset"
+   },
+   "edit": {
+      "message": "Muokkaa..."
+   },
+   "empty": {
+      "message": "Empty."
+   },
+   "experimental": {
+      "message": "Kokeellinen"
+   },
+   "extensions": {
+      "message": "Laajennukset"
+   },
+   "favorites": {
+      "message": "Suosikit"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites vaatii uusia käyttölupia"
+   },
+   "folder": {
+      "message": "Kansio"
+   },
+   "forward": {
+      "message": "Seuraava"
+   },
+   "got_it": {
+      "message": "Ymmärretty"
+   },
+   "help": {
+      "message": "Ohje"
+   },
+   "history": {
+      "message": "Historia"
+   },
+   "more_information": {
+      "message": "Lisätietoja"
+   },
+   "name": {
+      "message": "Nimi"
+   },
+   "new_tab": {
+      "message": "Uusi välilehti"
+   },
+   "no_search_results_found": {
+      "message": "Ei hakutuloksia"
+   },
+   "not_found": {
+      "message": "Ei löydy"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open": {
+      "message": "Avaa"
+   },
+   "open_all_links": {
+      "message": "Avaa kaikki kirjanmerkit"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Avaa kaikki kirjanmerkit incognito-ikkunassa"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Avaa kaikki kirjanmerkit uudessa ikkunassa"
+   },
+   "open_in_incognito_window": {
+      "message": "Avaa incognito-ikkunassa"
+   },
+   "open_in_new_tab": {
+      "message": "Avaa uudessa välilehdessä"
+   },
+   "open_in_new_window": {
+      "message": "Avaa uudessa ikkunassa"
+   },
+   "paste": {
+      "message": "Liitä"
+   },
+   "permission_symbols": {
+      "message": "Käyttää selaamiesi sivustojen kuvakkeita"
+   },
+   "reload": {
+      "message": "Lataa uudelleen"
+   },
+   "remove": {
+      "message": "Poista"
+   },
+   "reorder_by_title": {
+      "message": "Järjestä otsikon mukaan"
+   },
+   "search": {
+      "message": "Haku"
+   },
+   "search_": {
+      "message": "Haku..."
+   },
+   "search_the_web": {
+      "message": "Haku verkosta..."
+   },
+   "set_wallpaper_": {
+      "message": "Aseta taustakuva..."
+   },
+   "settings": {
+      "message": "Asetukset"
+   },
+   "show_all": {
+      "message": "Näytä kaikki"
+   },
+   "show_in_folder": {
+      "message": "Näytä kansiossa"
+   },
+   "status": {
+      "message": "Tila"
+   },
+   "subscribe": {
+      "message": "Tilaa"
+   },
+   "support": {
+      "message": "Tuki"
+   },
+   "today": {
+      "message": "Tänään"
+   },
+   "unsubscribe": {
+      "message": "Peruuta tilaus"
+   },
+   "url": {
+      "message": "URL-osoite"
+   },
+   "yesterday": {
+      "message": "Eilen"
+   }
+}

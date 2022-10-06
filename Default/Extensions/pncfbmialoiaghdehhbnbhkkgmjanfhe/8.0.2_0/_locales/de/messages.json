@@ -1,0 +1,404 @@
+{
+   "cancelButton": {
+      "message": "Abbrechen"
+   },
+   "clouds_dropboxSync": {
+      "message": "Mit Dropbox synchronisieren"
+   },
+   "clouds_dropboxSyncDescription": {
+      "message": "Unter \"/Apps/uBlacklist/\" wird eine Datei erstellt."
+   },
+   "clouds_dropboxSyncTurnedOn": {
+      "message": "Mit Dropbox synchronisiert"
+   },
+   "clouds_googleDriveSync": {
+      "message": "Mit Google Drive synchronisieren"
+   },
+   "clouds_googleDriveSyncDescription": {
+      "message": "Im Datenverzeichnis der Anwendung wird eine vor dem Benutzer versteckte Datei erstellt."
+   },
+   "clouds_googleDriveSyncTurnedOn": {
+      "message": "Mit Google Drive synchronisiert"
+   },
+   "content_blockSiteLink": {
+      "message": "Diese Seite blockieren"
+   },
+   "content_hideBlockedSitesLink": {
+      "message": "Ausblenden"
+   },
+   "content_multipleSitesBlocked": {
+      "message": "uBlacklist hat $1 Seiten blockiert"
+   },
+   "content_showBlockedSitesLink": {
+      "message": "Anzeigen"
+   },
+   "content_singleSiteBlocked": {
+      "message": "uBlacklist hat eine Seite blockiert"
+   },
+   "content_unblockSiteLink": {
+      "message": "Diese Seite nicht blockieren"
+   },
+   "error": {
+      "message": "Fehler: $1"
+   },
+   "extensionDescription": {
+      "message": "Blockiert Seiten damit diese nicht in den Suchergebnissen von Google auftauchen"
+   },
+   "extensionName": {
+      "message": "uBlacklist"
+   },
+   "lang": {
+      "message": "de"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "options_aboutDocumentation": {
+      "message": "Dokumentation"
+   },
+   "options_aboutPrivacyPolicy": {
+      "message": "Datenschutzbestimmungen"
+   },
+   "options_aboutReleaseNotes": {
+      "message": "Versionshinweise"
+   },
+   "options_aboutThirdPartyNotices": {
+      "message": "Hinweise von Drittanbietern"
+   },
+   "options_aboutTitle": {
+      "message": "Über uBlacklist"
+   },
+   "options_aboutVersion": {
+      "message": "Version"
+   },
+   "options_addSubscriptionButton": {
+      "message": "Abonnement hinzufügen"
+   },
+   "options_addSubscriptionDialog_addButton": {
+      "message": "Hinzufügen"
+   },
+   "options_addSubscriptionDialog_nameLabel": {
+      "message": "Name"
+   },
+   "options_addSubscriptionDialog_title": {
+      "message": "Abonnement hinzufügen"
+   },
+   "options_addSubscriptionDialog_urlLabel": {
+      "message": "URL"
+   },
+   "options_appearanceTitle": {
+      "message": "Aussehen"
+   },
+   "options_blacklistExample": {
+      "message": "Beispiel: $1"
+   },
+   "options_blacklistHelper": {
+      "message": "Sie können [Muster](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Match_patterns) oder [reguläre Ausdrücke](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) verwenden."
+   },
+   "options_blacklistLabel": {
+      "message": "Seiten die in den Suchergebnissen von Google blockiert sind"
+   },
+   "options_blacklistUpdated": {
+      "message": "Aktualisiert"
+   },
+   "options_blockByTitle": {
+      "message": "Um Seiten über deren Seitentitel zu blockieren, müssen Sie \"title\" vor reguläre Ausdrücke voranstellen."
+   },
+   "options_blockColor": {
+      "message": "Die Farbe von blockierten Suchergebnissen"
+   },
+   "options_blockWholeSiteDescription": {
+      "message": "Beispiel: Um die Seite \"https://a.b.example.uk.com/\" zu blockieren, wird die Regel \"*://*.example.uk.com/*\" hinzugefügt."
+   },
+   "options_blockWholeSiteLabel": {
+      "message": "Regeln hinzufügen, komplette Seiten standardmäßig zu blockieren"
+   },
+   "options_colorSpecify": {
+      "message": "Benutzerdefiniert"
+   },
+   "options_colorUseDefault": {
+      "message": "Standard"
+   },
+   "options_dialogTheme": {
+      "message": "Das Thema des \"Diese Seite blockieren\"-Dialog in den Suchergebnissen"
+   },
+   "options_dialogThemeDark": {
+      "message": "Dunkel"
+   },
+   "options_dialogThemeDefault": {
+      "message": "Standard"
+   },
+   "options_dialogThemeLight": {
+      "message": "Hell"
+   },
+   "options_exportBlacklistButton": {
+      "message": "Exportieren"
+   },
+   "options_generalTitle": {
+      "message": "Allgemein"
+   },
+   "options_hideBlockLinksLabel": {
+      "message": "\"Diese Seite blockieren\"-Links ausblenden"
+   },
+   "options_hideControlLabel": {
+      "message": "Anzahl der blockierten Seiten und den \"Anzeigen\"-Link ausblenden"
+   },
+   "options_highlightColorAdd": {
+      "message": "Hinzufügen"
+   },
+   "options_highlightColorNth": {
+      "message": "Farbe $1"
+   },
+   "options_highlightColorRemove": {
+      "message": "Entfernen"
+   },
+   "options_highlightColors": {
+      "message": "Die Farbe von hervorgehobenen Suchergebnissen"
+   },
+   "options_highlightDescription": {
+      "message": "Um Suchergebnisse mit der Farbe N hervorzuheben, müssen Sie \"@N\" der Regel voranstellen."
+   },
+   "options_importBlacklistButton": {
+      "message": "Importieren"
+   },
+   "options_importBlacklistDialog_append": {
+      "message": "An existierende Liste anhängen"
+   },
+   "options_importBlacklistDialog_fromFile": {
+      "message": "Aus Datei importieren"
+   },
+   "options_importBlacklistDialog_fromPB": {
+      "message": "Von persönlicher Sperrliste importieren"
+   },
+   "options_importBlacklistDialog_helper": {
+      "message": "Einfügen der von der persönlichen Sperrliste exportierten Domänen."
+   },
+   "options_importBlacklistDialog_importButton": {
+      "message": "Importieren"
+   },
+   "options_importBlacklistDialog_pbLabel": {
+      "message": "Domänen"
+   },
+   "options_importBlacklistDialog_selectFile": {
+      "message": "Datei auswählen"
+   },
+   "options_importBlacklistDialog_title": {
+      "message": "Importieren"
+   },
+   "options_linkColor": {
+      "message": "Die Farbe von Links"
+   },
+   "options_noSubscriptionsAdded": {
+      "message": "Keine Abonnements hinzugefügt"
+   },
+   "options_otherSearchEngines": {
+      "message": "Andere Suchmaschinen"
+   },
+   "options_otherSearchEnginesDescription": {
+      "message": "Sie können diese Erweiterung auf den nachfolgenden Suchmaschinen verwenden."
+   },
+   "options_registerSearchEngine": {
+      "message": "Aktivieren"
+   },
+   "options_reloadBlacklistButton": {
+      "message": "Neu laden"
+   },
+   "options_removeSubscriptionMenu": {
+      "message": "Entfernen"
+   },
+   "options_saveBlacklistButton": {
+      "message": "Speichern"
+   },
+   "options_searchEngineRegistered": {
+      "message": "Aktiviert"
+   },
+   "options_showSubscriptionDialog_blacklistLabel": {
+      "message": "Regeln"
+   },
+   "options_showSubscriptionMenu": {
+      "message": "Anzeigen"
+   },
+   "options_skipBlockDialogLabel": {
+      "message": "\"Diese Seite blockieren\"-Dialog überspringen"
+   },
+   "options_subscriptionCheckBoxLabel": {
+      "message": "Aktiviert"
+   },
+   "options_subscriptionFeature": {
+      "message": "Sperrlisten abonnieren"
+   },
+   "options_subscriptionFeatureDescription": {
+      "message": "Wenn Sie ein Abonnement hinzufügen, werden die Sperrlisten regelmäßig von der festgelegten URL heruntergeladen."
+   },
+   "options_subscriptionMenuButtonLabel": {
+      "message": "Menü"
+   },
+   "options_subscriptionNameHeader": {
+      "message": "Name"
+   },
+   "options_subscriptionTitle": {
+      "message": "Abonnement"
+   },
+   "options_subscriptionURLHeader": {
+      "message": "URL"
+   },
+   "options_subscriptionUpdateResultHeader": {
+      "message": "Letzte Aktualisierung"
+   },
+   "options_subscriptionUpdateRunning": {
+      "message": "Aktualisiere..."
+   },
+   "options_syncAppearance": {
+      "message": "Aussehen"
+   },
+   "options_syncBlocklist": {
+      "message": "Blockierte Seiten"
+   },
+   "options_syncCategories": {
+      "message": "Was synchronisiert wird"
+   },
+   "options_syncFeature": {
+      "message": "Mit Cloud synchronisieren"
+   },
+   "options_syncFeatureDescription": {
+      "message": "Sie können Ihre Sperrlisten über die Cloud mit all Ihren Geräte synchronisieren."
+   },
+   "options_syncFeatureUpdated": {
+      "message": "Die Funktion für das Synchronisieren wurde aktualisiert. Um die Synchronisation weiter verwenden zu können, drücken Sie auf \"Synchronisation einschalten\"."
+   },
+   "options_syncGeneral": {
+      "message": "Allgemeine Einstellungen"
+   },
+   "options_syncInterval": {
+      "message": "Synchronisationsintervall"
+   },
+   "options_syncNever": {
+      "message": "Noch nie synchronisiert"
+   },
+   "options_syncNowButton": {
+      "message": "Jetzt synchronisieren"
+   },
+   "options_syncReloadButton": {
+      "message": "Neu laden"
+   },
+   "options_syncResult": {
+      "message": "Letzte Synchronisation"
+   },
+   "options_syncRunning": {
+      "message": "Synchronisiere..."
+   },
+   "options_syncSubscriptions": {
+      "message": "Abonnements"
+   },
+   "options_syncTitle": {
+      "message": "Synchronisieren"
+   },
+   "options_turnOffSync": {
+      "message": "Ausschalten"
+   },
+   "options_turnOnSync": {
+      "message": "Synchronisation einschalten"
+   },
+   "options_turnOnSyncDialog_altFlowAuthCodeLabel": {
+      "message": "Autorisationsschlüssel"
+   },
+   "options_turnOnSyncDialog_altFlowDescription": {
+      "message": "Sie werden vor der Authentifizierung möglicherweise nach Berechtigungen für den Zugriff auf $1 geafragt. Ihre persönlichen Daten werden jedoch NICHT unter der Domäne gespeichert."
+   },
+   "options_turnOnSyncDialog_title": {
+      "message": "Synchronisation einschalten"
+   },
+   "options_turnOnSyncDialog_turnOnSyncButton": {
+      "message": "Einschalten"
+   },
+   "options_turnOnSyncDialog_useAltFlow": {
+      "message": "Authentifizierungsseite in neuem Tab öffnen"
+   },
+   "options_updateAllSubscriptionsNowButton": {
+      "message": "Jetzt aktualisieren"
+   },
+   "options_updateInterval": {
+      "message": "Aktualisierungsintervall"
+   },
+   "options_updateSubscriptionNowMenu": {
+      "message": "Jetzt aktualisieren"
+   },
+   "popup_activateButton": {
+      "message": "Aktivieren"
+   },
+   "popup_active": {
+      "message": "uBlacklist ist aktiv"
+   },
+   "popup_addedRulesLabel": {
+      "message": "Regeln die hinzugefügt werden"
+   },
+   "popup_blockSiteButton": {
+      "message": "Blockieren"
+   },
+   "popup_blockSiteTitle": {
+      "message": "Diese Seite blockieren"
+   },
+   "popup_details": {
+      "message": "Details"
+   },
+   "popup_inactive": {
+      "message": "uBlacklist ist inaktiv"
+   },
+   "popup_openOptionsLink": {
+      "message": "Optionen"
+   },
+   "popup_pageTitleLabel": {
+      "message": "Seitentitel"
+   },
+   "popup_pageURLLabel": {
+      "message": "Seiten-URL"
+   },
+   "popup_pathDepth": {
+      "message": "Pfadtiefe"
+   },
+   "popup_removedRulesLabel": {
+      "message": "Regeln die entfernt werden"
+   },
+   "popup_unblockSiteButton": {
+      "message": "Aufheben"
+   },
+   "popup_unblockSiteTitle": {
+      "message": "Diese Seite nicht blockieren"
+   },
+   "searchEngines_bingDescription_firefox": {
+      "message": "\"Links aus Suchergebnissen in einem neuen Tab oder Fenster öffnen\" deaktivieren."
+   },
+   "searchEngines_bingName": {
+      "message": "Bing"
+   },
+   "searchEngines_braveName": {
+      "message": "Brave"
+   },
+   "searchEngines_duckduckgoName": {
+      "message": "DuckDuckGo"
+   },
+   "searchEngines_ecosiaName": {
+      "message": "Ecosia"
+   },
+   "searchEngines_googleName": {
+      "message": "Google"
+   },
+   "searchEngines_qwantDescription": {
+      "message": "\"Immer Videos auf Qwant.com abspielen\" deaktivieren."
+   },
+   "searchEngines_qwantName": {
+      "message": "Qwant"
+   },
+   "searchEngines_startpageName": {
+      "message": "Startpage.com"
+   },
+   "searchEngines_yahooJapanName": {
+      "message": "Yahoo! JAPAN"
+   },
+   "searchEngines_yandexName": {
+      "message": "Yandex"
+   },
+   "unauthorizedError": {
+      "message": "Nicht autorisiert. Bitte Synchronisation aus- und wieder einschalten."
+   }
+}

@@ -1,0 +1,218 @@
+{
+   "about": {
+      "message": "关于Favorites..."
+   },
+   "add": {
+      "message": "添加"
+   },
+   "add_bookmark": {
+      "message": "添加书签"
+   },
+   "add_folder": {
+      "message": "添加文件夹..."
+   },
+   "add_page": {
+      "message": "添加网页..."
+   },
+   "apps": {
+      "message": "应用"
+   },
+   "back": {
+      "message": "后退"
+   },
+   "bookmark": {
+      "message": "已保存的书签"
+   },
+   "bookmark_manager": {
+      "message": "书签管理器"
+   },
+   "bookmarks": {
+      "message": "书签"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "cancelled": {
+      "message": "已取消"
+   },
+   "close": {
+      "message": "关闭"
+   },
+   "colors_": {
+      "message": "颜色…"
+   },
+   "complete": {
+      "message": "已完成"
+   },
+   "confirm": {
+      "message": "确认"
+   },
+   "confirm_changes": {
+      "message": "确认更改"
+   },
+   "confirm_permiission": {
+      "message": "确认权限"
+   },
+   "context_menu": {
+      "message": "上下文菜单"
+   },
+   "copy": {
+      "message": "复制"
+   },
+   "cut": {
+      "message": "剪切"
+   },
+   "dark": {
+      "message": "暗色"
+   },
+   "default": {
+      "message": "默认"
+   },
+   "delete": {
+      "message": "删除..."
+   },
+   "delete_item_confirm_many": {
+      "message": "您确定要删除这 $1 项吗？"
+   },
+   "delete_item_confirm_single": {
+      "message": "您确定要删除“$1”吗？"
+   },
+   "deleted": {
+      "message": "已删除"
+   },
+   "do_not_show_again": {
+      "message": "知道了，以后不要再显示此信息。"
+   },
+   "downloads": {
+      "message": "下载内容"
+   },
+   "edit": {
+      "message": "修改..."
+   },
+   "empty": {
+      "message": "空的。"
+   },
+   "experimental": {
+      "message": "实验性"
+   },
+   "extensions": {
+      "message": "扩展程序"
+   },
+   "favorites": {
+      "message": "收藏夹"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites 需要新的权限"
+   },
+   "folder": {
+      "message": "文件夹"
+   },
+   "forward": {
+      "message": "前进"
+   },
+   "got_it": {
+      "message": "知道了"
+   },
+   "help": {
+      "message": "帮助"
+   },
+   "history": {
+      "message": "历史记录"
+   },
+   "more_information": {
+      "message": "详细信息"
+   },
+   "name": {
+      "message": "名称"
+   },
+   "new_tab": {
+      "message": "新标签页"
+   },
+   "no_search_results_found": {
+      "message": "未找到任何搜索结果"
+   },
+   "not_found": {
+      "message": "未找到"
+   },
+   "ok": {
+      "message": "确定"
+   },
+   "open": {
+      "message": "打开"
+   },
+   "open_all_links": {
+      "message": "打开所有书签"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "在隐身窗口中打开所有书签"
+   },
+   "open_all_links_in_new_window": {
+      "message": "在新窗口中打开所有书签"
+   },
+   "open_in_incognito_window": {
+      "message": "在隐身窗口中打开"
+   },
+   "open_in_new_tab": {
+      "message": "在新标签页中打开"
+   },
+   "open_in_new_window": {
+      "message": "在新窗口中打开"
+   },
+   "paste": {
+      "message": "粘贴"
+   },
+   "permission_symbols": {
+      "message": "读取您访问过的网站对应的图标"
+   },
+   "reload": {
+      "message": "重新加载"
+   },
+   "remove": {
+      "message": "移除"
+   },
+   "reorder_by_title": {
+      "message": "按标题重新排序"
+   },
+   "search": {
+      "message": "搜索"
+   },
+   "search_": {
+      "message": "搜索..."
+   },
+   "search_the_web": {
+      "message": "搜索网页..."
+   },
+   "set_wallpaper_": {
+      "message": "设置壁纸..."
+   },
+   "settings": {
+      "message": "设置"
+   },
+   "show_all": {
+      "message": "全部显示"
+   },
+   "show_in_folder": {
+      "message": "在文件夹中显示"
+   },
+   "status": {
+      "message": "状态"
+   },
+   "subscribe": {
+      "message": "订阅"
+   },
+   "support": {
+      "message": "支持"
+   },
+   "today": {
+      "message": "今天\u003Cph name=\"TODAY_DAYTIME\"/>"
+   },
+   "unsubscribe": {
+      "message": "取消订阅"
+   },
+   "url": {
+      "message": "网址"
+   },
+   "yesterday": {
+      "message": "昨天\u003Cph name=\"YESTERDAY_DAYTIME\"/>"
+   }
+}

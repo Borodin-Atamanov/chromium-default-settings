@@ -1,0 +1,212 @@
+{
+   "about": {
+      "message": "Tentang Favorites..."
+   },
+   "add": {
+      "message": "Tambahkan"
+   },
+   "add_bookmark": {
+      "message": "Tambahkan bookmark"
+   },
+   "add_folder": {
+      "message": "Tambahkan map..."
+   },
+   "add_page": {
+      "message": "Tambahkan laman..."
+   },
+   "apps": {
+      "message": "Apl"
+   },
+   "back": {
+      "message": "Mundur"
+   },
+   "bookmark": {
+      "message": "Bookmark"
+   },
+   "bookmark_manager": {
+      "message": "Pengelola Bookmark"
+   },
+   "bookmarks": {
+      "message": "Bookmark"
+   },
+   "cancel": {
+      "message": "Batal"
+   },
+   "cancelled": {
+      "message": "Dibatalkan"
+   },
+   "close": {
+      "message": "Tutup"
+   },
+   "colors_": {
+      "message": "Colors…"
+   },
+   "complete": {
+      "message": "Selesai"
+   },
+   "confirm": {
+      "message": "Konfirmasi"
+   },
+   "confirm_changes": {
+      "message": "Konfirmasikan Perubahan"
+   },
+   "confirm_permiission": {
+      "message": "Konfirmasi Izin"
+   },
+   "context_menu": {
+      "message": "Menu konteks"
+   },
+   "copy": {
+      "message": "Salin"
+   },
+   "cut": {
+      "message": "Potong"
+   },
+   "dark": {
+      "message": "Gelap"
+   },
+   "default": {
+      "message": "Default"
+   },
+   "delete": {
+      "message": "Hapus..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Yakin ingin menghapus $1 item?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Yakin ingin menghapus \"$1\"?"
+   },
+   "deleted": {
+      "message": "Dihapus"
+   },
+   "do_not_show_again": {
+      "message": "Mengerti, jangan tampilkan ini lagi."
+   },
+   "downloads": {
+      "message": "Download"
+   },
+   "edit": {
+      "message": "Edit..."
+   },
+   "empty": {
+      "message": "Kosong."
+   },
+   "experimental": {
+      "message": "Eksperimental"
+   },
+   "extensions": {
+      "message": "Ekstensi"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites memerlukan izin baru"
+   },
+   "folder": {
+      "message": "Folder"
+   },
+   "forward": {
+      "message": "Maju"
+   },
+   "got_it": {
+      "message": "Mengerti"
+   },
+   "help": {
+      "message": "Bantuan"
+   },
+   "history": {
+      "message": "Riwayat"
+   },
+   "more_information": {
+      "message": "Informasi selengkapnya"
+   },
+   "name": {
+      "message": "Nama"
+   },
+   "new_tab": {
+      "message": "Tab Baru"
+   },
+   "no_search_results_found": {
+      "message": "Hasil penelusuran tidak ditemukan"
+   },
+   "not_found": {
+      "message": "Tidak Ditemukan"
+   },
+   "ok": {
+      "message": "Oke"
+   },
+   "open": {
+      "message": "Buka"
+   },
+   "open_all_links": {
+      "message": "Buka Semua Bookmark"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Buka Semua Bookmark di Jendela Penyamaran"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Buka Semua Bookmark di Jendela Baru"
+   },
+   "open_in_incognito_window": {
+      "message": "Buka di jendela penyamaran"
+   },
+   "open_in_new_tab": {
+      "message": "Buka di tab baru"
+   },
+   "open_in_new_window": {
+      "message": "Buka di jendela baru"
+   },
+   "paste": {
+      "message": "Sisipkan"
+   },
+   "permission_symbols": {
+      "message": "Membaca ikon situs web yang Anda kunjungi"
+   },
+   "reload": {
+      "message": "Muat ulang"
+   },
+   "remove": {
+      "message": "Hapus"
+   },
+   "reorder_by_title": {
+      "message": "Susun ulang menurut judul"
+   },
+   "search": {
+      "message": "Telusuri"
+   },
+   "search_": {
+      "message": "Telusuri..."
+   },
+   "search_the_web": {
+      "message": "Telusuri Web..."
+   },
+   "set_wallpaper_": {
+      "message": "Setel wallpaper..."
+   },
+   "settings": {
+      "message": "Setelan"
+   },
+   "show_all": {
+      "message": "Tampilkan semua"
+   },
+   "show_in_folder": {
+      "message": "Tampilkan dalam Folder"
+   },
+   "status": {
+      "message": "Status"
+   },
+   "subscribe": {
+      "message": "Berlangganan"
+   },
+   "today": {
+      "message": "\u003Cph name=\"TODAY_DAYTIME\"/> hari ini"
+   },
+   "unsubscribe": {
+      "message": "Berhenti Langganan"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "\u003Cph name=\"YESTERDAY_DAYTIME\"/> kemarin"
+   }
+}

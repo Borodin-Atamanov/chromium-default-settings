@@ -1,0 +1,197 @@
+{
+   "about": {
+      "message": "Mengenai Favorites..."
+   },
+   "add": {
+      "message": "Tambah"
+   },
+   "add_bookmark": {
+      "message": "Tambah penanda halaman"
+   },
+   "add_folder": {
+      "message": "Tambah folder..."
+   },
+   "add_page": {
+      "message": "Tambah halaman..."
+   },
+   "apps": {
+      "message": "Apl"
+   },
+   "back": {
+      "message": "Kembali"
+   },
+   "bookmark": {
+      "message": "Penanda halaman"
+   },
+   "bookmark_manager": {
+      "message": "Pengurus Penanda Halaman"
+   },
+   "bookmarks": {
+      "message": "Penanda buku"
+   },
+   "cancel": {
+      "message": "Batal"
+   },
+   "cancelled": {
+      "message": "Dibatalkan"
+   },
+   "close": {
+      "message": "Tutup"
+   },
+   "complete": {
+      "message": "Selesai"
+   },
+   "confirm": {
+      "message": "Sahkan"
+   },
+   "confirm_changes": {
+      "message": "Sahkan Perubahan"
+   },
+   "confirm_permiission": {
+      "message": "Sahkan Kebenaran"
+   },
+   "context_menu": {
+      "message": "Menu konteks"
+   },
+   "copy": {
+      "message": "Salin"
+   },
+   "cut": {
+      "message": "Potong"
+   },
+   "default": {
+      "message": "Lalai"
+   },
+   "delete": {
+      "message": "Padam..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Adakah anda pasti anda mahu memadamkan item $1?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Adakah anda pasti anda mahu memadamkan \"$1\"?"
+   },
+   "deleted": {
+      "message": "Dipadamkan"
+   },
+   "do_not_show_again": {
+      "message": "Saya faham, jangan tunjukkan ini kepada saya lagi."
+   },
+   "downloads": {
+      "message": "Muat turun"
+   },
+   "edit": {
+      "message": "Edit..."
+   },
+   "experimental": {
+      "message": "Percubaan"
+   },
+   "extensions": {
+      "message": "Pelanjutan"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites memerlukan kebenaran baharu"
+   },
+   "folder": {
+      "message": "Folder"
+   },
+   "forward": {
+      "message": "Majukan"
+   },
+   "got_it": {
+      "message": "Faham"
+   },
+   "help": {
+      "message": "Bantuan"
+   },
+   "history": {
+      "message": "Sejarah"
+   },
+   "more_information": {
+      "message": "Maklumat lanjut"
+   },
+   "name": {
+      "message": "Nama"
+   },
+   "new_tab": {
+      "message": "Tab Baharu"
+   },
+   "no_search_results_found": {
+      "message": "Tiada hasil carian ditemui"
+   },
+   "not_found": {
+      "message": "Tidak Ditemui"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open": {
+      "message": "Buka"
+   },
+   "open_all_links": {
+      "message": "Buka Semua Penanda Halaman"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Buka Semua Penanda Halaman dalam Tetingkap Inkognito"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Buka Semua Penanda Halaman dalam Tetingkap Baharu"
+   },
+   "open_in_incognito_window": {
+      "message": "Buka dalam tetingkap inkognito"
+   },
+   "open_in_new_tab": {
+      "message": "Buka dalam tab baharu"
+   },
+   "open_in_new_window": {
+      "message": "Buka dalam tetingkap baharu"
+   },
+   "paste": {
+      "message": "Tampal"
+   },
+   "permission_symbols": {
+      "message": "Baca ikon tapak web yang anda lawati"
+   },
+   "reload": {
+      "message": "Muat Semula"
+   },
+   "remove": {
+      "message": "Alih keluar"
+   },
+   "reorder_by_title": {
+      "message": "Aturkan semula mengikut tajuk"
+   },
+   "search": {
+      "message": "Carian"
+   },
+   "search_": {
+      "message": "Carian..."
+   },
+   "search_the_web": {
+      "message": "Cari di Web..."
+   },
+   "set_wallpaper_": {
+      "message": "Tetapkan kertas dinding..."
+   },
+   "settings": {
+      "message": "Tetapan"
+   },
+   "show_all": {
+      "message": "Paparkan semua"
+   },
+   "show_in_folder": {
+      "message": "Paparkan dalam Folder"
+   },
+   "status": {
+      "message": "Status"
+   },
+   "today": {
+      "message": "Hari ini"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "Semalam"
+   }
+}

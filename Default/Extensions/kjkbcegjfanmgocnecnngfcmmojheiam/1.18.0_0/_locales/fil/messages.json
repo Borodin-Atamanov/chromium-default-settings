@@ -1,0 +1,197 @@
+{
+   "about": {
+      "message": "Tungkol sa Favorites..."
+   },
+   "add": {
+      "message": "Magdagdag"
+   },
+   "add_bookmark": {
+      "message": "Magdagdag ng bookmark"
+   },
+   "add_folder": {
+      "message": "Magdagdag ng folder..."
+   },
+   "add_page": {
+      "message": "Magdagdag ng Pahina..."
+   },
+   "apps": {
+      "message": "Mga App"
+   },
+   "back": {
+      "message": "Bumalik"
+   },
+   "bookmark": {
+      "message": "Bookmark"
+   },
+   "bookmark_manager": {
+      "message": "Bookmark Manager"
+   },
+   "bookmarks": {
+      "message": "Mga Bookmark"
+   },
+   "cancel": {
+      "message": "Ikansela"
+   },
+   "cancelled": {
+      "message": "Nakansela"
+   },
+   "close": {
+      "message": "Isara"
+   },
+   "complete": {
+      "message": "Kumpleto na"
+   },
+   "confirm": {
+      "message": "Kumpirmahin"
+   },
+   "confirm_changes": {
+      "message": "Kumpirmahin ang mga Pagbabago"
+   },
+   "confirm_permiission": {
+      "message": "Kumpirmahin ang Mga Pagpapahintulot"
+   },
+   "context_menu": {
+      "message": "Menu ng konteksto"
+   },
+   "copy": {
+      "message": "Copy"
+   },
+   "cut": {
+      "message": "I-cut"
+   },
+   "default": {
+      "message": "Default"
+   },
+   "delete": {
+      "message": "Tanggalin..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Sigurado ka bang gusto mong tanggalin ang $1 (na) item?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Sigurado ka bang gusto mong tanggalin ang \"$1\"?"
+   },
+   "deleted": {
+      "message": "Na-delete"
+   },
+   "do_not_show_again": {
+      "message": "Nakuha ko, huwag na itong ipakitang muli sa akin."
+   },
+   "downloads": {
+      "message": "Mga Download "
+   },
+   "edit": {
+      "message": "I-edit..."
+   },
+   "experimental": {
+      "message": "Pang-eksperimento"
+   },
+   "extensions": {
+      "message": "Mga Extension"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Nangangailangan ang Favorites ng mga bagong pahintulot"
+   },
+   "folder": {
+      "message": "Folder"
+   },
+   "forward": {
+      "message": "Sumulong"
+   },
+   "got_it": {
+      "message": "Nakuha ko"
+   },
+   "help": {
+      "message": "Tulong"
+   },
+   "history": {
+      "message": "History"
+   },
+   "more_information": {
+      "message": "Higit pang impormasyon"
+   },
+   "name": {
+      "message": "Pangalan"
+   },
+   "new_tab": {
+      "message": "Bagong Tab"
+   },
+   "no_search_results_found": {
+      "message": "Walang nakitang resulta ng paghahanap"
+   },
+   "not_found": {
+      "message": "Hindi Natagpuan"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open": {
+      "message": "Buksan"
+   },
+   "open_all_links": {
+      "message": "Buksan Ang Lahat ng Bookmark"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Buksan ang Lahat ng Bookmark sa Incognito Window"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Buksan ang Lahat ng Bookmark sa Bagong Window"
+   },
+   "open_in_incognito_window": {
+      "message": "Buksan sa incognito window"
+   },
+   "open_in_new_tab": {
+      "message": "Buksan sa bagong tab"
+   },
+   "open_in_new_window": {
+      "message": "Buksan sa bagong window"
+   },
+   "paste": {
+      "message": "Paste"
+   },
+   "permission_symbols": {
+      "message": "Basahin ang mga icon ng mga website na iyong binibisita"
+   },
+   "reload": {
+      "message": "I-reload"
+   },
+   "remove": {
+      "message": "Alisin"
+   },
+   "reorder_by_title": {
+      "message": "Muling ayusin ayon sa pamagat"
+   },
+   "search": {
+      "message": "Hanapin"
+   },
+   "search_": {
+      "message": "Hanapin..."
+   },
+   "search_the_web": {
+      "message": "Hanapan ang Web..."
+   },
+   "set_wallpaper_": {
+      "message": "Magtakda ng wallpaper..."
+   },
+   "settings": {
+      "message": "Mga Setting"
+   },
+   "show_all": {
+      "message": "Ipakita lahat"
+   },
+   "show_in_folder": {
+      "message": "Ipakita sa Folder"
+   },
+   "status": {
+      "message": "Katayuan"
+   },
+   "today": {
+      "message": "Ngayon"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "Kahapon"
+   }
+}

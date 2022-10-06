@@ -1,0 +1,218 @@
+{
+   "about": {
+      "message": "Informácie o aplikácii Favorites..."
+   },
+   "add": {
+      "message": "Pridať"
+   },
+   "add_bookmark": {
+      "message": "Pridanie záložky"
+   },
+   "add_folder": {
+      "message": "Pridať priečinok..."
+   },
+   "add_page": {
+      "message": "Pridať stránku..."
+   },
+   "apps": {
+      "message": "Aplikácie"
+   },
+   "back": {
+      "message": "Naspäť"
+   },
+   "bookmark": {
+      "message": "Záložka"
+   },
+   "bookmark_manager": {
+      "message": "Správca záložiek"
+   },
+   "bookmarks": {
+      "message": "Záložky"
+   },
+   "cancel": {
+      "message": "Zrušiť"
+   },
+   "cancelled": {
+      "message": "Zrušené"
+   },
+   "close": {
+      "message": "Zatvoriť"
+   },
+   "colors_": {
+      "message": "Farby…"
+   },
+   "complete": {
+      "message": "Dokončené"
+   },
+   "confirm": {
+      "message": "Potvrdiť"
+   },
+   "confirm_changes": {
+      "message": "Potvrdiť zmeny"
+   },
+   "confirm_permiission": {
+      "message": "Potvrdiť povolenia"
+   },
+   "context_menu": {
+      "message": "Kontextová ponuka"
+   },
+   "copy": {
+      "message": "Kopírovať"
+   },
+   "cut": {
+      "message": "Vystrihnúť"
+   },
+   "dark": {
+      "message": "Tmavá"
+   },
+   "default": {
+      "message": "Predvolené"
+   },
+   "delete": {
+      "message": "Odstrániť..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Naozaj chcete odstrániť položky ($1)?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Naozaj chcete odstrániť súbor $1?"
+   },
+   "deleted": {
+      "message": "Odstránené"
+   },
+   "do_not_show_again": {
+      "message": "Dobre, neukazovať znova."
+   },
+   "downloads": {
+      "message": "Stiahnuté"
+   },
+   "edit": {
+      "message": "Upraviť..."
+   },
+   "empty": {
+      "message": "Prázdna."
+   },
+   "experimental": {
+      "message": "Experimentálne"
+   },
+   "extensions": {
+      "message": "Rozšírenia"
+   },
+   "favorites": {
+      "message": "Obľúbené"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Rozšírenie Favorites vyžaduje nové povolenia"
+   },
+   "folder": {
+      "message": "Priečinok"
+   },
+   "forward": {
+      "message": "Dopredu"
+   },
+   "got_it": {
+      "message": "Dobre"
+   },
+   "help": {
+      "message": "Pomocník"
+   },
+   "history": {
+      "message": "História"
+   },
+   "more_information": {
+      "message": "Viac informácií"
+   },
+   "name": {
+      "message": "Názov"
+   },
+   "new_tab": {
+      "message": "Nová karta"
+   },
+   "no_search_results_found": {
+      "message": "Nenašli sa žiadne výsledky vyhľadávania"
+   },
+   "not_found": {
+      "message": "Nebolo nájdené"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open": {
+      "message": "Otvoriť"
+   },
+   "open_all_links": {
+      "message": "Otvoriť všetky záložky"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Otvoriť všetky záložky v okne inkognito"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Otvoriť všetky záložky v novom okne"
+   },
+   "open_in_incognito_window": {
+      "message": "Otvoriť v okne inkognito"
+   },
+   "open_in_new_tab": {
+      "message": "Otvoriť na novej karte"
+   },
+   "open_in_new_window": {
+      "message": "Otvoriť v novom okne"
+   },
+   "paste": {
+      "message": "Prilepiť"
+   },
+   "permission_symbols": {
+      "message": "Čítať ikony webov, ktoré navštevujete"
+   },
+   "reload": {
+      "message": "Obnoviť"
+   },
+   "remove": {
+      "message": "Odstrániť"
+   },
+   "reorder_by_title": {
+      "message": "Zoradiť podľa názvu"
+   },
+   "search": {
+      "message": "Vyhľadávanie"
+   },
+   "search_": {
+      "message": "Vyhľadávanie..."
+   },
+   "search_the_web": {
+      "message": "Vyhľadávanie na webe..."
+   },
+   "set_wallpaper_": {
+      "message": "Nastavenie tapety..."
+   },
+   "settings": {
+      "message": "Nastavenia"
+   },
+   "show_all": {
+      "message": "Zobraziť všetky"
+   },
+   "show_in_folder": {
+      "message": "Zobraziť v priečinku"
+   },
+   "status": {
+      "message": "Stav"
+   },
+   "subscribe": {
+      "message": "Odoberať"
+   },
+   "support": {
+      "message": "Podpora"
+   },
+   "today": {
+      "message": "Dnes o"
+   },
+   "unsubscribe": {
+      "message": "Odhlásiť sa"
+   },
+   "url": {
+      "message": "Webová adresa"
+   },
+   "yesterday": {
+      "message": "Včera o"
+   }
+}

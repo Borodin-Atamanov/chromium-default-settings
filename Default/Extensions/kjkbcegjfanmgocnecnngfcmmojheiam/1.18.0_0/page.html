@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>&#xFEFF;</title>
+<style>@font-face{font-family:'Roboto';src:local('Roboto Thin'),local('Roboto-Thin'),url('/fonts/Roboto-Thin.ttf');font-weight:100;font-style:normal;font-display:block}@font-face{font-family:'Roboto';src:local('Roboto Light'),local('Roboto-Light'),url('/fonts/Roboto-Light.ttf');font-weight:300;font-style:normal;font-display:block}@font-face{font-family:'Roboto';src:local('Roboto'),local('Roboto Regular'),local('Roboto-Regular'),url('/fonts/Roboto-Regular.ttf');font-weight:normal;font-style:normal;font-display:block}@font-face{font-family:'Roboto';src:local('Roboto Medium'),local('Roboto-Medium'),url('/fonts/Roboto-Medium.ttf');font-weight:500;font-style:normal;font-display:block}@font-face{font-family:'Roboto';src:local('Roboto Bold'),local('Roboto-Bold'),url('/fonts/Roboto-Bold.ttf');font-weight:bold;font-style:normal;font-display:block}html,body{background-color:transparent;margin:0;padding:0;width:100%;height:100%;overflow:hidden;user-select:none;-webkit-font-smoothing:antialiased}html{background-color:#F7F7F7;overflow:hidden;filter:opacity(0%);transition:filter 400ms linear}html.visible{filter:opacity(100%)}html[data-bidi=rtl] body{direction:rtl}dialog{position:fixed;padding:0;border:none;box-shadow:7px 7px 5px rgba(0,0,0,0.3);font-size:inherit;border-radius:6px;overflow:hidden;background-color:white;background-image:linear-gradient(to bottom, #3367D6, #3367D6 7px, white 7px, white);background-size:200% 100%}dialog::backdrop{background-color:rgba(0,0,0,0.6)}</style>
+<style id="style-theme"></style>
+<style id="style-background"></style>
+<style id="style-background-filter"></style>
+<style id="style-dock"></style>
+<link rel="shortcut icon" type="image/x-icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
+
+<!-- theme-test
+<link rel="stylesheet" type="text/css" href="./themes-test/style.css">
+-->
+</head>
+<body>
+<script>// fixes already defined class Option, ugly ....
+delete window.Option;
+
+const html = document.documentElement;
+
+// parse parameters
+const parameters = {};
+for(let t of location.search.substr(1).split('&')) {
+	if(t) {
+		let p = t.split("=");
+		parameters[p[0]] = p[1] || true;
+	}
+}
+
+if(parameters.title)
+	document.title = chrome.i18n.getMessage(parameters.title) || parameters.title;
+
+if(parameters.withIcon)
+	document.head.querySelector("link[rel='shortcut icon']").remove();
+
+if(parameters.style)
+	html.style=parameters.style;
+
+if((performance.now() < 60))
+	document.documentElement.classList.add("visible");
+
+html.dataset.bidi = parameters.bidi ? chrome.i18n.getMessage("@@bidi_dir") : "ltr";
+
+function updateThemeStyle() {
+	document.getElementById("style-theme").textContent=localStorage.getItem('style/theme')||'';
+	document.getElementById("style-background").textContent=localStorage.getItem('style/background')||'';
+	document.getElementById("style-background-filter").textContent=localStorage.getItem('style/background-filter')||'';
+	document.getElementById("style-dock").textContent=localStorage.getItem('style/dock')||'';
+
+	// preload images
+	const imagesNeeded = (localStorage.getItem('style/preload-images') || "").split(",").filter(s=>s.trim().length);
+	const imagesLoaded = (html.dataset.preloadedImages||'').split(" ").filter(s=>s.trim().length);
+	const imagesNotLoaded = imagesNeeded.filter(src => !imagesLoaded.includes(src));
+
+	return imagesNotLoaded.length
+		? Promise
+			.all(imagesNotLoaded.map(src=>new Promise(r=>{
+				const image = new Image();
+				image.onerror = image.onload = r;
+				image.src = src;
+			})))
+			.then(()=>{
+				html.dataset.preloadedImages = imagesNeeded.join(" ");
+				if(html.classList.contains("visible"))
+					return new Promise(r=>setTimeout(r, 200)); // give some time for bgr-transitions
+			})
+		: Promise.resolve()
+}
+
+let backgroundReady;
+if(parameters.theme) {
+	backgroundReady = updateThemeStyle();
+	addEventListener("style/change", updateThemeStyle);
+}
+else {
+	backgroundReady = Promise.resolve();
+}
+
+backgroundReady.then(()=>html.classList.add("background-ready"));
+
+(
+		html.classList.contains("visible")
+	?	Promise.resolve()
+	: 	backgroundReady
+)
+.then(()=>{
+	const b = chrome.extension.getBackgroundPage();
+	return ((b && b.apiReady) ? b.apiReady : new Promise(r=>chrome.runtime.getBackgroundPage(b=>r(b.apiReady))))
+})
+.then(api=>{
+	const ui = new (api.ui["init" + parameters.ui](window))();
+	document.body.appendChild(ui);
+	addEventListener("beforeunload", ()=>(api.extensionEvent.dispatch("session/view-removed", null, false)));
+	api.extensionEvent.dispatch("session/view-created", null, false);
+	return ui.isReady;
+})
+.then(()=>{
+	if(!html.classList.contains("visible")) {
+		const t = html.clientWidth;
+		html.classList.add("visible");
+	}
+})
+.catch(err=> {
+	console.log("parameters", parameters);
+	console.error(err);
+})
+.then(()=>{
+	if(chrome.runtime.id == "kjkbcegjfanmgocnecnngfcmmojheiam")
+		return;
+
+	// debug
+	window.addEventListener("keydown", event=>{
+		switch(event.keyCode) {
+			case 117: //F6
+				event.preventDefault();
+				const backgroundPage = chrome.extension.getBackgroundPage();
+				backgroundPage.location.reload();
+				setTimeout(()=>{
+					chrome.extension.getViews({type:"tab"}).forEach(view=>{
+						view.location.reload();
+					});
+				}, 100)
+			break;
+		}
+	})
+})
+
+</script>
+<!--<script src="page.js"></script>-->
+</body>
+</html>

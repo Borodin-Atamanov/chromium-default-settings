@@ -1,0 +1,40 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "icon/icon-128.png",
+         "16": "icon/icon-16.png",
+         "24": "icon/icon-24.png",
+         "32": "icon/icon-32.png",
+         "48": "icon/icon-48.png",
+         "64": "icon/icon-64.png"
+      },
+      "default_title": "Favorites"
+   },
+   "chrome_url_overrides": {
+      "newtab": "page.html?theme&ui=NewtabUI&title=new_tab"
+   },
+   "content_security_policy": "script-src 'self' 'sha256-A/IyGx3CvTqddF34389b1TYh3Cl8EJlSf39Ie4Rd2+U=' 'sha256-CY24PhkGLFieOjwhe5oZL7eGEIwssr7M8g9jOwm/rEU='; object-src 'self';",
+   "default_locale": "en",
+   "description": "__MSG_extension_description__",
+   "icons": {
+      "128": "icon/icon-128.png",
+      "16": "icon/icon-16.png",
+      "24": "icon/icon-24.png",
+      "32": "icon/icon-32.png",
+      "48": "icon/icon-48.png"
+   },
+   "incognito": "spanning",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAheFjaabtBbq2yscLDOWbB10jwJPnN326SWPQ31zPb7OGrIp3TPPWVNV2YhkWozVuSB0YE27jgiIux79jTmWR9kDdM+evQ5azOhHuxM3KgTTbGtsyhDeH5gm6qsVxveCF14bnZG2OK5D3PlZNjWHBYP6LFmKwK7gYY3HELAaswPOVNeSfHSI8rBZhHmenv6dlAHbKn9H+V8000/vc/Bd8YlhbyVU1H/KeEWoA5yC5Th84cWXBp7dFFPjYNIGDIMgoT04ewEuDCRVkmi+NNMlwhx+UHvWl1oPwoiFSo3YKgLvt96pu1bSGwDOcxmbZJFDdW66HgqJ6Xcf4nOZZMc6d8wIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "66.0.0",
+   "name": "Favorites - New Tab Page",
+   "optional_permissions": [ "http://*/", "https://*/", "clipboardRead", "clipboardWrite" ],
+   "permissions": [ "activeTab", "contextMenus", "bookmarks", "alarms", "chrome://favicon/*", "storage", "unlimitedStorage" ],
+   "short_name": "Favorites",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.18.0"
+}

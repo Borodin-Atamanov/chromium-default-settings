@@ -1,0 +1,67 @@
+:root {
+  --theme-background-color: #DAE4D3;
+}
+html:before {
+  content: '';
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -1000;
+  background-color: #DAE4D3;
+  background-image: url("data:image/png;base64,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");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-blend-mode: normal;
+  background-position: initial;
+}
+:root {
+  --theme-icon-border-radius: 7px;
+  --theme-icon-filter: drop-shadow(3px 3px 3px rgba(0, 0, 0, 0.12));
+  --theme-text-color: #273E3C;
+  --theme-path-background-color: rgba(255, 255, 255, 0.2);
+  --theme-path-border-bottom: none;
+  --theme-dock-background-color: rgba(255, 255, 255, 0.3);
+  --theme-dock-box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.01);
+  --theme-scrollbar-thumb-background-color: rgba(255, 255, 255, 0.4);
+  --theme-scrollbar-thumb-background-color-hover: rgba(255, 255, 255, 0.75);
+  --theme-overlay-color: rgba(255, 255, 255, 0.22);
+  --theme-overlay-color-input: rgba(255, 255, 255, 0.35);
+  --theme-overlay-color-selected: rgba(255, 255, 255, 0.35);
+  --theme-overlay-color-hover: rgba(255, 255, 255, 0.15);
+  --theme-overlay-color-border: rgba(0, 0, 0, 0.035);
+}
+:root {
+  --theme-icon-folder-color: #ffffff;
+  --theme-icon-folder-background-color: #f83e60;
+  --theme-icon-folder-background-color2: #ffffff;
+  --theme-icon-bookmarks-color: #ffffff;
+  --theme-icon-bookmarks-background-color: #f83e60;
+  --theme-icon-bookmarks-background-color2: #ffffff;
+  --theme-icon-history-color: #ffffff;
+  --theme-icon-history-background-color: #f83e60;
+  --theme-icon-history-background-color2: #ffffff;
+  --theme-icon-downloads-color: #ffffff;
+  --theme-icon-downloads-background-color: #f83e60;
+  --theme-icon-downloads-background-color2: #ffffff;
+  --theme-icon-settings-color: #ffffff;
+  --theme-icon-settings-background-color: #f83e60;
+  --theme-icon-settings-background-color2: #ffffff;
+  --theme-icon-extensions-color: #ffffff;
+  --theme-icon-extensions-background-color: #f83e60;
+  --theme-icon-extensions-background-color2: #ffffff;
+  --theme-icon-apps-color: #ffffff;
+  --theme-icon-apps-background-color: #f83e60;
+  --theme-icon-apps-background-color2: #ffffff;
+  --theme-icon-games-color: #ffffff;
+  --theme-icon-games-background-color: #f83e60;
+  --theme-icon-games-background-color2: #ffffff;
+  --theme-icon-news-color: #ffffff;
+  --theme-icon-news-background-color: #f83e60;
+  --theme-icon-news-background-color2: #ffffff;
+  --theme-icon-chrome-color: #ffffff;
+  --theme-icon-chrome-background-color: #f83e60;
+  --theme-icon-chrome-background-color2: #ffffff;
+}

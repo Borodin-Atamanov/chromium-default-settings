@@ -1,0 +1,58 @@
+:root {
+  --theme-background-color: black;
+}
+html:before {
+  content: '';
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -1000;
+  background-color: black;
+  background-image: initial;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: initial;
+  background-position: initial;
+}
+:root {
+  --theme-icon-border-radius: 4px;
+  --theme-icon-filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.2));
+  --theme-text-color: white;
+  --theme-path-border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  --theme-scrollbar-thumb-background-color: rgba(0, 0, 0, 0.15);
+  --theme-scrollbar-thumb-background-color-hover: rgba(0, 0, 0, 0.4);
+  --theme-overlay-color: rgba(255, 255, 255, 0.075);
+  --theme-overlay-color-input: rgba(255, 255, 255, 0.07);
+  --theme-overlay-color-selected: rgba(255, 255, 255, 0.07);
+  --theme-overlay-color-hover: rgba(255, 255, 255, 0.025);
+  --theme-overlay-color-border: rgba(255, 255, 255, 0.035);
+  --clock-analog-2-dial-color: rgba(255, 255, 255, 0.15);
+  --clock-analog-2-hands-color: rgba(255, 255, 255, 0.075);
+  --clock-analog-2-hands-inner-color: white;
+  --theme-dock-box-shadow: none;
+}
+:root {
+  --theme-icon-folder-color: black;
+  --theme-icon-folder-background-color: white;
+  --theme-icon-bookmarks-color: black;
+  --theme-icon-bookmarks-background-color: white;
+  --theme-icon-history-color: black;
+  --theme-icon-history-background-color: white;
+  --theme-icon-downloads-color: black;
+  --theme-icon-downloads-background-color: white;
+  --theme-icon-settings-color: black;
+  --theme-icon-settings-background-color: white;
+  --theme-icon-extensions-color: black;
+  --theme-icon-extensions-background-color: white;
+  --theme-icon-apps-color: black;
+  --theme-icon-apps-background-color: white;
+  --theme-icon-games-color: black;
+  --theme-icon-games-background-color: white;
+  --theme-icon-news-color: black;
+  --theme-icon-news-background-color: white;
+  --theme-icon-chrome-color: black;
+  --theme-icon-chrome-background-color: white;
+}

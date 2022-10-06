@@ -1,0 +1,221 @@
+{
+   "about": {
+      "message": "Про Favorites..."
+   },
+   "add": {
+      "message": "Додати"
+   },
+   "add_bookmark": {
+      "message": "Додати закладку"
+   },
+   "add_folder": {
+      "message": "Додати папку..."
+   },
+   "add_page": {
+      "message": "Додати сторінку..."
+   },
+   "apps": {
+      "message": "Додатки"
+   },
+   "back": {
+      "message": "Назад"
+   },
+   "bookmark": {
+      "message": "Закладка"
+   },
+   "bookmark_manager": {
+      "message": "Диспетчер закладок"
+   },
+   "bookmarks": {
+      "message": "Закладки"
+   },
+   "cancel": {
+      "message": "Скасувати"
+   },
+   "cancelled": {
+      "message": "Скасовано"
+   },
+   "click_to_open_x": {
+      "message": "Натисніть, щоб відкрити $1"
+   },
+   "close": {
+      "message": "Закрити"
+   },
+   "colors_": {
+      "message": "Кольори…"
+   },
+   "complete": {
+      "message": "Готово"
+   },
+   "confirm": {
+      "message": "Підтвердити"
+   },
+   "confirm_changes": {
+      "message": "Підтвердьте зміни"
+   },
+   "confirm_permiission": {
+      "message": "Підтвердити дозволи"
+   },
+   "context_menu": {
+      "message": "Контекстне меню"
+   },
+   "copy": {
+      "message": "Копіювати"
+   },
+   "cut": {
+      "message": "Вирізати"
+   },
+   "dark": {
+      "message": "Темна"
+   },
+   "default": {
+      "message": "За умовчанням"
+   },
+   "delete": {
+      "message": "Видалити..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Дійсно видалити елементи $1?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Дійсно видалити \"$1\"?"
+   },
+   "deleted": {
+      "message": "Видалено"
+   },
+   "do_not_show_again": {
+      "message": "Зрозуміло. Більше не показувати."
+   },
+   "downloads": {
+      "message": "Завантаження"
+   },
+   "edit": {
+      "message": "Редагувати..."
+   },
+   "empty": {
+      "message": "Порожньо."
+   },
+   "experimental": {
+      "message": "Експериментальна функція"
+   },
+   "extensions": {
+      "message": "Розширення"
+   },
+   "favorites": {
+      "message": "Улюблені"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Розширення Favorites потребує нових дозволів"
+   },
+   "folder": {
+      "message": "Папка"
+   },
+   "forward": {
+      "message": "Переслати"
+   },
+   "got_it": {
+      "message": "Виконано"
+   },
+   "help": {
+      "message": "Довідка"
+   },
+   "history": {
+      "message": "Історія"
+   },
+   "more_information": {
+      "message": "Докладніше"
+   },
+   "name": {
+      "message": "Назва"
+   },
+   "new_tab": {
+      "message": "Нова вкладка"
+   },
+   "no_search_results_found": {
+      "message": "Немає результатів"
+   },
+   "not_found": {
+      "message": "Не знайдено"
+   },
+   "ok": {
+      "message": "ОК"
+   },
+   "open": {
+      "message": "Відкрити"
+   },
+   "open_all_links": {
+      "message": "Відкрити всі закладки"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Відкрити всі закладки в анонімному вікні"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Відкрити всі закладки в новому вікні"
+   },
+   "open_in_incognito_window": {
+      "message": "Відкрити в анонімному вікні"
+   },
+   "open_in_new_tab": {
+      "message": "Відкрити в новій вкладці"
+   },
+   "open_in_new_window": {
+      "message": "Відкрити в новому вікні"
+   },
+   "paste": {
+      "message": "Вставити"
+   },
+   "permission_symbols": {
+      "message": "Читати значки веб-сайтів, які ви відвідуєте"
+   },
+   "reload": {
+      "message": "Перезавантажити"
+   },
+   "remove": {
+      "message": "Видалити"
+   },
+   "reorder_by_title": {
+      "message": "Переупорядкувати за назвою"
+   },
+   "search": {
+      "message": "Пошук"
+   },
+   "search_": {
+      "message": "Пошук..."
+   },
+   "search_the_web": {
+      "message": "Пошук в Інтернеті..."
+   },
+   "set_wallpaper_": {
+      "message": "Установити фоновий малюнок..."
+   },
+   "settings": {
+      "message": "Налаштування"
+   },
+   "show_all": {
+      "message": "Показати все"
+   },
+   "show_in_folder": {
+      "message": "Показати в папці"
+   },
+   "status": {
+      "message": "Статус"
+   },
+   "subscribe": {
+      "message": "Підписатися"
+   },
+   "support": {
+      "message": "Підтримка"
+   },
+   "today": {
+      "message": "Сьогодні"
+   },
+   "unsubscribe": {
+      "message": "Відписатися"
+   },
+   "url": {
+      "message": "URL-адреса"
+   },
+   "yesterday": {
+      "message": "Учора"
+   }
+}

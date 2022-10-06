@@ -1,0 +1,218 @@
+{
+   "about": {
+      "message": "Apie „Favorites“..."
+   },
+   "add": {
+      "message": "Pridėti"
+   },
+   "add_bookmark": {
+      "message": "Žymės pridėjimas"
+   },
+   "add_folder": {
+      "message": "Pridėti aplanką..."
+   },
+   "add_page": {
+      "message": "Pridėti puslapį..."
+   },
+   "apps": {
+      "message": "Taikomosios programos"
+   },
+   "back": {
+      "message": "Grįžti"
+   },
+   "bookmark": {
+      "message": "Žymė"
+   },
+   "bookmark_manager": {
+      "message": "Žymių tvarkytuvė"
+   },
+   "bookmarks": {
+      "message": "Žymės"
+   },
+   "cancel": {
+      "message": "Atšaukti"
+   },
+   "cancelled": {
+      "message": "Atšaukta"
+   },
+   "close": {
+      "message": "Uždaryti"
+   },
+   "colors_": {
+      "message": "Spalvos…"
+   },
+   "complete": {
+      "message": "Baigta"
+   },
+   "confirm": {
+      "message": "Patvirtinti"
+   },
+   "confirm_changes": {
+      "message": "Patvirtinti pakeitimus"
+   },
+   "confirm_permiission": {
+      "message": "Patvirtinti leidimus"
+   },
+   "context_menu": {
+      "message": "Kontekstinis meniu"
+   },
+   "copy": {
+      "message": "Kopijuoti"
+   },
+   "cut": {
+      "message": "Iškirpti"
+   },
+   "dark": {
+      "message": "Tamsi"
+   },
+   "default": {
+      "message": "Numatytasis"
+   },
+   "delete": {
+      "message": "Ištrinti..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Ar tikrai norite ištrinti $1 elementus?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Ar iš tikrųjų norite ištrinti „$1“?"
+   },
+   "deleted": {
+      "message": "Ištrintas"
+   },
+   "do_not_show_again": {
+      "message": "Supratau, daugiau neberodyti šio pranešimo."
+   },
+   "downloads": {
+      "message": "Atsisiuntimai"
+   },
+   "edit": {
+      "message": "Redaguoti..."
+   },
+   "empty": {
+      "message": "Tuščia."
+   },
+   "experimental": {
+      "message": "Eksperimentinė"
+   },
+   "extensions": {
+      "message": "Plėtiniai"
+   },
+   "favorites": {
+      "message": "Žymelės"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "„Favorites“ reikalingi nauji leidimai"
+   },
+   "folder": {
+      "message": "Aplankas"
+   },
+   "forward": {
+      "message": "Persiųsti"
+   },
+   "got_it": {
+      "message": "Supratau"
+   },
+   "help": {
+      "message": "Pagalba"
+   },
+   "history": {
+      "message": "Istorija"
+   },
+   "more_information": {
+      "message": "Daugiau informacijos"
+   },
+   "name": {
+      "message": "Pavadinimas"
+   },
+   "new_tab": {
+      "message": "Naujas skirtukas"
+   },
+   "no_search_results_found": {
+      "message": "Nerasta jokių paieškos rezultatų"
+   },
+   "not_found": {
+      "message": "Nerasta"
+   },
+   "ok": {
+      "message": "Gerai"
+   },
+   "open": {
+      "message": "Atidaryti"
+   },
+   "open_all_links": {
+      "message": "Atidaryti visas žymes"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Atidaryti visas žymes inkognito lange"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Atidaryti visas žymes naujame lange"
+   },
+   "open_in_incognito_window": {
+      "message": "Atidaryti inkognito lange"
+   },
+   "open_in_new_tab": {
+      "message": "Atidaryti naujame skirtuke"
+   },
+   "open_in_new_window": {
+      "message": "Atidaryti naujame lange"
+   },
+   "paste": {
+      "message": "Įklijuoti"
+   },
+   "permission_symbols": {
+      "message": "Skaityti lankomų svetainių piktogramas"
+   },
+   "reload": {
+      "message": "Įkelti iš naujo"
+   },
+   "remove": {
+      "message": "Pašalinti"
+   },
+   "reorder_by_title": {
+      "message": "Rikiuoti pagal pavadinimą"
+   },
+   "search": {
+      "message": "Ieškoti"
+   },
+   "search_": {
+      "message": "Ieškoti..."
+   },
+   "search_the_web": {
+      "message": "Ieškoti žiniatinklyje..."
+   },
+   "set_wallpaper_": {
+      "message": "Nustatyti darbalaukio foną..."
+   },
+   "settings": {
+      "message": "Nustatymai"
+   },
+   "show_all": {
+      "message": "Rodyti visas"
+   },
+   "show_in_folder": {
+      "message": "Rodyti aplanke"
+   },
+   "status": {
+      "message": "Būsena"
+   },
+   "subscribe": {
+      "message": "Prenumeruoti"
+   },
+   "support": {
+      "message": "Pagalba"
+   },
+   "today": {
+      "message": "Šiandien"
+   },
+   "unsubscribe": {
+      "message": "Atsisakyti prenumeratos"
+   },
+   "url": {
+      "message": "URL adresas"
+   },
+   "yesterday": {
+      "message": "Vakar"
+   }
+}

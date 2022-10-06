@@ -1,0 +1,218 @@
+{
+   "about": {
+      "message": "Σχετικά με το Favorites..."
+   },
+   "add": {
+      "message": "Προσθήκη"
+   },
+   "add_bookmark": {
+      "message": "Προσθήκη σελιδοδείκτη"
+   },
+   "add_folder": {
+      "message": "Προσθήκη φακέλου..."
+   },
+   "add_page": {
+      "message": "Προσθήκη σελίδας..."
+   },
+   "apps": {
+      "message": "Εφαρμογές "
+   },
+   "back": {
+      "message": "Πίσω"
+   },
+   "bookmark": {
+      "message": "Σελιδοδείκτης"
+   },
+   "bookmark_manager": {
+      "message": "Διαχείριση Σελιδοδεικτών"
+   },
+   "bookmarks": {
+      "message": "Σελιδοδείκτες"
+   },
+   "cancel": {
+      "message": "Ακύρωση"
+   },
+   "cancelled": {
+      "message": "Ακυρώθηκε"
+   },
+   "close": {
+      "message": "Κλείσιμο"
+   },
+   "colors_": {
+      "message": "Χρώματα…"
+   },
+   "complete": {
+      "message": "Ολοκληρώθηκε"
+   },
+   "confirm": {
+      "message": "Επιβεβαίωση"
+   },
+   "confirm_changes": {
+      "message": "Επιβεβαίωση αλλαγών"
+   },
+   "confirm_permiission": {
+      "message": "Επιβεβαίωση δικαιωμάτων"
+   },
+   "context_menu": {
+      "message": "Μενού περιβάλλοντος"
+   },
+   "copy": {
+      "message": "Αντιγραφή"
+   },
+   "cut": {
+      "message": "Αποκοπή"
+   },
+   "dark": {
+      "message": "Σκοτεινό"
+   },
+   "default": {
+      "message": "Προεπιλογή"
+   },
+   "delete": {
+      "message": "Διαγραφή..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Είστε σίγουροι ότι θέλετε να διαγράψετε $1 στοιχεία;"
+   },
+   "delete_item_confirm_single": {
+      "message": "Είστε βέβαιοι ότι θέλετε να διαγράψετε το \"$1\";"
+   },
+   "deleted": {
+      "message": "Διαγράφηκε"
+   },
+   "do_not_show_again": {
+      "message": "Το έλαβα. Να μην εμφανιστεί ξανά."
+   },
+   "downloads": {
+      "message": "Λήψεις"
+   },
+   "edit": {
+      "message": "Επεξεργασία..."
+   },
+   "empty": {
+      "message": "Κενό."
+   },
+   "experimental": {
+      "message": "Πειραματικό"
+   },
+   "extensions": {
+      "message": "Επεκτάσεις"
+   },
+   "favorites": {
+      "message": "Αγαπημένα"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Η επέκταση Favorites απαιτεί νέες άδειες"
+   },
+   "folder": {
+      "message": "Φάκελος"
+   },
+   "forward": {
+      "message": "Προώθηση"
+   },
+   "got_it": {
+      "message": "Κατάλαβα!"
+   },
+   "help": {
+      "message": "Βοήθεια"
+   },
+   "history": {
+      "message": "Ιστορικό"
+   },
+   "more_information": {
+      "message": "Περισσότερες πληροφορίες"
+   },
+   "name": {
+      "message": "Όνομα"
+   },
+   "new_tab": {
+      "message": "Νέα καρτέλα"
+   },
+   "no_search_results_found": {
+      "message": "Δεν βρέθηκαν αποτελέσματα αναζήτησης"
+   },
+   "not_found": {
+      "message": "Δεν βρέθηκε"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open": {
+      "message": "Άνοιγμα"
+   },
+   "open_all_links": {
+      "message": "Άνοιγμα Όλων των Σελιδοδεικτών"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Άνοιγμα Όλων των Σελιδοδεικτών σε Παράθυρο για Ανώνυμη Περιήγηση"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Άνοιγμα Όλων των Σελιδοδεικτών σε Νέο Παράθυρο"
+   },
+   "open_in_incognito_window": {
+      "message": "Άνοιγμα σε παράθυρο για ανώνυμη περιήγηση"
+   },
+   "open_in_new_tab": {
+      "message": "Άνοιγμα σε νέα καρτέλα"
+   },
+   "open_in_new_window": {
+      "message": "Άνοιγμα σε νέο παράθυρο"
+   },
+   "paste": {
+      "message": "Επικόλληση"
+   },
+   "permission_symbols": {
+      "message": "Ανάγνωση εικονιδίων των ιστότοπων που επισκέπτεστε"
+   },
+   "reload": {
+      "message": "Επαναφόρτωση"
+   },
+   "remove": {
+      "message": "Κατάργηση"
+   },
+   "reorder_by_title": {
+      "message": "Αναδιάταξη ανά τίτλο"
+   },
+   "search": {
+      "message": "Αναζήτηση"
+   },
+   "search_": {
+      "message": "Αναζήτηση..."
+   },
+   "search_the_web": {
+      "message": "Αναζήτηση στον Ιστό..."
+   },
+   "set_wallpaper_": {
+      "message": "Ορισμός ταπετσαρίας..."
+   },
+   "settings": {
+      "message": "Ρυθμίσεις"
+   },
+   "show_all": {
+      "message": "Προβολή όλων"
+   },
+   "show_in_folder": {
+      "message": "Εμφάνιση στο φάκελο"
+   },
+   "status": {
+      "message": "Κατάσταση"
+   },
+   "subscribe": {
+      "message": "Εγγραφή"
+   },
+   "support": {
+      "message": "Υποστήριξη"
+   },
+   "today": {
+      "message": "Σήμερα"
+   },
+   "unsubscribe": {
+      "message": "Αποχώρηση συνδρομητή"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "Χθες"
+   }
+}

@@ -1,0 +1,197 @@
+{
+   "about": {
+      "message": "Favorites ஐப் பற்றி..."
+   },
+   "add": {
+      "message": "சேர்"
+   },
+   "add_bookmark": {
+      "message": "புக்மார்க்குகளைச் சேர்"
+   },
+   "add_folder": {
+      "message": "கோப்புறையைச் சேர்..."
+   },
+   "add_page": {
+      "message": "பக்கத்தைச் சேர்..."
+   },
+   "apps": {
+      "message": "ஆப்ஸ்"
+   },
+   "back": {
+      "message": "முந்தைய பக்கம்"
+   },
+   "bookmark": {
+      "message": "புக்மார்க்"
+   },
+   "bookmark_manager": {
+      "message": "புக்மார்க் மேனேஜர்"
+   },
+   "bookmarks": {
+      "message": "புத்தகக்குறிகள்"
+   },
+   "cancel": {
+      "message": "ரத்து செய்"
+   },
+   "cancelled": {
+      "message": "ரத்து செய்யப்பட்டது"
+   },
+   "close": {
+      "message": "மூடு"
+   },
+   "complete": {
+      "message": "முடிந்தது"
+   },
+   "confirm": {
+      "message": "உறுதிப்படுத்து"
+   },
+   "confirm_changes": {
+      "message": "மாற்றங்களை உறுதிசெய்"
+   },
+   "confirm_permiission": {
+      "message": "அனுமதிகளை உறுதிப்படுத்து"
+   },
+   "context_menu": {
+      "message": "சூழல் மெனு"
+   },
+   "copy": {
+      "message": "நகலெடு"
+   },
+   "cut": {
+      "message": "வெட்டு"
+   },
+   "default": {
+      "message": "இயல்புநிலை"
+   },
+   "delete": {
+      "message": "நீக்குக..."
+   },
+   "delete_item_confirm_many": {
+      "message": "$1 உருப்படிகளை நிச்சயமாக நீக்க வேண்டுமா?"
+   },
+   "delete_item_confirm_single": {
+      "message": "\"$1\" ஐ நிச்சயமாக நீக்க வேண்டுமா?"
+   },
+   "deleted": {
+      "message": "நீக்கப்பட்டது"
+   },
+   "do_not_show_again": {
+      "message": "புரிந்தது, இதை மீண்டும் காட்ட வேண்டாம்."
+   },
+   "downloads": {
+      "message": "பதிவிறக்கங்கள்"
+   },
+   "edit": {
+      "message": "மாற்று..."
+   },
+   "experimental": {
+      "message": "பரிசோதனைக்குரியது"
+   },
+   "extensions": {
+      "message": "நீட்டிப்புகள்"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites க்குப் புதிய அனுமதிகள் தேவைப்படுகிறது"
+   },
+   "folder": {
+      "message": "கோப்புறை"
+   },
+   "forward": {
+      "message": "அடுத்த பக்கம்"
+   },
+   "got_it": {
+      "message": "புரிந்தது"
+   },
+   "help": {
+      "message": "Help"
+   },
+   "history": {
+      "message": "வரலாறு"
+   },
+   "more_information": {
+      "message": "மேலும் தகவல்"
+   },
+   "name": {
+      "message": "பெயர்"
+   },
+   "new_tab": {
+      "message": "புதிய தாவல்"
+   },
+   "no_search_results_found": {
+      "message": "தேடல் முடிவுகள் எதுவுமில்லை"
+   },
+   "not_found": {
+      "message": "கண்டறிய முடியவில்லை"
+   },
+   "ok": {
+      "message": "சரி"
+   },
+   "open": {
+      "message": "திற"
+   },
+   "open_all_links": {
+      "message": "புக்மார்க்ஸ் அனைத்தையும் திற"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "மறைநிலை சாளரத்தில் எல்லா புக்மார்க்ஸையும் திற"
+   },
+   "open_all_links_in_new_window": {
+      "message": "புதிய சாளரத்தில் எல்லா புக்மார்க்ஸையும் திற"
+   },
+   "open_in_incognito_window": {
+      "message": "மறைநிலை சாளரத்தில் திற"
+   },
+   "open_in_new_tab": {
+      "message": "புதிய தாவலில் திற"
+   },
+   "open_in_new_window": {
+      "message": "புதிய சாளரத்தில் திற"
+   },
+   "paste": {
+      "message": "ஒட்டு"
+   },
+   "permission_symbols": {
+      "message": "பார்வையிடும் இணையதளங்களின் ஐகான்களைப் படிக்கலாம்"
+   },
+   "reload": {
+      "message": "மீண்டும் ஏற்று"
+   },
+   "remove": {
+      "message": "அகற்று"
+   },
+   "reorder_by_title": {
+      "message": "தலைப்பின்படி மறுவரிசைப்படுத்து"
+   },
+   "search": {
+      "message": "தேடல்"
+   },
+   "search_": {
+      "message": "தேடல்..."
+   },
+   "search_the_web": {
+      "message": "வலையில் தேடு..."
+   },
+   "set_wallpaper_": {
+      "message": "வால்பேப்பரை அமை..."
+   },
+   "settings": {
+      "message": "அமைப்புகள்"
+   },
+   "show_all": {
+      "message": "அனைத்தையும் காண்பி"
+   },
+   "show_in_folder": {
+      "message": "கோப்புறையில் காண்பி"
+   },
+   "status": {
+      "message": "நிலை"
+   },
+   "today": {
+      "message": "இன்று"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "நேற்று"
+   }
+}

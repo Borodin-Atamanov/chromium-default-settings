@@ -1,0 +1,221 @@
+{
+   "about": {
+      "message": "Despre Favorites..."
+   },
+   "add": {
+      "message": "Adaugă"
+   },
+   "add_bookmark": {
+      "message": "Adaugă un marcaj"
+   },
+   "add_folder": {
+      "message": "Adăugați un dosar..."
+   },
+   "add_page": {
+      "message": "Adăugați pagina..."
+   },
+   "apps": {
+      "message": "Aplicații"
+   },
+   "back": {
+      "message": "Înapoi"
+   },
+   "bookmark": {
+      "message": "Marcaj"
+   },
+   "bookmark_manager": {
+      "message": "Manager de marcaje"
+   },
+   "bookmarks": {
+      "message": "Marcaje"
+   },
+   "cancel": {
+      "message": "Anulează"
+   },
+   "cancelled": {
+      "message": "Anulat"
+   },
+   "click_to_open_x": {
+      "message": "Apăsați pentru a deschide $1"
+   },
+   "close": {
+      "message": "Închide"
+   },
+   "colors_": {
+      "message": "Culori…"
+   },
+   "complete": {
+      "message": "Finalizat"
+   },
+   "confirm": {
+      "message": "Confirmați"
+   },
+   "confirm_changes": {
+      "message": "Confirmați modificările"
+   },
+   "confirm_permiission": {
+      "message": "Confirmați permisiunile"
+   },
+   "context_menu": {
+      "message": "Meniu contextual"
+   },
+   "copy": {
+      "message": "Copiază"
+   },
+   "cut": {
+      "message": "Decupează"
+   },
+   "dark": {
+      "message": "Întunecat"
+   },
+   "default": {
+      "message": "Prestabilit"
+   },
+   "delete": {
+      "message": "Șterge..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Sigur vrei să ștergi $1 elemente?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Sigur vrei să ștergi „$1”?"
+   },
+   "deleted": {
+      "message": "Șters"
+   },
+   "do_not_show_again": {
+      "message": "Am înțeles, nu mai afișa acest mesaj."
+   },
+   "downloads": {
+      "message": "Descărcări"
+   },
+   "edit": {
+      "message": "Editează..."
+   },
+   "empty": {
+      "message": "Empty."
+   },
+   "experimental": {
+      "message": "Experimentale"
+   },
+   "extensions": {
+      "message": "Extensii"
+   },
+   "favorites": {
+      "message": "Favorite"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites necesită permisiuni noi"
+   },
+   "folder": {
+      "message": "Dosar"
+   },
+   "forward": {
+      "message": "Înainte"
+   },
+   "got_it": {
+      "message": "Am înțeles"
+   },
+   "help": {
+      "message": "Ajutor"
+   },
+   "history": {
+      "message": "Istoric"
+   },
+   "more_information": {
+      "message": "Mai multe informații"
+   },
+   "name": {
+      "message": "Nume"
+   },
+   "new_tab": {
+      "message": "Filă nouă"
+   },
+   "no_search_results_found": {
+      "message": "Nu s-au găsit rezultate de căutare"
+   },
+   "not_found": {
+      "message": "Nu a fost găsit"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open": {
+      "message": "Deschide"
+   },
+   "open_all_links": {
+      "message": "Deschideți toate marcajele"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Deschideți toate marcajele într-o fereastră incognito"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Deschideți toate marcajele într-o fereastră nouă"
+   },
+   "open_in_incognito_window": {
+      "message": "Deschideți într-o fereastră incognito"
+   },
+   "open_in_new_tab": {
+      "message": "Deschide în filă nouă"
+   },
+   "open_in_new_window": {
+      "message": "Deschideți într-o fereastră nouă"
+   },
+   "paste": {
+      "message": "Inserează"
+   },
+   "permission_symbols": {
+      "message": "Citește pictogramele site-urilor pe care le accesezi"
+   },
+   "reload": {
+      "message": "Reîncarcă"
+   },
+   "remove": {
+      "message": "Elimină"
+   },
+   "reorder_by_title": {
+      "message": "Reordonați după titlu"
+   },
+   "search": {
+      "message": "Caută"
+   },
+   "search_": {
+      "message": "Caută..."
+   },
+   "search_the_web": {
+      "message": "Caută pe web..."
+   },
+   "set_wallpaper_": {
+      "message": "Setați o imagine de fundal..."
+   },
+   "settings": {
+      "message": "Setări"
+   },
+   "show_all": {
+      "message": "Afișați-le pe toate"
+   },
+   "show_in_folder": {
+      "message": "Afișați în dosar"
+   },
+   "status": {
+      "message": "Stare"
+   },
+   "subscribe": {
+      "message": "Abonează"
+   },
+   "support": {
+      "message": "Suport"
+   },
+   "today": {
+      "message": "Astăzi, la"
+   },
+   "unsubscribe": {
+      "message": "Dezabonează"
+   },
+   "url": {
+      "message": "Adresă URL"
+   },
+   "yesterday": {
+      "message": "Ieri, la"
+   }
+}

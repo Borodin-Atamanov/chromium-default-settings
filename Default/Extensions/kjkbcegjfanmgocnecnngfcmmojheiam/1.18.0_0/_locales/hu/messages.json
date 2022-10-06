@@ -1,0 +1,221 @@
+{
+   "about": {
+      "message": "A Favorites névjegye..."
+   },
+   "add": {
+      "message": "Hozzáadás"
+   },
+   "add_bookmark": {
+      "message": "Könyvjelzõ hozzáadása"
+   },
+   "add_folder": {
+      "message": "Mappa hozzáadása..."
+   },
+   "add_page": {
+      "message": "Oldal hozzáadása..."
+   },
+   "apps": {
+      "message": "Alkalmazások"
+   },
+   "back": {
+      "message": "Vissza"
+   },
+   "bookmark": {
+      "message": "Könyvjelző"
+   },
+   "bookmark_manager": {
+      "message": "Könyvjelzőkezelő"
+   },
+   "bookmarks": {
+      "message": "Könyvjelzők"
+   },
+   "cancel": {
+      "message": "Mégse"
+   },
+   "cancelled": {
+      "message": "Megszakítva"
+   },
+   "click_to_open_x": {
+      "message": "Kattintson a(z) $1 megnyitásához"
+   },
+   "close": {
+      "message": "Bezárás"
+   },
+   "colors_": {
+      "message": "Színek…"
+   },
+   "complete": {
+      "message": "Kész"
+   },
+   "confirm": {
+      "message": "Megerősítés"
+   },
+   "confirm_changes": {
+      "message": "Módosítások jóváhagyása"
+   },
+   "confirm_permiission": {
+      "message": "Engedélyek megerősítése"
+   },
+   "context_menu": {
+      "message": "Helyi menü"
+   },
+   "copy": {
+      "message": "Másolás"
+   },
+   "cut": {
+      "message": "Kivágás"
+   },
+   "dark": {
+      "message": "Sötét"
+   },
+   "default": {
+      "message": "Alapértelmezett"
+   },
+   "delete": {
+      "message": "Törlés..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Biztos, hogy törölni szeretné ezt az elemet: $1?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Biztos, hogy törölni szeretné ezt: \"$1\"?"
+   },
+   "deleted": {
+      "message": "Törölve"
+   },
+   "do_not_show_again": {
+      "message": "Értem, ne jelenjen meg újra ez az üzenet."
+   },
+   "downloads": {
+      "message": "Letöltések"
+   },
+   "edit": {
+      "message": "Szerkesztés..."
+   },
+   "empty": {
+      "message": "Üres."
+   },
+   "experimental": {
+      "message": "Kísérleti"
+   },
+   "extensions": {
+      "message": "Bővítmények"
+   },
+   "favorites": {
+      "message": "Kedvencek"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "A Favorites bővítményhez új engedélyek szükségesek"
+   },
+   "folder": {
+      "message": "Mappa"
+   },
+   "forward": {
+      "message": "Előre"
+   },
+   "got_it": {
+      "message": "Sikerült"
+   },
+   "help": {
+      "message": "Súgó"
+   },
+   "history": {
+      "message": "Előzmények"
+   },
+   "more_information": {
+      "message": "További információ"
+   },
+   "name": {
+      "message": "Név"
+   },
+   "new_tab": {
+      "message": "Új lap"
+   },
+   "no_search_results_found": {
+      "message": "Nincs találat"
+   },
+   "not_found": {
+      "message": "Nem található"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open": {
+      "message": "Megnyitás"
+   },
+   "open_all_links": {
+      "message": "Az összes könyvjelző megnyitása"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Az összes könyvjelző megnyitása inkognitóablakban"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Összes könyvjelző megnyitása új ablakban"
+   },
+   "open_in_incognito_window": {
+      "message": "Megnyitás inkognitóablakban"
+   },
+   "open_in_new_tab": {
+      "message": "Megnyitás új lapon"
+   },
+   "open_in_new_window": {
+      "message": "Megnyitás új ablakban"
+   },
+   "paste": {
+      "message": "Beillesztés"
+   },
+   "permission_symbols": {
+      "message": "A felkeresett webhelyek ikonjainak olvasása"
+   },
+   "reload": {
+      "message": "Újratöltés"
+   },
+   "remove": {
+      "message": "Eltávolítás"
+   },
+   "reorder_by_title": {
+      "message": "Rendezés cím alapján"
+   },
+   "search": {
+      "message": "Keresés"
+   },
+   "search_": {
+      "message": "Keresés..."
+   },
+   "search_the_web": {
+      "message": "Keresés az interneten..."
+   },
+   "set_wallpaper_": {
+      "message": "Háttérkép beállítása..."
+   },
+   "settings": {
+      "message": "Beállítások"
+   },
+   "show_all": {
+      "message": "Összes megjelenítése"
+   },
+   "show_in_folder": {
+      "message": "Megjelenítés mappában"
+   },
+   "status": {
+      "message": "Állapot"
+   },
+   "subscribe": {
+      "message": "Feliratkozás"
+   },
+   "support": {
+      "message": "Támogatás"
+   },
+   "today": {
+      "message": "Ma"
+   },
+   "unsubscribe": {
+      "message": "Leiratkozás"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "Tegnap"
+   }
+}

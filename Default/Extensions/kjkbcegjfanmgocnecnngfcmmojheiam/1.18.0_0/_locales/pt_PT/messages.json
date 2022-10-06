@@ -1,0 +1,221 @@
+{
+   "about": {
+      "message": "Acerca do Favorites..."
+   },
+   "add": {
+      "message": "Adicionar"
+   },
+   "add_bookmark": {
+      "message": "Adicionar marcador"
+   },
+   "add_folder": {
+      "message": "Adicionar pasta..."
+   },
+   "add_page": {
+      "message": "Adicionar página..."
+   },
+   "apps": {
+      "message": "Aplicações"
+   },
+   "back": {
+      "message": "Anterior"
+   },
+   "bookmark": {
+      "message": "Marcar"
+   },
+   "bookmark_manager": {
+      "message": "Gestor de Marcadores"
+   },
+   "bookmarks": {
+      "message": "Marcadores"
+   },
+   "cancel": {
+      "message": "Cancelar"
+   },
+   "cancelled": {
+      "message": "Cancelado"
+   },
+   "click_to_open_x": {
+      "message": "Carregue para abrir o $1"
+   },
+   "close": {
+      "message": "Fechar"
+   },
+   "colors_": {
+      "message": "Cores…"
+   },
+   "complete": {
+      "message": "Concluído"
+   },
+   "confirm": {
+      "message": "Confirmar"
+   },
+   "confirm_changes": {
+      "message": "Confirmar Alterações"
+   },
+   "confirm_permiission": {
+      "message": "Confirmar Permissões"
+   },
+   "context_menu": {
+      "message": "Menu de contexto"
+   },
+   "copy": {
+      "message": "Copiar"
+   },
+   "cut": {
+      "message": "Cortar"
+   },
+   "dark": {
+      "message": "Escuro"
+   },
+   "default": {
+      "message": "Predefinição"
+   },
+   "delete": {
+      "message": "Eliminar..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Tem a certeza de que pretende eliminar $1 itens?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Tem a certeza de que pretende eliminar \"$1\"?"
+   },
+   "deleted": {
+      "message": "Eliminado"
+   },
+   "do_not_show_again": {
+      "message": "Entendido, não voltar a mostrar esta mensagem."
+   },
+   "downloads": {
+      "message": "Transferências"
+   },
+   "edit": {
+      "message": "Editar..."
+   },
+   "empty": {
+      "message": "Vazio."
+   },
+   "experimental": {
+      "message": "Experimental"
+   },
+   "extensions": {
+      "message": "Extensões"
+   },
+   "favorites": {
+      "message": "Favoritos"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites necessita de novas permissões"
+   },
+   "folder": {
+      "message": "Pasta"
+   },
+   "forward": {
+      "message": "Avançar"
+   },
+   "got_it": {
+      "message": "Entendido"
+   },
+   "help": {
+      "message": "Ajuda"
+   },
+   "history": {
+      "message": "Histórico"
+   },
+   "more_information": {
+      "message": "Mais informações"
+   },
+   "name": {
+      "message": "Nome"
+   },
+   "new_tab": {
+      "message": "Novo separador"
+   },
+   "no_search_results_found": {
+      "message": "Não foram encontrados resultados da pesquisa"
+   },
+   "not_found": {
+      "message": "Não encontrado"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open": {
+      "message": "Abrir"
+   },
+   "open_all_links": {
+      "message": "Abrir Todos os Marcadores"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Abrir Todos os Marcadores na Janela de Navegação Anónima"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Abrir Todos os Marcadores numa Nova Janela"
+   },
+   "open_in_incognito_window": {
+      "message": "Abrir na janela de navegação anónima"
+   },
+   "open_in_new_tab": {
+      "message": "Abrir num novo separador"
+   },
+   "open_in_new_window": {
+      "message": "Abrir numa nova janela"
+   },
+   "paste": {
+      "message": "Colar"
+   },
+   "permission_symbols": {
+      "message": "Ler os ícones dos Websites que visita"
+   },
+   "reload": {
+      "message": "Recarregar"
+   },
+   "remove": {
+      "message": "Remover"
+   },
+   "reorder_by_title": {
+      "message": "Reordenar por título"
+   },
+   "search": {
+      "message": "Pesquisar"
+   },
+   "search_": {
+      "message": "Pesquisar..."
+   },
+   "search_the_web": {
+      "message": "Pesquisar na Web..."
+   },
+   "set_wallpaper_": {
+      "message": "Definir imagem de fundo..."
+   },
+   "settings": {
+      "message": "Definições"
+   },
+   "show_all": {
+      "message": "Mostrar tudo"
+   },
+   "show_in_folder": {
+      "message": "Mostrar na pasta"
+   },
+   "status": {
+      "message": "Estado"
+   },
+   "subscribe": {
+      "message": "Subscrever"
+   },
+   "support": {
+      "message": "Suporte"
+   },
+   "today": {
+      "message": "Hoje"
+   },
+   "unsubscribe": {
+      "message": "Cancelar subscrição"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "Ontem"
+   }
+}

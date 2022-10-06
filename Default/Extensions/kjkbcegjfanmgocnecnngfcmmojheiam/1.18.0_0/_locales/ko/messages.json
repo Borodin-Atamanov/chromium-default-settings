@@ -1,0 +1,218 @@
+{
+   "about": {
+      "message": "Favorites 정보..."
+   },
+   "add": {
+      "message": "추가"
+   },
+   "add_bookmark": {
+      "message": "북마크 추가"
+   },
+   "add_folder": {
+      "message": "폴더 추가..."
+   },
+   "add_page": {
+      "message": "페이지 추가..."
+   },
+   "apps": {
+      "message": "앱"
+   },
+   "back": {
+      "message": "뒤로"
+   },
+   "bookmark": {
+      "message": "북마크"
+   },
+   "bookmark_manager": {
+      "message": "북마크 관리자"
+   },
+   "bookmarks": {
+      "message": "북마크"
+   },
+   "cancel": {
+      "message": "취소"
+   },
+   "cancelled": {
+      "message": "취소됨"
+   },
+   "close": {
+      "message": "닫기"
+   },
+   "colors_": {
+      "message": "색상…"
+   },
+   "complete": {
+      "message": "완료"
+   },
+   "confirm": {
+      "message": "확인"
+   },
+   "confirm_changes": {
+      "message": "변경사항 확인"
+   },
+   "confirm_permiission": {
+      "message": "권한 확인"
+   },
+   "context_menu": {
+      "message": "컨텍스트 메뉴"
+   },
+   "copy": {
+      "message": "복사"
+   },
+   "cut": {
+      "message": "잘라내기"
+   },
+   "dark": {
+      "message": "어둡게"
+   },
+   "default": {
+      "message": "기본값"
+   },
+   "delete": {
+      "message": "삭제..."
+   },
+   "delete_item_confirm_many": {
+      "message": "선택한 $1개의 항목을 삭제하시겠습니까?"
+   },
+   "delete_item_confirm_single": {
+      "message": "'$1'을(를) 삭제하시겠습니까?"
+   },
+   "deleted": {
+      "message": "삭제됨"
+   },
+   "do_not_show_again": {
+      "message": "확인했습니다. 다시 표시하지 않습니다."
+   },
+   "downloads": {
+      "message": "다운로드"
+   },
+   "edit": {
+      "message": "수정..."
+   },
+   "empty": {
+      "message": "비어있습니다."
+   },
+   "experimental": {
+      "message": "실험용"
+   },
+   "extensions": {
+      "message": "확장 프로그램"
+   },
+   "favorites": {
+      "message": "책갈피"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites은(는) 새로운 권한이 필요합니다."
+   },
+   "folder": {
+      "message": "폴더"
+   },
+   "forward": {
+      "message": "앞으로"
+   },
+   "got_it": {
+      "message": "확인"
+   },
+   "help": {
+      "message": "도움말"
+   },
+   "history": {
+      "message": "방문 기록"
+   },
+   "more_information": {
+      "message": "추가 정보"
+   },
+   "name": {
+      "message": "이름"
+   },
+   "new_tab": {
+      "message": "새 탭"
+   },
+   "no_search_results_found": {
+      "message": "검색결과 없음"
+   },
+   "not_found": {
+      "message": "찾을 수 없음"
+   },
+   "ok": {
+      "message": "확인"
+   },
+   "open": {
+      "message": "열기"
+   },
+   "open_all_links": {
+      "message": "모든 북마크 열기"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "모든 북마크를 시크릿 창에서 열기"
+   },
+   "open_all_links_in_new_window": {
+      "message": "모든 북마크를 새 창에서 열기"
+   },
+   "open_in_incognito_window": {
+      "message": "시크릿 창에서 열기"
+   },
+   "open_in_new_tab": {
+      "message": "새 탭에서 열기"
+   },
+   "open_in_new_window": {
+      "message": "새 창에서 열기"
+   },
+   "paste": {
+      "message": "붙여넣기"
+   },
+   "permission_symbols": {
+      "message": "방문하는 웹사이트의 아이콘 조회"
+   },
+   "reload": {
+      "message": "새로고침"
+   },
+   "remove": {
+      "message": "제거"
+   },
+   "reorder_by_title": {
+      "message": "제목순으로 다시 정렬"
+   },
+   "search": {
+      "message": "검색"
+   },
+   "search_": {
+      "message": "검색..."
+   },
+   "search_the_web": {
+      "message": "웹 검색..."
+   },
+   "set_wallpaper_": {
+      "message": "배경화면 설정..."
+   },
+   "settings": {
+      "message": "설정"
+   },
+   "show_all": {
+      "message": "전체 보기"
+   },
+   "show_in_folder": {
+      "message": "폴더 열기"
+   },
+   "status": {
+      "message": "상태"
+   },
+   "subscribe": {
+      "message": "구독하기"
+   },
+   "support": {
+      "message": "지원"
+   },
+   "today": {
+      "message": "오늘"
+   },
+   "unsubscribe": {
+      "message": "구독 해지"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "어제"
+   }
+}

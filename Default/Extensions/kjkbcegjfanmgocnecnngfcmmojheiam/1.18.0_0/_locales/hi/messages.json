@@ -1,0 +1,200 @@
+{
+   "about": {
+      "message": "Favorites के बारे में..."
+   },
+   "add": {
+      "message": "जोड़ें"
+   },
+   "add_bookmark": {
+      "message": "बुकमार्क जोड़ें"
+   },
+   "add_folder": {
+      "message": "फ़ोल्डर जोड़ें..."
+   },
+   "add_page": {
+      "message": "पृष्ठ जोड़ें..."
+   },
+   "apps": {
+      "message": "ऐप्स"
+   },
+   "back": {
+      "message": "वापस"
+   },
+   "bookmark": {
+      "message": "बुकमार्क"
+   },
+   "bookmark_manager": {
+      "message": "बुकमार्क प्रबंधक"
+   },
+   "bookmarks": {
+      "message": "बुकमार्क"
+   },
+   "cancel": {
+      "message": "अभी नहीं"
+   },
+   "cancelled": {
+      "message": "रद्द"
+   },
+   "close": {
+      "message": "बंद करें"
+   },
+   "complete": {
+      "message": "पूर्ण"
+   },
+   "confirm": {
+      "message": "दुबारा पूछें"
+   },
+   "confirm_changes": {
+      "message": "परिवर्तनों की दुबारा पूछें"
+   },
+   "confirm_permiission": {
+      "message": "अनुमतियों की दुबारा पूछें"
+   },
+   "context_menu": {
+      "message": "प्रसंग मेनू"
+   },
+   "copy": {
+      "message": "प्रतिलिपि बनाएं"
+   },
+   "cut": {
+      "message": "काटें"
+   },
+   "default": {
+      "message": "सामान्य"
+   },
+   "delete": {
+      "message": "हटाएं..."
+   },
+   "delete_item_confirm_many": {
+      "message": "क्या आप वाकई $1 आइटम हटाना चाहते हैं?"
+   },
+   "delete_item_confirm_single": {
+      "message": "क्या आप वाकई \"$1\" को हटाना चाहते हैं?"
+   },
+   "deleted": {
+      "message": "हटाया गया"
+   },
+   "do_not_show_again": {
+      "message": "समझ लिया, मुझे यह फिर से न दिखाएं."
+   },
+   "downloads": {
+      "message": "डाउनलोड"
+   },
+   "edit": {
+      "message": "संपादित करें..."
+   },
+   "experimental": {
+      "message": "प्रयोगात्मक"
+   },
+   "extensions": {
+      "message": "एक्‍सटेंशन"
+   },
+   "favorites": {
+      "message": "पसंदीदा"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites को नई अनुमतियों की आवश्‍यकता है"
+   },
+   "folder": {
+      "message": "फ़ोल्डर"
+   },
+   "forward": {
+      "message": "आगे भेजें"
+   },
+   "got_it": {
+      "message": "समझ लिया"
+   },
+   "help": {
+      "message": "मदद"
+   },
+   "history": {
+      "message": "इतिहास"
+   },
+   "more_information": {
+      "message": "अधिक जानकारी"
+   },
+   "name": {
+      "message": "नाम"
+   },
+   "new_tab": {
+      "message": "नया टैब"
+   },
+   "no_search_results_found": {
+      "message": "कोई खोज परिणाम नहीं मिला"
+   },
+   "not_found": {
+      "message": "नहीं मिला"
+   },
+   "ok": {
+      "message": "ठीक"
+   },
+   "open": {
+      "message": "खोलें"
+   },
+   "open_all_links": {
+      "message": "सभी बुकमार्क खोलें"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "सभी बुकमार्क गुप्त विंडो में खोलें"
+   },
+   "open_all_links_in_new_window": {
+      "message": "सभी बुकमार्क नई विंडो में खोलें"
+   },
+   "open_in_incognito_window": {
+      "message": "गुप्त विंडो में खोलें"
+   },
+   "open_in_new_tab": {
+      "message": "नए टैब में खोलें"
+   },
+   "open_in_new_window": {
+      "message": "नई विंडो में खोलें"
+   },
+   "paste": {
+      "message": "चिपकाएं"
+   },
+   "permission_symbols": {
+      "message": "आपके द्वारा देखी जाने वाली वेबसाइटों के आइकन पढ़ें"
+   },
+   "reload": {
+      "message": "पुन: लोड करें"
+   },
+   "remove": {
+      "message": "निकालें"
+   },
+   "reorder_by_title": {
+      "message": "शीर्षक द्वारा फिर से क्रमित करें"
+   },
+   "search": {
+      "message": "खोज"
+   },
+   "search_": {
+      "message": "खोज..."
+   },
+   "search_the_web": {
+      "message": "वेब पर खोजें..."
+   },
+   "set_wallpaper_": {
+      "message": "वॉलपेपर सेट करें..."
+   },
+   "settings": {
+      "message": "सेटिंग्स"
+   },
+   "show_all": {
+      "message": "सभी दिखाएं"
+   },
+   "show_in_folder": {
+      "message": "फ़ोल्डर में दिखाएं"
+   },
+   "status": {
+      "message": "स्थिति"
+   },
+   "today": {
+      "message": "आज"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "कल"
+   }
+}

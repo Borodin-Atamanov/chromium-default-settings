@@ -1,0 +1,221 @@
+{
+   "about": {
+      "message": "Información de Favorites..."
+   },
+   "add": {
+      "message": "Añadir"
+   },
+   "add_bookmark": {
+      "message": "Añadir marcador"
+   },
+   "add_folder": {
+      "message": "Añadir carpeta..."
+   },
+   "add_page": {
+      "message": "Añadir página..."
+   },
+   "apps": {
+      "message": "Aplicaciones"
+   },
+   "back": {
+      "message": "Atrás"
+   },
+   "bookmark": {
+      "message": "Marcador"
+   },
+   "bookmark_manager": {
+      "message": "Administrador de marcadores"
+   },
+   "bookmarks": {
+      "message": "Marcadores"
+   },
+   "cancel": {
+      "message": "Cancelar"
+   },
+   "cancelled": {
+      "message": "Cancelado"
+   },
+   "click_to_open_x": {
+      "message": "Pulse para abrir $1"
+   },
+   "close": {
+      "message": "Cerrar"
+   },
+   "colors_": {
+      "message": "Colores…"
+   },
+   "complete": {
+      "message": "Completo"
+   },
+   "confirm": {
+      "message": "Confirmar"
+   },
+   "confirm_changes": {
+      "message": "Confirmar cambios"
+   },
+   "confirm_permiission": {
+      "message": "Confirmar permisos"
+   },
+   "context_menu": {
+      "message": "Menú contextual"
+   },
+   "copy": {
+      "message": "Copiar"
+   },
+   "cut": {
+      "message": "Cortar"
+   },
+   "dark": {
+      "message": "Oscuro"
+   },
+   "default": {
+      "message": "Predeterminado"
+   },
+   "delete": {
+      "message": "Eliminar..."
+   },
+   "delete_item_confirm_many": {
+      "message": "¿Seguro que quieres eliminar estos $1 elementos?"
+   },
+   "delete_item_confirm_single": {
+      "message": "¿Seguro que quieres eliminar \"$1\"?"
+   },
+   "deleted": {
+      "message": "Eliminado"
+   },
+   "do_not_show_again": {
+      "message": "No volver a mostrar."
+   },
+   "downloads": {
+      "message": "Descargas"
+   },
+   "edit": {
+      "message": "Editar..."
+   },
+   "empty": {
+      "message": "Sin datos."
+   },
+   "experimental": {
+      "message": "Experimentales"
+   },
+   "extensions": {
+      "message": "Extensiones"
+   },
+   "favorites": {
+      "message": "Favoritos"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Se necesitan nuevos permisos para Favorites"
+   },
+   "folder": {
+      "message": "Carpeta"
+   },
+   "forward": {
+      "message": "Adelante"
+   },
+   "got_it": {
+      "message": "Listo"
+   },
+   "help": {
+      "message": "Ayuda"
+   },
+   "history": {
+      "message": "Historial"
+   },
+   "more_information": {
+      "message": "Más información"
+   },
+   "name": {
+      "message": "Nombre"
+   },
+   "new_tab": {
+      "message": "Nueva pestaña"
+   },
+   "no_search_results_found": {
+      "message": "No se han encontrado resultados de búsqueda"
+   },
+   "not_found": {
+      "message": "No se ha encontrado."
+   },
+   "ok": {
+      "message": "Aceptar"
+   },
+   "open": {
+      "message": "Abrir"
+   },
+   "open_all_links": {
+      "message": "Abrir todos los marcadores"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Abrir todos los marcadores en una ventana de incógnito"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Abrir todos los marcadores en una ventana nueva"
+   },
+   "open_in_incognito_window": {
+      "message": "Abrir en una ventana de incógnito"
+   },
+   "open_in_new_tab": {
+      "message": "Abrir en una pestaña nueva"
+   },
+   "open_in_new_window": {
+      "message": "Abrir en una ventana nueva"
+   },
+   "paste": {
+      "message": "Pegar"
+   },
+   "permission_symbols": {
+      "message": "Leer los iconos de los sitios web que visites"
+   },
+   "reload": {
+      "message": "Cargar de nuevo"
+   },
+   "remove": {
+      "message": "Quitar"
+   },
+   "reorder_by_title": {
+      "message": "Reordenar por título"
+   },
+   "search": {
+      "message": "Buscar"
+   },
+   "search_": {
+      "message": "Buscar..."
+   },
+   "search_the_web": {
+      "message": "Búsqueda en la Web..."
+   },
+   "set_wallpaper_": {
+      "message": "Establecer fondo de pantalla..."
+   },
+   "settings": {
+      "message": "Ajustes"
+   },
+   "show_all": {
+      "message": "Mostrar todo"
+   },
+   "show_in_folder": {
+      "message": "Mostrar en carpeta"
+   },
+   "status": {
+      "message": "Estado"
+   },
+   "subscribe": {
+      "message": "Suscribirse"
+   },
+   "support": {
+      "message": "Apoyo"
+   },
+   "today": {
+      "message": "Hoy a las"
+   },
+   "unsubscribe": {
+      "message": "Cancelar suscripción"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "Ayer a las"
+   }
+}

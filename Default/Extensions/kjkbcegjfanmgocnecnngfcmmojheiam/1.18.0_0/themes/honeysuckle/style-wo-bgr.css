@@ -1,0 +1,63 @@
+:root {
+  --theme-background-color: #D94F70;
+}
+html:before {
+  content: '';
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -1000;
+  background-color: #D94F70;
+}
+:root {
+  --theme-overlay-color: rgba(234, 111, 140, 0.3);
+  --theme-overlay-color-input: #bc3153;
+  --theme-overlay-color-selected: #bc3153;
+  --theme-overlay-color-hover: rgba(234, 111, 140, 0.5);
+  --theme-overlay-color-border: rgba(188, 49, 83, 0.25);
+  --theme-icon-border-radius: 7px;
+  --theme-icon-filter: drop-shadow(2px 2px 5px rgba(67, 17, 29, 0.15));
+  --theme-text-color: #faeeef;
+  --theme-scrollbar-thumb-background-color: rgba(234, 111, 140, 0.4);
+  --theme-scrollbar-thumb-background-color-hover: rgba(188, 49, 83, 0.5);
+  --theme-dock-background-color: var(--theme-overlay-color);
+  --theme-dock-box-shadow: 0 0 4px 4px rgba(0, 0, 0, 0.03);
+  --clock-analog-2-dial-color: rgba(234, 111, 140, 0.5);
+  --clock-analog-3-dial-color: rgba(234, 111, 140, 0.3);
+  --clock-analog-2-hands-inner-color: #cc3b5e;
+}
+:root {
+  --theme-icon-folder-color: #faeeef;
+  --theme-icon-folder-background-color: #bc3153;
+  --theme-icon-folder-shadow-color: rgba(0, 0, 0, 0.07);
+  --theme-icon-bookmarks-color: #faeeef;
+  --theme-icon-bookmarks-background-color: #bc3153;
+  --theme-icon-bookmarks-shadow-color: rgba(0, 0, 0, 0.07);
+  --theme-icon-history-color: #faeeef;
+  --theme-icon-history-background-color: #bc3153;
+  --theme-icon-history-shadow-color: rgba(0, 0, 0, 0.07);
+  --theme-icon-downloads-color: #faeeef;
+  --theme-icon-downloads-background-color: #bc3153;
+  --theme-icon-downloads-shadow-color: rgba(0, 0, 0, 0.07);
+  --theme-icon-settings-color: #faeeef;
+  --theme-icon-settings-background-color: #bc3153;
+  --theme-icon-settings-shadow-color: rgba(0, 0, 0, 0.07);
+  --theme-icon-extensions-color: #faeeef;
+  --theme-icon-extensions-background-color: #bc3153;
+  --theme-icon-extensions-shadow-color: rgba(0, 0, 0, 0.07);
+  --theme-icon-apps-color: #faeeef;
+  --theme-icon-apps-background-color: #bc3153;
+  --theme-icon-apps-shadow-color: rgba(0, 0, 0, 0.07);
+  --theme-icon-games-color: #faeeef;
+  --theme-icon-games-background-color: #bc3153;
+  --theme-icon-games-shadow-color: rgba(0, 0, 0, 0.07);
+  --theme-icon-news-color: #faeeef;
+  --theme-icon-news-background-color: #bc3153;
+  --theme-icon-news-shadow-color: rgba(0, 0, 0, 0.07);
+  --theme-icon-chrome-color: #faeeef;
+  --theme-icon-chrome-background-color: #bc3153;
+  --theme-icon-chrome-shadow-color: rgba(0, 0, 0, 0.07);
+}

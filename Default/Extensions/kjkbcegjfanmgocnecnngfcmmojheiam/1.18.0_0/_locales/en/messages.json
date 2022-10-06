@@ -1,0 +1,587 @@
+{
+   "120_minutes": {
+      "message": "120 minutes"
+   },
+   "240_minutes": {
+      "message": "240 minutes"
+   },
+   "24_hour_clock": {
+      "message": "24-hour clock"
+   },
+   "30_minutes": {
+      "message": "30 minutes"
+   },
+   "60_minutes": {
+      "message": "60 minutes"
+   },
+   "about": {
+      "message": "About Favorites..."
+   },
+   "activation": {
+      "message": "Activation"
+   },
+   "add": {
+      "message": "Add"
+   },
+   "add_bookmark": {
+      "message": "Add bookmark"
+   },
+   "add_folder": {
+      "message": "Add folder..."
+   },
+   "add_page": {
+      "message": "Add page..."
+   },
+   "apps": {
+      "message": "Apps"
+   },
+   "back": {
+      "message": "Back"
+   },
+   "back_up_settings": {
+      "message": "Back up settings"
+   },
+   "background": {
+      "message": "Background"
+   },
+   "background_color": {
+      "message": "Color"
+   },
+   "background_image": {
+      "message": "Background image"
+   },
+   "background_type": {
+      "message": "Background type"
+   },
+   "background_web": {
+      "message": "Web-URL"
+   },
+   "backup": {
+      "message": "Backup"
+   },
+   "backup_footnote": {
+      "message": "Please note: Only this extension's settings are backed up. To back up your bookmarks please use the export and import functions of Chrome."
+   },
+   "behaviour": {
+      "message": "Behaviour"
+   },
+   "blend_mode": {
+      "message": "Blend mode"
+   },
+   "bookmark": {
+      "message": "Bookmark"
+   },
+   "bookmark_manager": {
+      "message": "Bookmark Manager"
+   },
+   "bookmarks": {
+      "message": "Bookmarks"
+   },
+   "bookmarks_for_internal_pages": {
+      "message": "Bookmarks for internal pages"
+   },
+   "browse": {
+      "message": "Browse"
+   },
+   "buttons": {
+      "message": "Buttons"
+   },
+   "cache": {
+      "message": "Cache"
+   },
+   "cache_empty": {
+      "message": "There are no items in the cache."
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "cancelled": {
+      "message": "Cancelled"
+   },
+   "check_for_feed_updates": {
+      "message": "Check for news feed updates"
+   },
+   "choose_folder_": {
+      "message": "Choose folder ..."
+   },
+   "chrome_settings": {
+      "message": "Chrome Settings"
+   },
+   "chrome_theme": {
+      "message": "Chrome Theme"
+   },
+   "clear_cache": {
+      "message": "Clear cache"
+   },
+   "clear_cache_confirm": {
+      "message": "$1 items have been cached. Are you sure you want to clear the cache?"
+   },
+   "click_to_open_x": {
+      "message": "Click to open $1"
+   },
+   "clock": {
+      "message": "Clock"
+   },
+   "clock_style": {
+      "message": "Clock style"
+   },
+   "close": {
+      "message": "Close"
+   },
+   "color": {
+      "message": "Color"
+   },
+   "colors_": {
+      "message": "Colours…"
+   },
+   "column_gap": {
+      "message": "Column gap"
+   },
+   "columns_max": {
+      "message": "Max number of columns"
+   },
+   "complete": {
+      "message": "Complete"
+   },
+   "confirm": {
+      "message": "Confirm"
+   },
+   "confirm_changes": {
+      "message": "Confirm Changes"
+   },
+   "confirm_permiission": {
+      "message": "Confirm Permission"
+   },
+   "confirm_popup_incognito": {
+      "message": "It is not possible to show your favorites in an incognito tab.\nDo you want to enable the pop-up?"
+   },
+   "context_menu": {
+      "message": "Context menu"
+   },
+   "copy": {
+      "message": "Copy"
+   },
+   "custom_url": {
+      "message": "Custom URL"
+   },
+   "cut": {
+      "message": "Cut"
+   },
+   "dark": {
+      "message": "Dark"
+   },
+   "dash": {
+      "message": "Dash"
+   },
+   "default": {
+      "message": "Default"
+   },
+   "delete": {
+      "message": "Delete..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Are you sure that you want to delete these $1 items?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Are you sure that you want to delete \"$1\"?"
+   },
+   "deleted": {
+      "message": "Deleted"
+   },
+   "do_not_show_again": {
+      "message": "Got it, don't show me this again."
+   },
+   "dock": {
+      "message": "Dock"
+   },
+   "dock_dblclick": {
+      "message": "Double-click on dock opens folder"
+   },
+   "dock_folder": {
+      "message": "Folder"
+   },
+   "downloads": {
+      "message": "Downloads"
+   },
+   "edit": {
+      "message": "Edit..."
+   },
+   "edit_bookmarks": {
+      "message": "Edit bookmarks"
+   },
+   "empty": {
+      "message": "Empty."
+   },
+   "error": {
+      "message": "Error"
+   },
+   "error_newtab_occupied": {
+      "message": "Another extension controls what page is shown when you open a new tab. Please, disable that extension and try again."
+   },
+   "error_too_many_subscriptions": {
+      "message": "Maximum number of subscriptions exceeded! Currently no more than $1 subscriptions are allowed!"
+   },
+   "experimental": {
+      "message": "Experimental"
+   },
+   "extension_button": {
+      "message": "Extension Button"
+   },
+   "extension_description": {
+      "message": "A new tab page with your favorite bookmarks."
+   },
+   "extensions": {
+      "message": "Extensions"
+   },
+   "extra_extra_small": {
+      "message": "Extra Extra Small"
+   },
+   "extra_large": {
+      "message": "Extra Large"
+   },
+   "extra_small": {
+      "message": "Extra Small"
+   },
+   "favorites": {
+      "message": "Favorites"
+   },
+   "favorites_deng": {
+      "message": "Favorites"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites requires new permissions"
+   },
+   "feed_": {
+      "message": "News Feed..."
+   },
+   "feeds": {
+      "message": "News Feeds"
+   },
+   "feeds_expiration_time": {
+      "message": "Cache time for news feed updates"
+   },
+   "filter_active": {
+      "message": "Filter active"
+   },
+   "folder": {
+      "message": "Folder"
+   },
+   "folders": {
+      "message": "Folders"
+   },
+   "forever": {
+      "message": "Forever"
+   },
+   "forward": {
+      "message": "Forward"
+   },
+   "from_file": {
+      "message": "From file"
+   },
+   "from_theme": {
+      "message": "From theme"
+   },
+   "from_web": {
+      "message": "From web"
+   },
+   "games": {
+      "message": "Games"
+   },
+   "got_it": {
+      "message": "Got it"
+   },
+   "help": {
+      "message": "Help"
+   },
+   "history": {
+      "message": "History"
+   },
+   "icon_folder_thumbnails": {
+      "message": "Preview folder contents"
+   },
+   "icon_folder_thumbnails_style": {
+      "message": "Folder preview style"
+   },
+   "icon_rule_radio_net": {
+      "message": "radio.net: Use icon of radio station if possible"
+   },
+   "icon_rule_twitter_com": {
+      "message": "twitter.com: Use profile picture if possible"
+   },
+   "icon_rule_unsplash_com": {
+      "message": "unsplash.com: Use thumbnail for single photo pages"
+   },
+   "icon_rule_youtube_com": {
+      "message": "youtube.com: Use icon of channel if possible"
+   },
+   "icons": {
+      "message": "Icons"
+   },
+   "in_background": {
+      "message": "Periodically in background"
+   },
+   "keyboard_shortcuts": {
+      "message": "Keyboard shortcuts"
+   },
+   "large": {
+      "message": "Large"
+   },
+   "layout": {
+      "message": "Layout"
+   },
+   "link_to_chrome_themes": {
+      "message": "Find Chrome themes with matching colors here"
+   },
+   "medium": {
+      "message": "Medium"
+   },
+   "more_information": {
+      "message": "More information"
+   },
+   "name": {
+      "message": "Name"
+   },
+   "navigation": {
+      "message": "Navigation"
+   },
+   "new_tab": {
+      "message": "New Tab"
+   },
+   "news": {
+      "message": "News"
+   },
+   "no_search_results_found": {
+      "message": "No search results found"
+   },
+   "not_found": {
+      "message": "Not Found"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "on_new_tab": {
+      "message": "When opening a new tab"
+   },
+   "on_startup": {
+      "message": "Only on startup"
+   },
+   "one_day": {
+      "message": "One day"
+   },
+   "one_week": {
+      "message": "One week"
+   },
+   "oops": {
+      "message": "Oops! Something went wrong!"
+   },
+   "opacity": {
+      "message": "Opacity"
+   },
+   "open": {
+      "message": "Open"
+   },
+   "open_all_links": {
+      "message": "Open All Bookmarks"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Open All Bookmarks in Incognito Window"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Open All Bookmarks in New Window"
+   },
+   "open_bookmarks_in_new_tab": {
+      "message": "Open bookmarks in new tab"
+   },
+   "open_in_incognito_window": {
+      "message": "Open in Incognito window"
+   },
+   "open_in_new_tab": {
+      "message": "Open in new tab"
+   },
+   "open_in_new_window": {
+      "message": "Open in new window"
+   },
+   "paste": {
+      "message": "Paste"
+   },
+   "permission_symbols": {
+      "message": "Read the icons of the websites that you visit"
+   },
+   "popup": {
+      "message": "Popup"
+   },
+   "popup_incognito_enabled": {
+      "message": "Pop-up is enabled. \nClick the extension button again!"
+   },
+   "random_selection": {
+      "message": "Random Selection"
+   },
+   "reload": {
+      "message": "Reload"
+   },
+   "remove": {
+      "message": "Remove"
+   },
+   "reorder_by_title": {
+      "message": "Reorder by title"
+   },
+   "reset_background": {
+      "message": "Reset background"
+   },
+   "reset_customizations": {
+      "message": "Reset customizations: "
+   },
+   "reset_dock_background": {
+      "message": "Reset dock background"
+   },
+   "restore_settings": {
+      "message": "Restore settings"
+   },
+   "root_folder": {
+      "message": "Root folder"
+   },
+   "row_gap": {
+      "message": "Row gap"
+   },
+   "search": {
+      "message": "Search"
+   },
+   "search_": {
+      "message": "Search..."
+   },
+   "search_dblclick": {
+      "message": "Double-click on background to open search"
+   },
+   "search_deng": {
+      "message": "Search"
+   },
+   "search_engine": {
+      "message": "Search engine"
+   },
+   "search_on_website_": {
+      "message": "Search on website:"
+   },
+   "search_open_folder_shortcut_active": {
+      "message": "SHIFT+TAB: Show selected bookmark in folder"
+   },
+   "search_prefer_website": {
+      "message": "Website (if present, otherwise search engine)"
+   },
+   "search_preferred_site": {
+      "message": "Preferred search site"
+   },
+   "search_site_shortcut_active": {
+      "message": "TAB: Search on selected site"
+   },
+   "search_the_web": {
+      "message": "Search the web..."
+   },
+   "select": {
+      "message": "Select"
+   },
+   "select_style_": {
+      "message": "Select style ..."
+   },
+   "selected_photography": {
+      "message": "Selected Photography"
+   },
+   "set_wallpaper_": {
+      "message": "Set as wallpaper ..."
+   },
+   "settings": {
+      "message": "Settings"
+   },
+   "settings_successfully_restored": {
+      "message": "Settings successfully restored!"
+   },
+   "show_all": {
+      "message": "Show all"
+   },
+   "show_dash": {
+      "message": "Show Dash"
+   },
+   "show_dock": {
+      "message": "Show dock"
+   },
+   "show_favorites_in_current_tab": {
+      "message": "Show favorites in current tab"
+   },
+   "show_favorites_in_popup": {
+      "message": "Show favorites in pop-up"
+   },
+   "show_in_folder": {
+      "message": "Show in Folder"
+   },
+   "show_last_visited_folder": {
+      "message": "Show most recently visited folder"
+   },
+   "show_last_visited_folder_dependency": {
+      "message": "(Requires 'Show path in subfolders')"
+   },
+   "show_navigation_bar": {
+      "message": "Show a navigation bar (in root level)"
+   },
+   "site_specific_rules": {
+      "message": "Site-specific rules"
+   },
+   "size": {
+      "message": "Size"
+   },
+   "small": {
+      "message": "Small"
+   },
+   "status": {
+      "message": "Status"
+   },
+   "style": {
+      "message": "Style"
+   },
+   "subscribe": {
+      "message": "Subscribe"
+   },
+   "subscribe_unsubscribe": {
+      "message": "Subscribe / Unsubscribe"
+   },
+   "subscriptions": {
+      "message": "Subscriptions"
+   },
+   "support": {
+      "message": "Support"
+   },
+   "sync": {
+      "message": "Synchronization"
+   },
+   "sync_all": {
+      "message": "Sync All"
+   },
+   "sync_footnote": {
+      "message": "Please note: You need to be signed in to Chrome to sync settings. Not all settings can be synchronized. Syncing may take a few minutes."
+   },
+   "theme": {
+      "message": "Theme"
+   },
+   "today": {
+      "message": "Today"
+   },
+   "unsubscribe": {
+      "message": "Unsubscribe"
+   },
+   "unsubscribe_all": {
+      "message": "Unsubscribe All"
+   },
+   "unsubscribe_all_confirm": {
+      "message": "You have subscribed to $1 news feeds. Are you sure you want unsubscibe from all feeds?"
+   },
+   "unsubscribe_none": {
+      "message": "You have not subscribed to any news feeds."
+   },
+   "url": {
+      "message": "URL"
+   },
+   "url_mapping": {
+      "message": "Custom URL mapping"
+   },
+   "yesterday": {
+      "message": "Yesterday"
+   }
+}

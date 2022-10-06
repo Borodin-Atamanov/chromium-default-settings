@@ -1,0 +1,28 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="80"
+  height="80"
+  viewBox="0 0 80 80"
+  version="1.1"
+>
+ <defs>
+  <clipPath
+    clipPathUnits="userSpaceOnUse"
+    id="clip">
+   <circle
+     r="39.5"
+     cx="40"
+     cy="40" />
+  </clipPath>
+ </defs>
+ <g clip-path="url(#clip)">
+<circle style="fill:#024856" r="39" cx="40" cy="40" />
+  <path
+    d="m 34,26.0 -8,8 6.011719,6.011719 L 26,44.0 30.332031,48.332038 26,54.0 l 26,26 h 28 v -28 l -26,-26 -5.271484,4.728516 L 44,26.0 39.044922,31.044929 Z"
+    style="fill:rgba(0,0,0,0.05)" />
+  <path
+    d="m 26,46 h 8 v 8 h -8 z m 10,0 h 8 v 8 h -8 z m 10,0 h 8 v 8 H 46 Z M 26,36 h 8 v 8 h -8 z m 10,0 h 8 v 8 h -8 z m 10,0 h 8 v 8 h -8 z m 0,-10 h 8 v 8 h -8 z m -10,0 h 8 v 8 h -8 z m -10,0 h 8 v 8 h -8 z"
+    style="fill:#eef8fa"
+    />
+ </g>
+</svg>

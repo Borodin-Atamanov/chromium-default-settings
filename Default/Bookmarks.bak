@@ -1,0 +1,76 @@
+{
+   "checksum": "afb28fdcc76f07a41354f23d86568e05",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13309506972438681",
+            "date_last_used": "0",
+            "guid": "e93d71bf-071a-4557-8cf8-6764a04ed906",
+            "id": "12",
+            "name": "KeePass web",
+            "type": "url",
+            "url": "https://app.keeweb.info/?from=dzintara"
+         }, {
+            "date_added": "13309506387808363",
+            "date_last_used": "0",
+            "guid": "c9d31f90-08ed-4f9b-ac57-f644ac9a7d45",
+            "id": "9",
+            "name": "Как настроить браузер Chromium / Chrome 2023",
+            "type": "url",
+            "url": "https://bdsx.notion.site/Chromium-Chrome-2023-77a3c04a4edb4463874152c534c6189a"
+         }, {
+            "date_added": "13309507021708805",
+            "date_last_used": "0",
+            "guid": "e16460c7-31f8-4cfa-ba3f-a300db76aa92",
+            "id": "13",
+            "name": "Telegram web k",
+            "type": "url",
+            "url": "https://web.telegram.org/k/?from=dzintara"
+         }, {
+            "date_added": "13309507040931519",
+            "date_last_used": "0",
+            "guid": "32ff3d17-bdf3-47b1-b556-997ba68ab2b0",
+            "id": "14",
+            "name": "Telegram web",
+            "type": "url",
+            "url": "https://web.telegram.org/z/?from=dzintara"
+         } ],
+         "date_added": "13309505048607593",
+         "date_last_used": "0",
+         "date_modified": "13309507040931519",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13309506907733071",
+            "date_last_used": "0",
+            "guid": "d001693c-24f0-4991-a4f5-b8b9304b5639",
+            "id": "10",
+            "name": "KeeWeb",
+            "type": "url",
+            "url": "https://app.keeweb.info/?from=dzintara"
+         } ],
+         "date_added": "13309505048607598",
+         "date_last_used": "0",
+         "date_modified": "13309506907733071",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13309505048607602",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

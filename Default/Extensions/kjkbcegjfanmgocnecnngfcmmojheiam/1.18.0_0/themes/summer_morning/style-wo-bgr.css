@@ -1,0 +1,63 @@
+:root {
+  --theme-background-color: #69B3A9;
+}
+html:before {
+  content: '';
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -1000;
+  background-color: #69B3A9;
+}
+:root {
+  --theme-icon-border-radius: 4px;
+  --theme-icon-filter: drop-shadow(3px 3px 7px rgba(0, 0, 0, 0.12));
+  --theme-text-color: #ffffff;
+  --theme-path-background-color: rgba(255, 255, 255, 0.08);
+  --theme-path-border-bottom: none;
+  --theme-dock-background-color: rgba(255, 255, 255, 0.08);
+  --theme-dock-box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.01);
+  --theme-scrollbar-thumb-background-color: rgba(255, 255, 255, 0.08);
+  --theme-scrollbar-thumb-background-color-hover: rgba(255, 255, 255, 0.4);
+  --clock-analog-2-dial-color: rgba(255, 255, 255, 0.2);
+  --theme-overlay-color: rgba(255, 255, 255, 0.06);
+  --theme-overlay-color-input: rgba(255, 255, 255, 0.125);
+  --theme-overlay-color-selected: rgba(255, 255, 255, 0.125);
+  --theme-overlay-color-hover: rgba(255, 255, 255, 0.05);
+  --theme-overlay-color-border: rgba(255, 255, 255, 0.075);
+}
+:root {
+  --theme-icon-folder-color: #ffffff;
+  --theme-icon-folder-background-color: #D52954;
+  --theme-icon-folder-background-color2: #ffffff;
+  --theme-icon-bookmarks-color: #ffffff;
+  --theme-icon-bookmarks-background-color: #D52954;
+  --theme-icon-bookmarks-background-color2: #ffffff;
+  --theme-icon-history-color: #ffffff;
+  --theme-icon-history-background-color: #D52954;
+  --theme-icon-history-background-color2: #ffffff;
+  --theme-icon-downloads-color: #ffffff;
+  --theme-icon-downloads-background-color: #D52954;
+  --theme-icon-downloads-background-color2: #ffffff;
+  --theme-icon-settings-color: #ffffff;
+  --theme-icon-settings-background-color: #D52954;
+  --theme-icon-settings-background-color2: #ffffff;
+  --theme-icon-extensions-color: #ffffff;
+  --theme-icon-extensions-background-color: #D52954;
+  --theme-icon-extensions-background-color2: #ffffff;
+  --theme-icon-apps-color: #ffffff;
+  --theme-icon-apps-background-color: #D52954;
+  --theme-icon-apps-background-color2: #ffffff;
+  --theme-icon-games-color: #ffffff;
+  --theme-icon-games-background-color: #D52954;
+  --theme-icon-games-background-color2: #ffffff;
+  --theme-icon-news-color: #ffffff;
+  --theme-icon-news-background-color: #D52954;
+  --theme-icon-news-background-color2: #ffffff;
+  --theme-icon-chrome-color: #ffffff;
+  --theme-icon-chrome-background-color: #D52954;
+  --theme-icon-chrome-background-color2: #ffffff;
+}

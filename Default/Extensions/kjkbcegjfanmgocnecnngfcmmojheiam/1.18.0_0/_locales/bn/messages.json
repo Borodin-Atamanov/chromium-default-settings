@@ -1,0 +1,212 @@
+{
+   "about": {
+      "message": "Favorites সম্বন্ধে..."
+   },
+   "add": {
+      "message": "যুক্ত করুন"
+   },
+   "add_bookmark": {
+      "message": "বুকমার্ক যোগ করুন"
+   },
+   "add_folder": {
+      "message": "ফোল্ডার যুক্ত করুন..."
+   },
+   "add_page": {
+      "message": "পৃষ্ঠা জুড়ুন..."
+   },
+   "apps": {
+      "message": "অ্যাপ্স"
+   },
+   "back": {
+      "message": "ফিরুন"
+   },
+   "bookmark": {
+      "message": "বুকমার্ক"
+   },
+   "bookmark_manager": {
+      "message": "বুকমার্ক পরিচালক"
+   },
+   "bookmarks": {
+      "message": "বুকমার্কস"
+   },
+   "cancel": {
+      "message": "বাতিল"
+   },
+   "cancelled": {
+      "message": "বাতিল হয়েছে"
+   },
+   "close": {
+      "message": "বন্ধ"
+   },
+   "colors_": {
+      "message": "Colors…"
+   },
+   "complete": {
+      "message": "সম্পূর্ণ"
+   },
+   "confirm": {
+      "message": "নিশ্চিত হন"
+   },
+   "confirm_changes": {
+      "message": "পরিবর্তনগুলি নিশ্চিত করুন"
+   },
+   "confirm_permiission": {
+      "message": "অনুমতিগুলি নিশ্চিত করুন"
+   },
+   "context_menu": {
+      "message": "প্রসঙ্গ মেনু"
+   },
+   "copy": {
+      "message": "অনুলিপি"
+   },
+   "cut": {
+      "message": "কাটুন"
+   },
+   "dark": {
+      "message": "Dark"
+   },
+   "default": {
+      "message": "ডিফল্ট"
+   },
+   "delete": {
+      "message": "মুছুন..."
+   },
+   "delete_item_confirm_many": {
+      "message": "আপনি কি \"$1\" আইটেম মুছতে চান?"
+   },
+   "delete_item_confirm_single": {
+      "message": "আপনি কি \"$1\" মুছতে চান?"
+   },
+   "deleted": {
+      "message": "মোছা হয়েছে"
+   },
+   "do_not_show_again": {
+      "message": "বুঝেছি, আমাকে এটি পুনরায় দেখাবেন না৷"
+   },
+   "downloads": {
+      "message": "ডাউনলোডগুলি"
+   },
+   "edit": {
+      "message": "সম্পাদনা..."
+   },
+   "empty": {
+      "message": "Empty."
+   },
+   "experimental": {
+      "message": "পরীক্ষামূলক"
+   },
+   "extensions": {
+      "message": "এক্সটেনশানসমূহ"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites-এর নতুন অনুমতি প্রয়োজন"
+   },
+   "folder": {
+      "message": "ফোল্ডার"
+   },
+   "forward": {
+      "message": "ফরওয়ার্ড"
+   },
+   "got_it": {
+      "message": "বুঝেছি"
+   },
+   "help": {
+      "message": "Help"
+   },
+   "history": {
+      "message": "ইতিহাস"
+   },
+   "more_information": {
+      "message": "আরো তথ্য"
+   },
+   "name": {
+      "message": "নাম"
+   },
+   "new_tab": {
+      "message": "নতুন ট্যাব"
+   },
+   "no_search_results_found": {
+      "message": "কোনো অনুসন্ধান ফলাফল পাওয়া যায়নি"
+   },
+   "not_found": {
+      "message": "খুঁজে পাওয়া যায় নি"
+   },
+   "ok": {
+      "message": "ঠিক আছে"
+   },
+   "open": {
+      "message": "খুলুন"
+   },
+   "open_all_links": {
+      "message": "সকল বুকমার্ক খুলুন"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "ছ্দ্মবেশী উইন্ডোতে সকল বুকমার্ক খুলুন"
+   },
+   "open_all_links_in_new_window": {
+      "message": "নতুন উইন্ডোতে সকল বুকমার্ক খুলুন"
+   },
+   "open_in_incognito_window": {
+      "message": "ছদ্মবেশী উইন্ডোতে খুলুন"
+   },
+   "open_in_new_tab": {
+      "message": "নতুন ট্যাবে খুলুন"
+   },
+   "open_in_new_window": {
+      "message": "নতুন উইন্ডোতে খুলুন"
+   },
+   "paste": {
+      "message": "আটকে দিন"
+   },
+   "permission_symbols": {
+      "message": "আপনার পরিদর্শন করা ওয়েবসাইটগুলির আইকনগুলি পড়ুন"
+   },
+   "reload": {
+      "message": "পুনরায় লোড করুন"
+   },
+   "remove": {
+      "message": "সরান"
+   },
+   "reorder_by_title": {
+      "message": "শিরোনাম অনুসারে পুনঃক্রম করুন"
+   },
+   "search": {
+      "message": "অনুসন্ধান"
+   },
+   "search_": {
+      "message": "অনুসন্ধান..."
+   },
+   "search_the_web": {
+      "message": "ওয়েবে অনুসন্ধান করুন..."
+   },
+   "set_wallpaper_": {
+      "message": "ওয়ালপেপার সেট করুন..."
+   },
+   "settings": {
+      "message": "সেটিংস"
+   },
+   "show_all": {
+      "message": "সকল দেখান"
+   },
+   "show_in_folder": {
+      "message": "ফোল্ডারে দেখান"
+   },
+   "status": {
+      "message": "স্থিতি"
+   },
+   "subscribe": {
+      "message": "সাবস্ক্রাইব (S)"
+   },
+   "today": {
+      "message": "আজ"
+   },
+   "unsubscribe": {
+      "message": "সাবস্ক্রাইবহীন (U)"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "গতলাক"
+   }
+}

@@ -1,0 +1,69 @@
+:root {
+  --theme-background-color: #22252e;
+}
+html:before {
+  content: '';
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -1000;
+  background-color: #22252e;
+  background-image: url("data:image/svg+xml,%3Csvg%0A%20%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%0A%20%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%0A%20%20viewBox%3D%220%200%201920%201080%22%0A%20%20preserveAspectRatio%3D%22none%22%0A%20%3E%0A%20%3Cdefs%3E%0A%20%20%3ClinearGradient%20id%3D%22gt%22%20gradientUnits%3D%22userSpaceOnUse%22%3E%0A%20%20%20%3Cstop%20offset%3D%220%22%20style%3D%22stop-color%3A%233367d6%22%20%2F%3E%0A%20%20%20%3Cstop%20offset%3D%221%22%20style%3D%22stop-color%3A%2300ffcc%22%20%2F%3E%0A%20%20%3C%2FlinearGradient%3E%0A%20%20%3ClinearGradient%0A%20%20%20%20id%3D%22g1%22%20%20%0A%20%20%20%20y2%3D%22-4551.6538%22%0A%20%20%20%20x2%3D%226276.9951%22%0A%20%20%20%20y1%3D%22-4226.166%22%0A%20%20%20%20x1%3D%226276.9951%22%0A%20%20%20%20xlink%3Ahref%3D%22%23gt%22%20%2F%3E%20%20%0A%20%20%3ClinearGradient%0A%20%20%20%20id%3D%22g2%22%20%20%0A%20%20%20%20y2%3D%22-4546.4404%22%0A%20%20%20%20x2%3D%225822.1172%22%0A%20%20%20%20y1%3D%22-4222.9028%22%0A%20%20%20%20x1%3D%225822.1172%22%0A%20%20%20%20xlink%3Ahref%3D%22%23gt%22%20%2F%3E%0A%20%20%3ClinearGradient%0A%20%20%20%20id%3D%22g3%22%20%20%0A%20%20%20%20y2%3D%22-4914.6743%22%0A%20%20%20%20x2%3D%225856.3955%22%0A%20%20%20%20y1%3D%22-4134.9121%22%0A%20%20%20%20x1%3D%225856.3955%22%0A%20%20%20%20xlink%3Ahref%3D%22%23gt%22%20%2F%3E%0A%20%3C%2Fdefs%3E%0A%20%20%3Cpath%20id%3D%22p%22%20d%3D%22m%205454.9917%2C-4531.7876%20v%20558.7891%20h%201920.008%20v%20-498.8323%20c%20-98.8999%2C1.4142%20-161.424%2C90.3321%20-217.912%2C109.4029%20-56.488%2C19.0708%20-126.6052%2C-32.6721%20-205.0603%2C2.0027%20-78.4551%2C34.6748%20-241.9644%2C106.1407%20-377.4251%2C61.1278%20-43.7764%2C-17.5009%20-95.4457%2C-36.5048%20-165.3518%2C-22.5371%20-69.9061%2C13.9677%20-137.5072%2C-53.0619%20-198.6241%2C-37.3398%20-61.1169%2C15.7221%20-88.8296%2C14.1143%20-154.0149%2C2.0589%20-45.9093%2C-8.4904%20-91.9855%2C-38.4414%20-136.2961%2C-51.8448%20-111.3376%2C-26.044%20-173.9803%2C52.4998%20-247.4022%2C-2.052%20-89.109%2C-50.6254%20-132.1932%2C-126.1157%20-217.9215%2C-120.7754%20z%22%20%2F%3E%0A%20%20%3Cuse%20xlink%3Ahref%3D%22%23p%22%20transform%3D%22matrix(0.99999583%2C0%2C0%2C0.79002253%2C-5454.969%2C4205.5763)%22%20style%3D%22fill%3Aurl(%23g1)%22%20%2F%3E%0A%20%20%3Cuse%20xlink%3Ahref%3D%22%23p%22%20transform%3D%22matrix(-1.2953071%2C0%2C0%2C0.71747164%2C9541.8895%2C3949.6198)%22%20style%3D%22fill%3Aurl(%23g2)%22%20%2F%3E%0A%20%20%3Cuse%20xlink%3Ahref%3D%22%23p%22%20transform%3D%22matrix(1.1005162%2C0%2C0%2C0.50669345%2C-6196.3071%2C3101.6651)%22%20style%3D%22fill%3Aurl(%23g3)%22%20%2F%3E%0A%3C%2Fsvg%3E%0A");
+  background-repeat: no-repeat;
+  background-size: 100% 1080px;
+  background-blend-mode: initial;
+  background-position: bottom center;
+}
+:root {
+  --theme-path-border-bottom: 1px solid rgba(255, 255, 255, 0.6);
+  --theme-icon-border-radius: 5px;
+  --theme-icon-filter: drop-shadow(3px 3px 7px rgba(0, 0, 0, 0.12));
+  --theme-text-color: #ffffff;
+  --theme-dock-background-color: transparent;
+  --theme-dock-border-top: 1px solid rgba(255, 255, 255, 0.6);
+  --theme-dock-box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.01);
+  --theme-scrollbar-thumb-background-color: rgba(255, 255, 255, 0.1);
+  --theme-scrollbar-thumb-background-color-hover: rgba(255, 255, 255, 0.4);
+}
+:root {
+  --theme-overlay-color: rgba(45, 49, 61, 0.6);
+  --theme-overlay-color-input: #22252E;
+  --theme-overlay-color-selected: rgba(255, 255, 255, 0.07);
+  --theme-overlay-color-hover: rgba(255, 255, 255, 0.04);
+  --theme-overlay-color-border: rgba(255, 255, 255, 0.03);
+}
+:root {
+  --theme-icon-folder-color: #ffffff;
+  --theme-icon-folder-background-color: #3367d6;
+  --theme-icon-folder-background-color2: #ffffff;
+  --theme-icon-bookmarks-color: #ffffff;
+  --theme-icon-bookmarks-background-color: #3367d6;
+  --theme-icon-bookmarks-background-color2: #ffffff;
+  --theme-icon-history-color: #ffffff;
+  --theme-icon-history-background-color: #3367d6;
+  --theme-icon-history-background-color2: #ffffff;
+  --theme-icon-downloads-color: #ffffff;
+  --theme-icon-downloads-background-color: #3367d6;
+  --theme-icon-downloads-background-color2: #ffffff;
+  --theme-icon-settings-color: #ffffff;
+  --theme-icon-settings-background-color: #3367d6;
+  --theme-icon-settings-background-color2: #ffffff;
+  --theme-icon-extensions-color: #ffffff;
+  --theme-icon-extensions-background-color: #3367d6;
+  --theme-icon-extensions-background-color2: #ffffff;
+  --theme-icon-apps-color: #ffffff;
+  --theme-icon-apps-background-color: #3367d6;
+  --theme-icon-apps-background-color2: #ffffff;
+  --theme-icon-games-color: #ffffff;
+  --theme-icon-games-background-color: #3367d6;
+  --theme-icon-games-background-color2: #ffffff;
+  --theme-icon-news-color: #ffffff;
+  --theme-icon-news-background-color: #3367d6;
+  --theme-icon-news-background-color2: #ffffff;
+  --theme-icon-chrome-color: #ffffff;
+  --theme-icon-chrome-background-color: #3367d6;
+  --theme-icon-chrome-background-color2: #ffffff;
+}

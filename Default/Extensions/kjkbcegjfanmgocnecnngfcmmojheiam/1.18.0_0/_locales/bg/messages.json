@@ -1,0 +1,218 @@
+{
+   "about": {
+      "message": "Всичко за Favorites..."
+   },
+   "add": {
+      "message": "Добавяне"
+   },
+   "add_bookmark": {
+      "message": "Добавяне на отметка"
+   },
+   "add_folder": {
+      "message": "Добавяне на папка..."
+   },
+   "add_page": {
+      "message": "Добавяне на страница..."
+   },
+   "apps": {
+      "message": "Приложения"
+   },
+   "back": {
+      "message": "Назад"
+   },
+   "bookmark": {
+      "message": "Отметка"
+   },
+   "bookmark_manager": {
+      "message": "Диспечер на отметките"
+   },
+   "bookmarks": {
+      "message": "Отметки"
+   },
+   "cancel": {
+      "message": "Отказ"
+   },
+   "cancelled": {
+      "message": "Отказано"
+   },
+   "close": {
+      "message": "Затваряне"
+   },
+   "colors_": {
+      "message": "Цветове…"
+   },
+   "complete": {
+      "message": "Завършено"
+   },
+   "confirm": {
+      "message": "Потвърждаване"
+   },
+   "confirm_changes": {
+      "message": "Потвърждаване на промените"
+   },
+   "confirm_permiission": {
+      "message": "Потвърждаване на разрешенията"
+   },
+   "context_menu": {
+      "message": "Контекстно меню"
+   },
+   "copy": {
+      "message": "Копиране"
+   },
+   "cut": {
+      "message": "Изрязване"
+   },
+   "dark": {
+      "message": "Тъмна"
+   },
+   "default": {
+      "message": "По подразбиране"
+   },
+   "delete": {
+      "message": "Изтриване..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Наистина ли искате да изтриете $1 елемента?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Наистина ли искате да изтриете „$1“?"
+   },
+   "deleted": {
+      "message": "Изтрито"
+   },
+   "do_not_show_again": {
+      "message": "Разбрах, не показвайте това отново."
+   },
+   "downloads": {
+      "message": "Изтегляния"
+   },
+   "edit": {
+      "message": "Редактиране..."
+   },
+   "empty": {
+      "message": "Празно."
+   },
+   "experimental": {
+      "message": "Експерименти"
+   },
+   "extensions": {
+      "message": "Разширения"
+   },
+   "favorites": {
+      "message": "Любими"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "„Favorites“ изисква нови разрешения"
+   },
+   "folder": {
+      "message": "Папка"
+   },
+   "forward": {
+      "message": "Препращане"
+   },
+   "got_it": {
+      "message": "Разбрах"
+   },
+   "help": {
+      "message": "Помощ"
+   },
+   "history": {
+      "message": "История"
+   },
+   "more_information": {
+      "message": "Още информация"
+   },
+   "name": {
+      "message": "Име"
+   },
+   "new_tab": {
+      "message": "Нов раздел"
+   },
+   "no_search_results_found": {
+      "message": "Няма намерени резултати от търсенето"
+   },
+   "not_found": {
+      "message": "Не е намерен"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open": {
+      "message": "Отваряне"
+   },
+   "open_all_links": {
+      "message": "Отваряне на всички отметки"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Отваряне на всички отметки в прозорец в режим „инкогнито“"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Отваряне на всички отметки в нов прозорец"
+   },
+   "open_in_incognito_window": {
+      "message": "Отваряне на прозорец в режим „инкогнито“"
+   },
+   "open_in_new_tab": {
+      "message": "Отваряне в нов раздел"
+   },
+   "open_in_new_window": {
+      "message": "Отваряне в нов прозорец"
+   },
+   "paste": {
+      "message": "Поставяне"
+   },
+   "permission_symbols": {
+      "message": "Четене на иконите на посещаваните от вас уебсайтове"
+   },
+   "reload": {
+      "message": "Повторно зареждане"
+   },
+   "remove": {
+      "message": "Премахване"
+   },
+   "reorder_by_title": {
+      "message": "Подреждане по азбучен ред"
+   },
+   "search": {
+      "message": "Търсене"
+   },
+   "search_": {
+      "message": "Търсене..."
+   },
+   "search_the_web": {
+      "message": "Търсене в мрежата..."
+   },
+   "set_wallpaper_": {
+      "message": "Задаване на тапет..."
+   },
+   "settings": {
+      "message": "Настройки"
+   },
+   "show_all": {
+      "message": "Показване на всички"
+   },
+   "show_in_folder": {
+      "message": "Показване в папката"
+   },
+   "status": {
+      "message": "Състояние"
+   },
+   "subscribe": {
+      "message": "Абониране"
+   },
+   "support": {
+      "message": "Поддръжка"
+   },
+   "today": {
+      "message": "Днес,"
+   },
+   "unsubscribe": {
+      "message": "Отписване"
+   },
+   "url": {
+      "message": "URL адрес"
+   },
+   "yesterday": {
+      "message": "Вчера,"
+   }
+}

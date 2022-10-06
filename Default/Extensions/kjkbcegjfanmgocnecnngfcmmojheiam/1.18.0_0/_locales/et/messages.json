@@ -1,0 +1,221 @@
+{
+   "about": {
+      "message": "Teave Favorites kohta..."
+   },
+   "add": {
+      "message": "Lisa"
+   },
+   "add_bookmark": {
+      "message": "Järjehoidja lisamine"
+   },
+   "add_folder": {
+      "message": "Lisa kaust ..."
+   },
+   "add_page": {
+      "message": "Lisa leht ..."
+   },
+   "apps": {
+      "message": "Rakendused"
+   },
+   "back": {
+      "message": "Tagasi"
+   },
+   "bookmark": {
+      "message": "Järjehoidja"
+   },
+   "bookmark_manager": {
+      "message": "Järjehoidjate haldur"
+   },
+   "bookmarks": {
+      "message": "Järjehoidjad"
+   },
+   "cancel": {
+      "message": "Tühista"
+   },
+   "cancelled": {
+      "message": "Tühistatud"
+   },
+   "click_to_open_x": {
+      "message": "Klõpsa, et avada $1"
+   },
+   "close": {
+      "message": "Sule"
+   },
+   "colors_": {
+      "message": "Värvid…"
+   },
+   "complete": {
+      "message": "Lõpetatud"
+   },
+   "confirm": {
+      "message": "Kinnita"
+   },
+   "confirm_changes": {
+      "message": "Muudatuste kinnitamine"
+   },
+   "confirm_permiission": {
+      "message": "Kinnitage load"
+   },
+   "context_menu": {
+      "message": "Kontekstimenüü"
+   },
+   "copy": {
+      "message": "Kopeeri"
+   },
+   "cut": {
+      "message": "Lõika"
+   },
+   "dark": {
+      "message": "tume"
+   },
+   "default": {
+      "message": "Vaikimisi"
+   },
+   "delete": {
+      "message": "Kustuta ..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Kas soovite kindlasti $1 üksust kustutada?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Kas soovite kindlasti faili „$1” kustutada?"
+   },
+   "deleted": {
+      "message": "Kustutatud"
+   },
+   "do_not_show_again": {
+      "message": "Selge. Ära seda enam kuva."
+   },
+   "downloads": {
+      "message": "Allalaadimised"
+   },
+   "edit": {
+      "message": "Muuda..."
+   },
+   "empty": {
+      "message": "Empty."
+   },
+   "experimental": {
+      "message": "Katseline"
+   },
+   "extensions": {
+      "message": "Laiendused"
+   },
+   "favorites": {
+      "message": "Lemmikud"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites nõuab uusi lubasid"
+   },
+   "folder": {
+      "message": "Kaust"
+   },
+   "forward": {
+      "message": "Edasta"
+   },
+   "got_it": {
+      "message": "Selge"
+   },
+   "help": {
+      "message": "Abi"
+   },
+   "history": {
+      "message": "Ajalugu"
+   },
+   "more_information": {
+      "message": "Lisateave"
+   },
+   "name": {
+      "message": "Nimi"
+   },
+   "new_tab": {
+      "message": "Uus vaheleht"
+   },
+   "no_search_results_found": {
+      "message": "Otsingutulemusi ei leitud"
+   },
+   "not_found": {
+      "message": "Ei leitud"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open": {
+      "message": "Ava"
+   },
+   "open_all_links": {
+      "message": "Ava kõik järjehoidjad"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Ava kõik järjehoidjad inkognito aknas"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Ava kõik järjehoidjad uues aknas"
+   },
+   "open_in_incognito_window": {
+      "message": "Ava inkognito aknas"
+   },
+   "open_in_new_tab": {
+      "message": "Ava uuel vahelehel"
+   },
+   "open_in_new_window": {
+      "message": "Ava uues aknas"
+   },
+   "paste": {
+      "message": "Kleebi"
+   },
+   "permission_symbols": {
+      "message": "Külastatavate veebisaitide ikoonide lugemine"
+   },
+   "reload": {
+      "message": "Laadi uuesti"
+   },
+   "remove": {
+      "message": "Eemalda"
+   },
+   "reorder_by_title": {
+      "message": "Järjesta pealkirja alusel uuesti"
+   },
+   "search": {
+      "message": "Otsi"
+   },
+   "search_": {
+      "message": "Otsi..."
+   },
+   "search_the_web": {
+      "message": "Veebist otsimine..."
+   },
+   "set_wallpaper_": {
+      "message": "Määra taustapilt ..."
+   },
+   "settings": {
+      "message": "Seaded"
+   },
+   "show_all": {
+      "message": "Kuva kõik"
+   },
+   "show_in_folder": {
+      "message": "Kuva kaustas"
+   },
+   "status": {
+      "message": "Olek"
+   },
+   "subscribe": {
+      "message": "Telli"
+   },
+   "support": {
+      "message": "Support"
+   },
+   "today": {
+      "message": "Täna kell"
+   },
+   "unsubscribe": {
+      "message": "Katkesta tellimine..."
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "Eile kell"
+   }
+}

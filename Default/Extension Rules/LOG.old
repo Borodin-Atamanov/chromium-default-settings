@@ -1,2 +1,3 @@
-2022/09/28-23:53:19.107 3eae5 Creating DB /home/i/.config/chromium/Default/Extension Rules since it was missing.
-2022/09/28-23:53:19.128 3eae5 Reusing MANIFEST /home/i/.config/chromium/Default/Extension Rules/MANIFEST-000001
+2022/10/06-08:55:56.275 10a356 Reusing MANIFEST /home/i/.config/chromium/Default/Extension Rules/MANIFEST-000001
+2022/10/06-08:55:56.275 10a356 Recovering log #3
+2022/10/06-08:55:56.275 10a356 Reusing old log /home/i/.config/chromium/Default/Extension Rules/000003.log 

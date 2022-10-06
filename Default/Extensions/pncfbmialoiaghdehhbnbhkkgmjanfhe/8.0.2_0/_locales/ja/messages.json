@@ -1,0 +1,380 @@
+{
+   "cancelButton": {
+      "message": "キャンセル"
+   },
+   "clouds_dropboxSync": {
+      "message": "Dropbox と同期する"
+   },
+   "clouds_dropboxSyncDescription": {
+      "message": "フォルダ \"/アプリ/uBlacklist/\" にファイルが作成されます。"
+   },
+   "clouds_dropboxSyncTurnedOn": {
+      "message": "Dropbox と同期しています"
+   },
+   "clouds_googleDriveSync": {
+      "message": "Google ドライブと同期する"
+   },
+   "clouds_googleDriveSyncDescription": {
+      "message": "非表示のアプリデータフォルダにファイルが作成されます。"
+   },
+   "clouds_googleDriveSyncTurnedOn": {
+      "message": "Google ドライブと同期しています"
+   },
+   "content_blockSiteLink": {
+      "message": "このサイトをブロックする"
+   },
+   "content_hideBlockedSitesLink": {
+      "message": "表示しない"
+   },
+   "content_multipleSitesBlocked": {
+      "message": "uBlacklist により $1 サイトがブロックされました"
+   },
+   "content_showBlockedSitesLink": {
+      "message": "表示する"
+   },
+   "content_singleSiteBlocked": {
+      "message": "uBlacklist により 1 サイトがブロックされました"
+   },
+   "content_unblockSiteLink": {
+      "message": "このサイトのブロックを解除する"
+   },
+   "error": {
+      "message": "エラー: $1"
+   },
+   "extensionDescription": {
+      "message": "指定したサイトが Google の検索結果で表示されないようにします"
+   },
+   "extensionName": {
+      "message": "uBlacklist"
+   },
+   "lang": {
+      "message": "ja"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "options_aboutDocumentation": {
+      "message": "ドキュメント"
+   },
+   "options_aboutPrivacyPolicy": {
+      "message": "プライバシーポリシー"
+   },
+   "options_aboutReleaseNotes": {
+      "message": "リリースノート"
+   },
+   "options_aboutThirdPartyNotices": {
+      "message": "サードパーティに関する通知"
+   },
+   "options_aboutTitle": {
+      "message": "uBlacklist について"
+   },
+   "options_aboutVersion": {
+      "message": "バージョン"
+   },
+   "options_addSubscriptionButton": {
+      "message": "購読を追加する"
+   },
+   "options_addSubscriptionDialog_addButton": {
+      "message": "追加"
+   },
+   "options_addSubscriptionDialog_nameLabel": {
+      "message": "名前"
+   },
+   "options_addSubscriptionDialog_title": {
+      "message": "購読を追加する"
+   },
+   "options_addSubscriptionDialog_urlLabel": {
+      "message": "URL"
+   },
+   "options_appearanceTitle": {
+      "message": "外観"
+   },
+   "options_blacklistExample": {
+      "message": "例: $1"
+   },
+   "options_blacklistHelper": {
+      "message": "[マッチパターン](https://developer.mozilla.org/ja/docs/Mozilla/Add-ons/WebExtensions/Match_patterns)か[正規表現](https://developer.mozilla.org/ja/docs/Web/JavaScript/Guide/Regular_Expressions)が使用できます。"
+   },
+   "options_blacklistLabel": {
+      "message": "Google の検索結果で表示されないようにするサイト"
+   },
+   "options_blacklistUpdated": {
+      "message": "更新されています"
+   },
+   "options_blockByTitle": {
+      "message": "ページのタイトルでブロックするには、正規表現の前に \"title\" を追加します。"
+   },
+   "options_blockColor": {
+      "message": "ブロックされた検索結果の色"
+   },
+   "options_blockWholeSiteDescription": {
+      "message": "例えば、ページ \"https://a.b.example.uk.com/\" をブロックすると、ルール \"*://*.example.uk.com/*\" が追加されます。"
+   },
+   "options_blockWholeSiteLabel": {
+      "message": "サイト全体をブロックするルールを追加する"
+   },
+   "options_colorSpecify": {
+      "message": "カスタム"
+   },
+   "options_colorUseDefault": {
+      "message": "デフォルト"
+   },
+   "options_dialogTheme": {
+      "message": "「このサイトをブロックする」ダイアログのテーマ"
+   },
+   "options_dialogThemeDark": {
+      "message": "ダーク"
+   },
+   "options_dialogThemeDefault": {
+      "message": "デフォルト"
+   },
+   "options_dialogThemeLight": {
+      "message": "ライト"
+   },
+   "options_exportBlacklistButton": {
+      "message": "エクスポート"
+   },
+   "options_generalTitle": {
+      "message": "一般"
+   },
+   "options_hideBlockLinksLabel": {
+      "message": "「このサイトをブロックする」リンクを非表示にする"
+   },
+   "options_hideControlLabel": {
+      "message": "ブロックしたサイトの数と「表示する」リンクを非表示にする"
+   },
+   "options_highlightColorAdd": {
+      "message": "追加"
+   },
+   "options_highlightColorNth": {
+      "message": "色 $1"
+   },
+   "options_highlightColorRemove": {
+      "message": "削除"
+   },
+   "options_highlightColors": {
+      "message": "ハイライトされた検索結果の色"
+   },
+   "options_highlightDescription": {
+      "message": "検索結果を色 N でハイライトするには、ルールの先頭に \"@N\" を追加します。"
+   },
+   "options_importBlacklistButton": {
+      "message": "インポート"
+   },
+   "options_importBlacklistDialog_append": {
+      "message": "既存のリストに追加する"
+   },
+   "options_importBlacklistDialog_fromFile": {
+      "message": "ファイルからインポートする"
+   },
+   "options_importBlacklistDialog_fromPB": {
+      "message": "Personal Blocklist からインポートする"
+   },
+   "options_importBlacklistDialog_helper": {
+      "message": "Personal Blocklist からエクスポートしたドメインのリストを貼り付けて下さい。"
+   },
+   "options_importBlacklistDialog_importButton": {
+      "message": "インポート"
+   },
+   "options_importBlacklistDialog_pbLabel": {
+      "message": "ドメインのリスト"
+   },
+   "options_importBlacklistDialog_selectFile": {
+      "message": "ファイルを選択"
+   },
+   "options_importBlacklistDialog_title": {
+      "message": "インポート"
+   },
+   "options_linkColor": {
+      "message": "リンクの色"
+   },
+   "options_noSubscriptionsAdded": {
+      "message": "購読が追加されていません"
+   },
+   "options_otherSearchEngines": {
+      "message": "その他の検索エンジン"
+   },
+   "options_otherSearchEnginesDescription": {
+      "message": "Google 以外の検索エンジンでもこの拡張機能を使用できるようにします。"
+   },
+   "options_registerSearchEngine": {
+      "message": "有効にする"
+   },
+   "options_reloadBlacklistButton": {
+      "message": "再読み込み"
+   },
+   "options_removeSubscriptionMenu": {
+      "message": "削除"
+   },
+   "options_saveBlacklistButton": {
+      "message": "保存"
+   },
+   "options_searchEngineRegistered": {
+      "message": "有効"
+   },
+   "options_showSubscriptionDialog_blacklistLabel": {
+      "message": "ルールのリスト"
+   },
+   "options_showSubscriptionMenu": {
+      "message": "表示"
+   },
+   "options_skipBlockDialogLabel": {
+      "message": "「このサイトをブロックする」ダイアログをスキップする"
+   },
+   "options_subscriptionCheckBoxLabel": {
+      "message": "有効"
+   },
+   "options_subscriptionFeature": {
+      "message": "ブラックリストを購読する"
+   },
+   "options_subscriptionFeatureDescription": {
+      "message": "購読を追加すると、指定した URL から定期的にブラックリストがダウンロードされます。"
+   },
+   "options_subscriptionMenuButtonLabel": {
+      "message": "メニュー"
+   },
+   "options_subscriptionNameHeader": {
+      "message": "名前"
+   },
+   "options_subscriptionTitle": {
+      "message": "購読"
+   },
+   "options_subscriptionURLHeader": {
+      "message": "URL"
+   },
+   "options_subscriptionUpdateResultHeader": {
+      "message": "最後の更新"
+   },
+   "options_subscriptionUpdateRunning": {
+      "message": "更新中..."
+   },
+   "options_syncAppearance": {
+      "message": "外観"
+   },
+   "options_syncBlocklist": {
+      "message": "ブロックするサイト"
+   },
+   "options_syncCategories": {
+      "message": "同期する項目"
+   },
+   "options_syncFeature": {
+      "message": "クラウドと同期する"
+   },
+   "options_syncFeatureDescription": {
+      "message": "クラウドを通して、複数の端末でブラックリストを同期することができます。"
+   },
+   "options_syncFeatureUpdated": {
+      "message": "同期機能がアップデートされました。引き続き同期を使用するには、「同期を有効にする」ボタンを押して下さい。"
+   },
+   "options_syncGeneral": {
+      "message": "一般設定"
+   },
+   "options_syncInterval": {
+      "message": "同期の間隔"
+   },
+   "options_syncNever": {
+      "message": "まだ同期されていません"
+   },
+   "options_syncNowButton": {
+      "message": "今すぐ同期"
+   },
+   "options_syncReloadButton": {
+      "message": "再読み込み"
+   },
+   "options_syncResult": {
+      "message": "最後の同期"
+   },
+   "options_syncRunning": {
+      "message": "同期中..."
+   },
+   "options_syncSubscriptions": {
+      "message": "購読"
+   },
+   "options_syncTitle": {
+      "message": "同期"
+   },
+   "options_turnOffSync": {
+      "message": "オフにする"
+   },
+   "options_turnOnSync": {
+      "message": "同期を有効にする"
+   },
+   "options_turnOnSyncDialog_altFlowAuthCodeLabel": {
+      "message": "認証コード"
+   },
+   "options_turnOnSyncDialog_altFlowDescription": {
+      "message": "認証中に $1 へのアクセス権限が求められることがありますが、個人情報がこのドメインに保存されることはありません。"
+   },
+   "options_turnOnSyncDialog_title": {
+      "message": "同期を有効にする"
+   },
+   "options_turnOnSyncDialog_turnOnSyncButton": {
+      "message": "有効にする"
+   },
+   "options_turnOnSyncDialog_useAltFlow": {
+      "message": "新しいタブで認証ページを開く"
+   },
+   "options_updateAllSubscriptionsNowButton": {
+      "message": "今すぐ更新"
+   },
+   "options_updateInterval": {
+      "message": "更新の間隔"
+   },
+   "options_updateSubscriptionNowMenu": {
+      "message": "今すぐ更新"
+   },
+   "popup_activateButton": {
+      "message": "有効にする"
+   },
+   "popup_active": {
+      "message": "uBlacklist が有効です"
+   },
+   "popup_addedRulesLabel": {
+      "message": "追加されるルール"
+   },
+   "popup_blockSiteButton": {
+      "message": "ブロック"
+   },
+   "popup_blockSiteTitle": {
+      "message": "このサイトをブロックする"
+   },
+   "popup_details": {
+      "message": "詳細"
+   },
+   "popup_inactive": {
+      "message": "uBlacklist が無効です"
+   },
+   "popup_openOptionsLink": {
+      "message": "オプション"
+   },
+   "popup_pageTitleLabel": {
+      "message": "ページのタイトル"
+   },
+   "popup_pageURLLabel": {
+      "message": "ページの URL"
+   },
+   "popup_pathDepth": {
+      "message": "階層"
+   },
+   "popup_removedRulesLabel": {
+      "message": "削除されるルール"
+   },
+   "popup_unblockSiteButton": {
+      "message": "ブロックを解除"
+   },
+   "popup_unblockSiteTitle": {
+      "message": "このサイトのブロックを解除する"
+   },
+   "searchEngines_bingDescription_firefox": {
+      "message": "「新しいタブまたはウィンドウに検索結果のリンク先を開きます」を無効にして下さい。"
+   },
+   "searchEngines_qwantDescription": {
+      "message": "\"Always play videos on Qwant.com\" を無効にして下さい。"
+   },
+   "unauthorizedError": {
+      "message": "認証が解除されています。同期をオフにして、再度有効にして下さい。"
+   },
+   "websiteLocale": {
+      "message": "ja"
+   }
+}

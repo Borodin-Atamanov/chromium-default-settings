@@ -1,0 +1,212 @@
+{
+   "about": {
+      "message": "Giới thiệu về Favorites..."
+   },
+   "add": {
+      "message": "Thêm"
+   },
+   "add_bookmark": {
+      "message": "Thêm dấu trang"
+   },
+   "add_folder": {
+      "message": "Thêm thư mục..."
+   },
+   "add_page": {
+      "message": "Thêm trang..."
+   },
+   "apps": {
+      "message": "Ứng dụng"
+   },
+   "back": {
+      "message": "Quay lại"
+   },
+   "bookmark": {
+      "message": "Dấu trang"
+   },
+   "bookmark_manager": {
+      "message": "Trình quản lý Dấu trang"
+   },
+   "bookmarks": {
+      "message": "Dấu trang"
+   },
+   "cancel": {
+      "message": "Hủy"
+   },
+   "cancelled": {
+      "message": "Đã hủy"
+   },
+   "close": {
+      "message": "Đóng"
+   },
+   "colors_": {
+      "message": "Colors…"
+   },
+   "complete": {
+      "message": "Hoàn tất"
+   },
+   "confirm": {
+      "message": "Xác nhận"
+   },
+   "confirm_changes": {
+      "message": "Xác nhận thay đổi"
+   },
+   "confirm_permiission": {
+      "message": "Xác nhận quyền"
+   },
+   "context_menu": {
+      "message": "Menu ngữ cảnh"
+   },
+   "copy": {
+      "message": "Sao chép"
+   },
+   "cut": {
+      "message": "Cắt"
+   },
+   "dark": {
+      "message": "Dark"
+   },
+   "default": {
+      "message": "Mặc định"
+   },
+   "delete": {
+      "message": "Xóa..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Bạn có chắc chắn muốn xóa các mục $1 không?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Bạn có chắc bạn muốn xóa \"$1\" không?"
+   },
+   "deleted": {
+      "message": "Đã xóa"
+   },
+   "do_not_show_again": {
+      "message": "Đã nhận, không hiển thị lại nội dung này."
+   },
+   "downloads": {
+      "message": "Tải xuống"
+   },
+   "edit": {
+      "message": "Chỉnh sửa..."
+   },
+   "empty": {
+      "message": "Empty."
+   },
+   "experimental": {
+      "message": "Thử nghiệm"
+   },
+   "extensions": {
+      "message": "Tiện ích"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites yêu cầu giấy phép mới"
+   },
+   "folder": {
+      "message": "Thư mục"
+   },
+   "forward": {
+      "message": "Chuyển tiếp"
+   },
+   "got_it": {
+      "message": "Bỏ qua"
+   },
+   "help": {
+      "message": "Trợ giúp"
+   },
+   "history": {
+      "message": "Lịch sử"
+   },
+   "more_information": {
+      "message": "Thông tin khác"
+   },
+   "name": {
+      "message": "Tên"
+   },
+   "new_tab": {
+      "message": "Tab mới"
+   },
+   "no_search_results_found": {
+      "message": "Không tìm thấy kết quả tìm kiếm nào"
+   },
+   "not_found": {
+      "message": "Không Tìm thấy"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open": {
+      "message": "Mở"
+   },
+   "open_all_links": {
+      "message": "Mở tất cả dấu trang"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Mở tất cả dấu trang trong Cửa sổ ẩn danh"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Mở tất cả dấu trang trong Cửa sổ mới"
+   },
+   "open_in_incognito_window": {
+      "message": "Mở trong cửa sổ ẩn danh"
+   },
+   "open_in_new_tab": {
+      "message": "Mở bằng tab mới"
+   },
+   "open_in_new_window": {
+      "message": "Mở trong cửa sổ mới"
+   },
+   "paste": {
+      "message": "Dán"
+   },
+   "permission_symbols": {
+      "message": "Đọc biểu tượng của các trang web bạn truy cập"
+   },
+   "reload": {
+      "message": "Tải lại"
+   },
+   "remove": {
+      "message": "Xóa"
+   },
+   "reorder_by_title": {
+      "message": "Sắp xếp lại theo tiêu đề"
+   },
+   "search": {
+      "message": "Tìm kiếm"
+   },
+   "search_": {
+      "message": "Tìm kiếm..."
+   },
+   "search_the_web": {
+      "message": "Tìm kiếm Web..."
+   },
+   "set_wallpaper_": {
+      "message": "Đặt hình nền..."
+   },
+   "settings": {
+      "message": "Cài đặt"
+   },
+   "show_all": {
+      "message": "Hiển thị tất cả"
+   },
+   "show_in_folder": {
+      "message": "Hiển thị trong Thư mục"
+   },
+   "status": {
+      "message": "Trạng thái"
+   },
+   "subscribe": {
+      "message": "Theo dõi"
+   },
+   "today": {
+      "message": "Hôm nay"
+   },
+   "unsubscribe": {
+      "message": "Dừng theo dõi"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "Hôm qua"
+   }
+}

@@ -1,0 +1,221 @@
+{
+   "about": {
+      "message": "О Favorites прегледачу..."
+   },
+   "add": {
+      "message": "Додај"
+   },
+   "add_bookmark": {
+      "message": "Додавање обележивача"
+   },
+   "add_folder": {
+      "message": "Додај директоријум..."
+   },
+   "add_page": {
+      "message": "Додај страницу..."
+   },
+   "apps": {
+      "message": "Апликације"
+   },
+   "back": {
+      "message": "Назад"
+   },
+   "bookmark": {
+      "message": "Обележивач"
+   },
+   "bookmark_manager": {
+      "message": "Менаџер обележивача"
+   },
+   "bookmarks": {
+      "message": "Обележивачи"
+   },
+   "cancel": {
+      "message": "Откажи"
+   },
+   "cancelled": {
+      "message": "Отказано"
+   },
+   "click_to_open_x": {
+      "message": "Кликните да отворите $1"
+   },
+   "close": {
+      "message": "Затвори"
+   },
+   "colors_": {
+      "message": "Боје…"
+   },
+   "complete": {
+      "message": "Завршено"
+   },
+   "confirm": {
+      "message": "Потврди"
+   },
+   "confirm_changes": {
+      "message": "Потврда промена"
+   },
+   "confirm_permiission": {
+      "message": "Потврђивање дозвола"
+   },
+   "context_menu": {
+      "message": "Контекстуални мени"
+   },
+   "copy": {
+      "message": "Копирај"
+   },
+   "cut": {
+      "message": "Исеци"
+   },
+   "dark": {
+      "message": "Тамно"
+   },
+   "default": {
+      "message": "Подразумевано"
+   },
+   "delete": {
+      "message": "Избриши..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Да ли стварно желите да избришете $1 ставке(и)?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Да ли стварно желите да избришете „$1“?"
+   },
+   "deleted": {
+      "message": "Избрисано"
+   },
+   "do_not_show_again": {
+      "message": "Важи, не приказуј ово поново."
+   },
+   "downloads": {
+      "message": "Преузимања"
+   },
+   "edit": {
+      "message": "Измени..."
+   },
+   "empty": {
+      "message": "Empty."
+   },
+   "experimental": {
+      "message": "Експериментално"
+   },
+   "extensions": {
+      "message": "Додаци"
+   },
+   "favorites": {
+      "message": "Омиљени"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites захтева нове дозволе"
+   },
+   "folder": {
+      "message": "Директоријум"
+   },
+   "forward": {
+      "message": "Проследи"
+   },
+   "got_it": {
+      "message": "Важи"
+   },
+   "help": {
+      "message": "Help (Помоћ)"
+   },
+   "history": {
+      "message": "Историја"
+   },
+   "more_information": {
+      "message": "Више информација"
+   },
+   "name": {
+      "message": "Назив"
+   },
+   "new_tab": {
+      "message": "Нова картица"
+   },
+   "no_search_results_found": {
+      "message": "Нису пронађени резултати претраге"
+   },
+   "not_found": {
+      "message": "Није пронађено"
+   },
+   "ok": {
+      "message": "Потврди"
+   },
+   "open": {
+      "message": "Отвори"
+   },
+   "open_all_links": {
+      "message": "Отвори све обележиваче"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Отвори све обележиваче у прозору за прегледање без архивирања"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Отвори све обележиваче у новом прозору"
+   },
+   "open_in_incognito_window": {
+      "message": "Отвори у прозору за прегледање без архивирања"
+   },
+   "open_in_new_tab": {
+      "message": "Отвори у новој картици"
+   },
+   "open_in_new_window": {
+      "message": "Отвори у новом прозору"
+   },
+   "paste": {
+      "message": "Налепи"
+   },
+   "permission_symbols": {
+      "message": "Читање икона веб-сајтова које посећујете"
+   },
+   "reload": {
+      "message": "Учитај поново"
+   },
+   "remove": {
+      "message": "Уклони"
+   },
+   "reorder_by_title": {
+      "message": "Поређај према наслову"
+   },
+   "search": {
+      "message": "Претражи"
+   },
+   "search_": {
+      "message": "Претражи..."
+   },
+   "search_the_web": {
+      "message": "Претражи Веб..."
+   },
+   "set_wallpaper_": {
+      "message": "Подеси позадину..."
+   },
+   "settings": {
+      "message": "Подешавања"
+   },
+   "show_all": {
+      "message": "Прикажи све"
+   },
+   "show_in_folder": {
+      "message": "Прикажи у директоријуму"
+   },
+   "status": {
+      "message": "Статус"
+   },
+   "subscribe": {
+      "message": "Претплати се"
+   },
+   "support": {
+      "message": "подршка"
+   },
+   "today": {
+      "message": "Данас у"
+   },
+   "unsubscribe": {
+      "message": "Укини претплату"
+   },
+   "url": {
+      "message": "URL адреса"
+   },
+   "yesterday": {
+      "message": "Јуче у"
+   }
+}

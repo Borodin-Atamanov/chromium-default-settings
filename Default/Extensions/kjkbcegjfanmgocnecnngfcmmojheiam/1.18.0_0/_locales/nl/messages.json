@@ -1,0 +1,221 @@
+{
+   "about": {
+      "message": "Over Favorites..."
+   },
+   "add": {
+      "message": "Toevoegen"
+   },
+   "add_bookmark": {
+      "message": "Bladwijzer toevoegen"
+   },
+   "add_folder": {
+      "message": "Map toevoegen..."
+   },
+   "add_page": {
+      "message": "Pagina toevoegen..."
+   },
+   "apps": {
+      "message": "Apps"
+   },
+   "back": {
+      "message": "Vorige"
+   },
+   "bookmark": {
+      "message": "Bladwijzer maken"
+   },
+   "bookmark_manager": {
+      "message": "Bladwijzermanager"
+   },
+   "bookmarks": {
+      "message": "Bladwijzers"
+   },
+   "cancel": {
+      "message": "Annuleren"
+   },
+   "cancelled": {
+      "message": "Geannuleerd"
+   },
+   "click_to_open_x": {
+      "message": "Klik om $1 te openen"
+   },
+   "close": {
+      "message": "Sluiten"
+   },
+   "colors_": {
+      "message": "Kleuren…"
+   },
+   "complete": {
+      "message": "Voltooid"
+   },
+   "confirm": {
+      "message": "Bevestigen"
+   },
+   "confirm_changes": {
+      "message": "Wijzigingen bevestigen"
+   },
+   "confirm_permiission": {
+      "message": "Rechten bevestigen"
+   },
+   "context_menu": {
+      "message": "Contextmenu"
+   },
+   "copy": {
+      "message": "Kopieer"
+   },
+   "cut": {
+      "message": "Knip"
+   },
+   "dark": {
+      "message": "Donker"
+   },
+   "default": {
+      "message": "Standaard"
+   },
+   "delete": {
+      "message": "Verwijderen..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Weet je zeker dat je $1 items wilt verwijderen?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Weet je zeker dat je '$1' wilt verwijderen?"
+   },
+   "deleted": {
+      "message": "Verwijderd"
+   },
+   "do_not_show_again": {
+      "message": "OK, dit niet meer weergeven."
+   },
+   "downloads": {
+      "message": "Downloads"
+   },
+   "edit": {
+      "message": "Bewerken..."
+   },
+   "empty": {
+      "message": "Leeg."
+   },
+   "experimental": {
+      "message": "Experimenteel"
+   },
+   "extensions": {
+      "message": "Extensies"
+   },
+   "favorites": {
+      "message": "Favorieten"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Voor Favorites zijn nieuwe rechten vereist"
+   },
+   "folder": {
+      "message": "Map"
+   },
+   "forward": {
+      "message": "Vooruit"
+   },
+   "got_it": {
+      "message": "Begrepen"
+   },
+   "help": {
+      "message": "Help"
+   },
+   "history": {
+      "message": "Geschiedenis"
+   },
+   "more_information": {
+      "message": "Meer informatie"
+   },
+   "name": {
+      "message": "Naam"
+   },
+   "new_tab": {
+      "message": "Nieuw tabblad"
+   },
+   "no_search_results_found": {
+      "message": "Geen zoekresultaten gevonden"
+   },
+   "not_found": {
+      "message": "Niet gevonden"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open": {
+      "message": "Openen"
+   },
+   "open_all_links": {
+      "message": "Alle bladwijzers openen"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Alle bladwijzers openen in incognitovenster"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Alle bladwijzers openen in een nieuw venster"
+   },
+   "open_in_incognito_window": {
+      "message": "Openen in incognitovenster"
+   },
+   "open_in_new_tab": {
+      "message": "Openen op nieuw tabblad"
+   },
+   "open_in_new_window": {
+      "message": "Openen in nieuw venster"
+   },
+   "paste": {
+      "message": "Plak"
+   },
+   "permission_symbols": {
+      "message": "De pictogrammen lezen van websites die je bezoekt"
+   },
+   "reload": {
+      "message": "Opnieuw laden"
+   },
+   "remove": {
+      "message": "Verwijderen"
+   },
+   "reorder_by_title": {
+      "message": "Sorteren op titel"
+   },
+   "search": {
+      "message": "Zoeken"
+   },
+   "search_": {
+      "message": "Zoeken..."
+   },
+   "search_the_web": {
+      "message": "Zoeken op internet..."
+   },
+   "set_wallpaper_": {
+      "message": "Achtergrond instellen..."
+   },
+   "settings": {
+      "message": "Instellingen"
+   },
+   "show_all": {
+      "message": "Alles weergeven"
+   },
+   "show_in_folder": {
+      "message": "Weergeven in map"
+   },
+   "status": {
+      "message": "Status"
+   },
+   "subscribe": {
+      "message": "Abonneren"
+   },
+   "support": {
+      "message": "Ondersteuning"
+   },
+   "today": {
+      "message": "Vandaag"
+   },
+   "unsubscribe": {
+      "message": "Abonnement opzeggen"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "Gisteren"
+   }
+}

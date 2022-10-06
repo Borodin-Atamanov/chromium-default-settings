@@ -1,0 +1,203 @@
+{
+   "about": {
+      "message": "درباره Favorites..."
+   },
+   "add": {
+      "message": "افزودن"
+   },
+   "add_bookmark": {
+      "message": "افزودن نشانک"
+   },
+   "add_folder": {
+      "message": "افزودن پوشه..."
+   },
+   "add_page": {
+      "message": "افزودن صفحه..."
+   },
+   "apps": {
+      "message": "برنامه‌ها"
+   },
+   "back": {
+      "message": "بازگشت"
+   },
+   "bookmark": {
+      "message": "نشانک"
+   },
+   "bookmark_manager": {
+      "message": "مدیر نشانک"
+   },
+   "bookmarks": {
+      "message": "نشانک‌ها"
+   },
+   "cancel": {
+      "message": "لغو"
+   },
+   "cancelled": {
+      "message": "لغو شده"
+   },
+   "close": {
+      "message": "بستن"
+   },
+   "complete": {
+      "message": "کامل"
+   },
+   "confirm": {
+      "message": "تأیید"
+   },
+   "confirm_changes": {
+      "message": "تأیید تغییرها"
+   },
+   "confirm_permiission": {
+      "message": "تأیید مجوزها"
+   },
+   "context_menu": {
+      "message": "منوی بافت"
+   },
+   "copy": {
+      "message": "کپی"
+   },
+   "cut": {
+      "message": "برش"
+   },
+   "default": {
+      "message": "پیش‌فرض"
+   },
+   "delete": {
+      "message": "حذف..."
+   },
+   "delete_item_confirm_many": {
+      "message": "آیا مطمئنید می‌خواهید موارد $1 را حذف کنید؟"
+   },
+   "delete_item_confirm_single": {
+      "message": "آیا مطمئنید می‌خواهید \"$1\" را حذف کنید؟"
+   },
+   "deleted": {
+      "message": "حذف شد"
+   },
+   "do_not_show_again": {
+      "message": "متوجه شدم، دیگر به من نشان داده نشود."
+   },
+   "downloads": {
+      "message": "بارگیری‌ها"
+   },
+   "edit": {
+      "message": "ویرایش..."
+   },
+   "experimental": {
+      "message": "آزمایشی"
+   },
+   "extensions": {
+      "message": "افزونه‌ها"
+   },
+   "favorites": {
+      "message": "محبوب‌ها"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites به مجوزهای جدید نیاز دارد"
+   },
+   "folder": {
+      "message": "پوشه"
+   },
+   "forward": {
+      "message": "ارسال کردن"
+   },
+   "got_it": {
+      "message": "متوجه شدم"
+   },
+   "help": {
+      "message": "راهنما"
+   },
+   "history": {
+      "message": "سابقه"
+   },
+   "more_information": {
+      "message": "اطلاعات بیشتر"
+   },
+   "name": {
+      "message": "نام"
+   },
+   "new_tab": {
+      "message": "برگهٔ جدید"
+   },
+   "no_search_results_found": {
+      "message": "هیچ نتیجه‌ای برای جستجو یافت نشد"
+   },
+   "not_found": {
+      "message": "یافت نشد"
+   },
+   "ok": {
+      "message": "تأیید"
+   },
+   "open": {
+      "message": "باز کردن"
+   },
+   "open_all_links": {
+      "message": "باز کردن همه نشانک‌ها"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "باز کردن همه نشانک‌ها در پنجره حالت ناشناس"
+   },
+   "open_all_links_in_new_window": {
+      "message": "باز کردن همه نشانک‌ها در پنجره جدید"
+   },
+   "open_in_incognito_window": {
+      "message": "باز کردن در پنجره ناشناس"
+   },
+   "open_in_new_tab": {
+      "message": "باز کردن در برگهٔ جدید"
+   },
+   "open_in_new_window": {
+      "message": "باز کردن در پنجره جدید"
+   },
+   "paste": {
+      "message": "جاگذاری"
+   },
+   "permission_symbols": {
+      "message": "خواندن نمادهای وب‌سایت‌هایی که بازدید می‌کنید"
+   },
+   "reload": {
+      "message": "تازه‌سازی"
+   },
+   "remove": {
+      "message": "پاک کردن"
+   },
+   "reorder_by_title": {
+      "message": "ترتیب مجدد براساس عنوان"
+   },
+   "search": {
+      "message": "جستجو"
+   },
+   "search_": {
+      "message": "جستجو..."
+   },
+   "search_the_web": {
+      "message": "جستجوی وب…"
+   },
+   "set_wallpaper_": {
+      "message": "تنظیم کاغذدیواری..."
+   },
+   "settings": {
+      "message": "تنظیمات"
+   },
+   "show_all": {
+      "message": "نمایش همه"
+   },
+   "show_in_folder": {
+      "message": "نمایش در پوشه"
+   },
+   "status": {
+      "message": "وضعیت"
+   },
+   "support": {
+      "message": "پشتیبانی"
+   },
+   "today": {
+      "message": "امروز"
+   },
+   "url": {
+      "message": "نشانی وب"
+   },
+   "yesterday": {
+      "message": "دیروز"
+   }
+}

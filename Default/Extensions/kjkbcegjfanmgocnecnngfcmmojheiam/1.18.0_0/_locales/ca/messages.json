@@ -1,0 +1,221 @@
+{
+   "about": {
+      "message": "Informació sobre Favorites..."
+   },
+   "add": {
+      "message": "Afegeix"
+   },
+   "add_bookmark": {
+      "message": "Afegeix una adreça d'interès"
+   },
+   "add_folder": {
+      "message": "Afegeix una carpeta..."
+   },
+   "add_page": {
+      "message": "Afegeix la pàgina..."
+   },
+   "apps": {
+      "message": "Aplicacions"
+   },
+   "back": {
+      "message": "Enrere"
+   },
+   "bookmark": {
+      "message": "Adreça d'interès"
+   },
+   "bookmark_manager": {
+      "message": "Gestor d'adreces d'interès"
+   },
+   "bookmarks": {
+      "message": "Adreces d'interès"
+   },
+   "cancel": {
+      "message": "Cancel·la"
+   },
+   "cancelled": {
+      "message": "S'ha cancel·lat"
+   },
+   "click_to_open_x": {
+      "message": "Cliqueu per obrir $1"
+   },
+   "close": {
+      "message": "Tanca"
+   },
+   "colors_": {
+      "message": "Colors…"
+   },
+   "complete": {
+      "message": "Completada"
+   },
+   "confirm": {
+      "message": "Confirma"
+   },
+   "confirm_changes": {
+      "message": "Confirma els canvis"
+   },
+   "confirm_permiission": {
+      "message": "Confirma els permisos"
+   },
+   "context_menu": {
+      "message": "Menú contextual"
+   },
+   "copy": {
+      "message": "Copia"
+   },
+   "cut": {
+      "message": "Retalla"
+   },
+   "dark": {
+      "message": "Fosc"
+   },
+   "default": {
+      "message": "Predeterminat"
+   },
+   "delete": {
+      "message": "Suprimeix..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Confirmes que vols suprimir  $1 elements?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Confirmes que vols suprimir  \"$1\"?"
+   },
+   "deleted": {
+      "message": "Suprimit"
+   },
+   "do_not_show_again": {
+      "message": "Entesos, no ho tornis a mostrar"
+   },
+   "downloads": {
+      "message": "Baixades"
+   },
+   "edit": {
+      "message": "Edita..."
+   },
+   "empty": {
+      "message": "Buit."
+   },
+   "experimental": {
+      "message": "Experimental"
+   },
+   "extensions": {
+      "message": "Extensions"
+   },
+   "favorites": {
+      "message": "Preferits"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites necessita permisos nous"
+   },
+   "folder": {
+      "message": "Carpeta"
+   },
+   "forward": {
+      "message": "Endavant"
+   },
+   "got_it": {
+      "message": "D'acord"
+   },
+   "help": {
+      "message": "Ajuda"
+   },
+   "history": {
+      "message": "Historial"
+   },
+   "more_information": {
+      "message": "Més informació"
+   },
+   "name": {
+      "message": "Nom"
+   },
+   "new_tab": {
+      "message": "Pestanya nova"
+   },
+   "no_search_results_found": {
+      "message": "No s'ha trobat cap resultat de la cerca"
+   },
+   "not_found": {
+      "message": "No trobat"
+   },
+   "ok": {
+      "message": "D'acord"
+   },
+   "open": {
+      "message": "Obre"
+   },
+   "open_all_links": {
+      "message": "Obre totes les adreces d'interès"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Obre totes les adreces d'interès en una finestra d'incògnit"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Obre totes les adreces d'interès en una finestra nova"
+   },
+   "open_in_incognito_window": {
+      "message": "Obre-ho en una finestra d'incògnit"
+   },
+   "open_in_new_tab": {
+      "message": "Obre en una pestanya nova"
+   },
+   "open_in_new_window": {
+      "message": "Obre en una finestra nova"
+   },
+   "paste": {
+      "message": "Enganxa"
+   },
+   "permission_symbols": {
+      "message": "Llegeix les icones dels llocs web visitats"
+   },
+   "reload": {
+      "message": "Torna a carregar"
+   },
+   "remove": {
+      "message": "Suprimeix"
+   },
+   "reorder_by_title": {
+      "message": "Torna a ordenar per títol"
+   },
+   "search": {
+      "message": "Cerca"
+   },
+   "search_": {
+      "message": "Cerca..."
+   },
+   "search_the_web": {
+      "message": "Cerca al web..."
+   },
+   "set_wallpaper_": {
+      "message": "Estableix fons de pantalla..."
+   },
+   "settings": {
+      "message": "Configuració"
+   },
+   "show_all": {
+      "message": "Mostra-ho tot"
+   },
+   "show_in_folder": {
+      "message": "Mostra a la carpeta"
+   },
+   "status": {
+      "message": "Estat"
+   },
+   "subscribe": {
+      "message": "Subscriu-m'hi"
+   },
+   "support": {
+      "message": "Suport"
+   },
+   "today": {
+      "message": "Avui a les"
+   },
+   "unsubscribe": {
+      "message": "Cancel·la la subscripció"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "Ahir a les"
+   }
+}

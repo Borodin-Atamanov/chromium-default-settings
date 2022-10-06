@@ -1,0 +1,221 @@
+{
+   "about": {
+      "message": "Om Favorites..."
+   },
+   "add": {
+      "message": "Lägg till"
+   },
+   "add_bookmark": {
+      "message": "Lägg till bokmärke"
+   },
+   "add_folder": {
+      "message": "Lägg till mapp ..."
+   },
+   "add_page": {
+      "message": "Lägg till sida ..."
+   },
+   "apps": {
+      "message": "Appar"
+   },
+   "back": {
+      "message": "Bakåt"
+   },
+   "bookmark": {
+      "message": "Infoga bokmärke"
+   },
+   "bookmark_manager": {
+      "message": "Bokmärkeshanteraren"
+   },
+   "bookmarks": {
+      "message": "Bokmärken"
+   },
+   "cancel": {
+      "message": "Avbryt"
+   },
+   "cancelled": {
+      "message": "Avbröts"
+   },
+   "click_to_open_x": {
+      "message": "Klicka för att öppna $1"
+   },
+   "close": {
+      "message": "Stäng"
+   },
+   "colors_": {
+      "message": "Färger…"
+   },
+   "complete": {
+      "message": "Klart"
+   },
+   "confirm": {
+      "message": "Bekräfta"
+   },
+   "confirm_changes": {
+      "message": "Bekräfta ändringar"
+   },
+   "confirm_permiission": {
+      "message": "Bekräfta behörigheter"
+   },
+   "context_menu": {
+      "message": "Snabbmeny"
+   },
+   "copy": {
+      "message": "Kopiera"
+   },
+   "cut": {
+      "message": "Klipp ut"
+   },
+   "dark": {
+      "message": "Mörk"
+   },
+   "default": {
+      "message": "Standard"
+   },
+   "delete": {
+      "message": "Ta bort..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Vill du ta bort $1 objekt?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Vill du ta bort $1?"
+   },
+   "deleted": {
+      "message": "Borttagen"
+   },
+   "do_not_show_again": {
+      "message": "Visa inte det här igen."
+   },
+   "downloads": {
+      "message": "Nedladdningar"
+   },
+   "edit": {
+      "message": "Redigera..."
+   },
+   "empty": {
+      "message": "Tom."
+   },
+   "experimental": {
+      "message": "Experimentellt"
+   },
+   "extensions": {
+      "message": "Tillägg"
+   },
+   "favorites": {
+      "message": "Favoriter"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites kräver nya behörigheter"
+   },
+   "folder": {
+      "message": "Mapp"
+   },
+   "forward": {
+      "message": "Framåt"
+   },
+   "got_it": {
+      "message": "Uppfattat"
+   },
+   "help": {
+      "message": "Hjälp"
+   },
+   "history": {
+      "message": "Historik"
+   },
+   "more_information": {
+      "message": "Mer information"
+   },
+   "name": {
+      "message": "Namn"
+   },
+   "new_tab": {
+      "message": "Ny flik"
+   },
+   "no_search_results_found": {
+      "message": "Inga sökresultat hittades"
+   },
+   "not_found": {
+      "message": "Hittades inte"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open": {
+      "message": "Öppna"
+   },
+   "open_all_links": {
+      "message": "Öppna alla bokmärken"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Öppna alla bokmärken i ett inkognitofönster"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Öppna alla bokmärken i nytt fönster"
+   },
+   "open_in_incognito_window": {
+      "message": "Öppna i inkognitofönster"
+   },
+   "open_in_new_tab": {
+      "message": "Öppna i ny flik"
+   },
+   "open_in_new_window": {
+      "message": "Öppna i nytt fönster"
+   },
+   "paste": {
+      "message": "Klistra in"
+   },
+   "permission_symbols": {
+      "message": "Läsa in ikonerna för de webbplatser du besöker"
+   },
+   "reload": {
+      "message": "Hämta igen"
+   },
+   "remove": {
+      "message": "Ta bort"
+   },
+   "reorder_by_title": {
+      "message": "Ordna efter titel"
+   },
+   "search": {
+      "message": "Sök"
+   },
+   "search_": {
+      "message": "Sök..."
+   },
+   "search_the_web": {
+      "message": "Söka på Internet..."
+   },
+   "set_wallpaper_": {
+      "message": "Ange bakgrund ..."
+   },
+   "settings": {
+      "message": "Inställningar"
+   },
+   "show_all": {
+      "message": "Visa alla"
+   },
+   "show_in_folder": {
+      "message": "Visa i mapp"
+   },
+   "status": {
+      "message": "Status"
+   },
+   "subscribe": {
+      "message": "Prenumerera"
+   },
+   "support": {
+      "message": "Stöd"
+   },
+   "today": {
+      "message": "Idag kl."
+   },
+   "unsubscribe": {
+      "message": "Avsluta prenumeration"
+   },
+   "url": {
+      "message": "Webbadress"
+   },
+   "yesterday": {
+      "message": "Igår kl."
+   }
+}

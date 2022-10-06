@@ -1,0 +1,197 @@
+{
+   "about": {
+      "message": "Favorites વિશે..."
+   },
+   "add": {
+      "message": "ઉમેરો"
+   },
+   "add_bookmark": {
+      "message": "બુકમાર્ક ઉમેરો"
+   },
+   "add_folder": {
+      "message": "ફોલ્ડર ઉમેરો..."
+   },
+   "add_page": {
+      "message": "પૃષ્ઠ ઉમેરો..."
+   },
+   "apps": {
+      "message": "એપ્સ"
+   },
+   "back": {
+      "message": "પાછળ"
+   },
+   "bookmark": {
+      "message": "બુકમાર્ક"
+   },
+   "bookmark_manager": {
+      "message": "બુકમાર્ક વ્યવસ્થાપક"
+   },
+   "bookmarks": {
+      "message": "બુકમાર્ક્સ"
+   },
+   "cancel": {
+      "message": "રદ કરો"
+   },
+   "cancelled": {
+      "message": "રદ કરેલા"
+   },
+   "close": {
+      "message": "બંધ કરો"
+   },
+   "complete": {
+      "message": "પૂર્ણ"
+   },
+   "confirm": {
+      "message": "પુષ્ટિ કરો"
+   },
+   "confirm_changes": {
+      "message": "ફેરફારોની પુષ્ટિ કરો"
+   },
+   "confirm_permiission": {
+      "message": "પરવાનગીઓની પુષ્ટિ કરો"
+   },
+   "context_menu": {
+      "message": "સંદર્ભ મેનૂ"
+   },
+   "copy": {
+      "message": "કૉપિ કરો"
+   },
+   "cut": {
+      "message": "કાપો"
+   },
+   "default": {
+      "message": "ડિફૉલ્ટ"
+   },
+   "delete": {
+      "message": "કાઢી નાખો..."
+   },
+   "delete_item_confirm_many": {
+      "message": "શું તમે ખરેખર $1 આઇટમ્સને કાઢવા માંગો છો?"
+   },
+   "delete_item_confirm_single": {
+      "message": "શું આપ ખરેખર  \"$1\" ને કાઢી નાખવા માંગો છો?"
+   },
+   "deleted": {
+      "message": "કાઢી નાખ્યું"
+   },
+   "do_not_show_again": {
+      "message": "સમજાઈ ગયું, મને આ ફરી બતાવશો નહીં."
+   },
+   "downloads": {
+      "message": "ડાઉનલોડ્સ"
+   },
+   "edit": {
+      "message": "સંપાદિત કરો..."
+   },
+   "experimental": {
+      "message": "પ્રાયોગિક"
+   },
+   "extensions": {
+      "message": "એક્સ્ટેન્શન્સ"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites ને નવી પરવાનગીઓની આવશ્યકતા છે"
+   },
+   "folder": {
+      "message": "ફોલ્ડર"
+   },
+   "forward": {
+      "message": "ફોર્વર્ડ કરો"
+   },
+   "got_it": {
+      "message": "સમજાઈ ગયું"
+   },
+   "help": {
+      "message": "Help"
+   },
+   "history": {
+      "message": "ઇતિહાસ"
+   },
+   "more_information": {
+      "message": "વધુ માહિતી"
+   },
+   "name": {
+      "message": "નામ"
+   },
+   "new_tab": {
+      "message": "નવું ટૅબ"
+   },
+   "no_search_results_found": {
+      "message": "કોઈ શોધ પરિણામો મળ્યાં નથી"
+   },
+   "not_found": {
+      "message": "મળ્યું નથી"
+   },
+   "ok": {
+      "message": "ઓકે"
+   },
+   "open": {
+      "message": "ખોલો"
+   },
+   "open_all_links": {
+      "message": "બધાં બુકમાર્ક્સ ખોલો"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "બધા બુકમાર્ક્સને છુપી વિંડોમાં ખોલો"
+   },
+   "open_all_links_in_new_window": {
+      "message": "બધાં બુકમાર્ક્સને નવી વિંડોમાં ખોલો"
+   },
+   "open_in_incognito_window": {
+      "message": "છુપી વિંડોમાં ખોલો"
+   },
+   "open_in_new_tab": {
+      "message": "નવા ટૅબમાં ખોલો"
+   },
+   "open_in_new_window": {
+      "message": "નવી વિંડોમાં ખોલો"
+   },
+   "paste": {
+      "message": "પેસ્ટ કરો"
+   },
+   "permission_symbols": {
+      "message": "તમે મુલાકાત લો છો તે વેબસાઇટ્સના આયકન્સ વાંચો"
+   },
+   "reload": {
+      "message": "ફરિથી લોડ કરો"
+   },
+   "remove": {
+      "message": "દૂર કરો"
+   },
+   "reorder_by_title": {
+      "message": "શીર્ષકથી પુનઃક્રમાંકિત કરો"
+   },
+   "search": {
+      "message": "શોધો"
+   },
+   "search_": {
+      "message": "શોધો..."
+   },
+   "search_the_web": {
+      "message": "વેબ પર શોધો..."
+   },
+   "set_wallpaper_": {
+      "message": "વૉલપેપર સેટ કરો..."
+   },
+   "settings": {
+      "message": "સેટિંગ્સ"
+   },
+   "show_all": {
+      "message": "બધું બતાવો"
+   },
+   "show_in_folder": {
+      "message": "ફોલ્ડરમાં બતાવો"
+   },
+   "status": {
+      "message": "સ્થિતિ"
+   },
+   "today": {
+      "message": "આજે"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "ગઈ કાલે"
+   }
+}

@@ -1,0 +1,371 @@
+{
+   "cancelButton": {
+      "message": "취소"
+   },
+   "clouds_dropboxSync": {
+      "message": "Dropbox 와 동기화"
+   },
+   "clouds_dropboxSyncDescription": {
+      "message": "\"/Apps/uBlacklist/\" 위치에 파일이 생성됩니다."
+   },
+   "clouds_dropboxSyncTurnedOn": {
+      "message": "Dropbox 와 동기화 되었습니다."
+   },
+   "clouds_googleDriveSync": {
+      "message": "Google Drive 와 동기화"
+   },
+   "clouds_googleDriveSyncDescription": {
+      "message": "숨겨진 앱 데이터 공간에 파일이 생성됩니다."
+   },
+   "clouds_googleDriveSyncTurnedOn": {
+      "message": "Google Drive 와 동기화 되었습니다."
+   },
+   "content_blockSiteLink": {
+      "message": "이 사이트 차단하기"
+   },
+   "content_hideBlockedSitesLink": {
+      "message": "숨기기"
+   },
+   "content_multipleSitesBlocked": {
+      "message": "uBlacklist 가 사이트 $1개를 차단했습니다"
+   },
+   "content_showBlockedSitesLink": {
+      "message": "보기"
+   },
+   "content_singleSiteBlocked": {
+      "message": "uBlacklist 가 사이트 1개를 차단했습니다"
+   },
+   "content_unblockSiteLink": {
+      "message": "이 사이트 차단 해제하기"
+   },
+   "error": {
+      "message": "오류: $1"
+   },
+   "extensionDescription": {
+      "message": "Google 검색 결과에 나타나는 특정 사이트들을 차단합니다"
+   },
+   "extensionName": {
+      "message": "uBlacklist"
+   },
+   "lang": {
+      "message": "ko"
+   },
+   "okButton": {
+      "message": "확인"
+   },
+   "options_aboutDocumentation": {
+      "message": "문서"
+   },
+   "options_aboutPrivacyPolicy": {
+      "message": "개인정보처리방침"
+   },
+   "options_aboutReleaseNotes": {
+      "message": "릴리즈 노트"
+   },
+   "options_aboutThirdPartyNotices": {
+      "message": "서드 파티 고지"
+   },
+   "options_aboutTitle": {
+      "message": "uBlacklist 에 관하여"
+   },
+   "options_aboutVersion": {
+      "message": "버전"
+   },
+   "options_addSubscriptionButton": {
+      "message": "구독 추가"
+   },
+   "options_addSubscriptionDialog_addButton": {
+      "message": "추가"
+   },
+   "options_addSubscriptionDialog_nameLabel": {
+      "message": "이름"
+   },
+   "options_addSubscriptionDialog_title": {
+      "message": "구독 추가"
+   },
+   "options_addSubscriptionDialog_urlLabel": {
+      "message": "URL"
+   },
+   "options_appearanceTitle": {
+      "message": "겉보기"
+   },
+   "options_blacklistExample": {
+      "message": "예시: $1"
+   },
+   "options_blacklistHelper": {
+      "message": "[매치 패턴](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Match_patterns) 또는 [정규 표현식](https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Regular_Expressions)을 사용할 수 있습니다."
+   },
+   "options_blacklistLabel": {
+      "message": "Google 검색 결과에서 차단한 사이트"
+   },
+   "options_blacklistUpdated": {
+      "message": "업데이트 했습니다."
+   },
+   "options_blockByTitle": {
+      "message": "페이지 제목으로 사이트를 차단하려면 정규 표현식 앞에 \"title\" 을 추가해주세요."
+   },
+   "options_blockColor": {
+      "message": "차단된 검색 결과 색상"
+   },
+   "options_blockWholeSiteDescription": {
+      "message": "예를 들어, \"https://a.b.example.uk.com/\" 를 차단하면 \"*://*.example.uk.com/*\" 규칙이 추가됩니다."
+   },
+   "options_blockWholeSiteLabel": {
+      "message": "모든 사이트를 차단하는 규칙을 기본으로 추가"
+   },
+   "options_colorSpecify": {
+      "message": "직접 선택"
+   },
+   "options_colorUseDefault": {
+      "message": "기본값"
+   },
+   "options_dialogTheme": {
+      "message": "\"이 사이트 차단하기\" 대화창 배경"
+   },
+   "options_dialogThemeDark": {
+      "message": "어둡게"
+   },
+   "options_dialogThemeDefault": {
+      "message": "기본"
+   },
+   "options_dialogThemeLight": {
+      "message": "밝게"
+   },
+   "options_exportBlacklistButton": {
+      "message": "내보내기"
+   },
+   "options_generalTitle": {
+      "message": "일반"
+   },
+   "options_hideBlockLinksLabel": {
+      "message": "\"이 사이트 차단하기\" 링크 숨기기"
+   },
+   "options_hideControlLabel": {
+      "message": "차단한 사이트 수와 \"보기\" 링크 숨기기"
+   },
+   "options_highlightColorAdd": {
+      "message": "추가"
+   },
+   "options_highlightColorNth": {
+      "message": "색 $1"
+   },
+   "options_highlightColorRemove": {
+      "message": "제거"
+   },
+   "options_highlightColors": {
+      "message": "검색 결과 배경색"
+   },
+   "options_highlightDescription": {
+      "message": "\"색 N\" 을 배경색으로 지정하려면 규칙 앞에 \"@N\" 을 붙여주세요."
+   },
+   "options_importBlacklistButton": {
+      "message": "가져오기"
+   },
+   "options_importBlacklistDialog_append": {
+      "message": "기존 목록에 덧붙이기"
+   },
+   "options_importBlacklistDialog_fromFile": {
+      "message": "파일에서 가져오기"
+   },
+   "options_importBlacklistDialog_fromPB": {
+      "message": "차단 목록 붙여넣기"
+   },
+   "options_importBlacklistDialog_helper": {
+      "message": "차단 목록에서 도메인을 복사해 붙여넣어주세요."
+   },
+   "options_importBlacklistDialog_importButton": {
+      "message": "가져오기"
+   },
+   "options_importBlacklistDialog_pbLabel": {
+      "message": "도메인 목록"
+   },
+   "options_importBlacklistDialog_selectFile": {
+      "message": "파일 선택"
+   },
+   "options_importBlacklistDialog_title": {
+      "message": "가져오기"
+   },
+   "options_linkColor": {
+      "message": "링크 색상"
+   },
+   "options_noSubscriptionsAdded": {
+      "message": "추가한 구독이 없습니다"
+   },
+   "options_otherSearchEngines": {
+      "message": "다른 검색 엔진"
+   },
+   "options_otherSearchEnginesDescription": {
+      "message": "아래 검색 엔진에서도 차단 기능을 사용할 수 있습니다."
+   },
+   "options_registerSearchEngine": {
+      "message": "활성화"
+   },
+   "options_reloadBlacklistButton": {
+      "message": "새로고침"
+   },
+   "options_removeSubscriptionMenu": {
+      "message": "삭제"
+   },
+   "options_saveBlacklistButton": {
+      "message": "저장"
+   },
+   "options_searchEngineRegistered": {
+      "message": "활성화 됨"
+   },
+   "options_showSubscriptionDialog_blacklistLabel": {
+      "message": "규칙"
+   },
+   "options_showSubscriptionMenu": {
+      "message": "보기"
+   },
+   "options_skipBlockDialogLabel": {
+      "message": "\"이 사이트 차단하기\" 대화창 표시하지 않기"
+   },
+   "options_subscriptionCheckBoxLabel": {
+      "message": "활성화 됨"
+   },
+   "options_subscriptionFeature": {
+      "message": "차단 목록 구독"
+   },
+   "options_subscriptionFeatureDescription": {
+      "message": "구독을 추가하면 해당 URL에서 차단 목록이 정기적으로 다운로드됩니다."
+   },
+   "options_subscriptionMenuButtonLabel": {
+      "message": "메뉴"
+   },
+   "options_subscriptionNameHeader": {
+      "message": "이름"
+   },
+   "options_subscriptionTitle": {
+      "message": "구독"
+   },
+   "options_subscriptionURLHeader": {
+      "message": "URL"
+   },
+   "options_subscriptionUpdateResultHeader": {
+      "message": "최근 업데이트"
+   },
+   "options_subscriptionUpdateRunning": {
+      "message": "업데이트 중..."
+   },
+   "options_syncAppearance": {
+      "message": "겉보기 설정"
+   },
+   "options_syncBlocklist": {
+      "message": "차단한 사이트"
+   },
+   "options_syncCategories": {
+      "message": "동기화할 항목"
+   },
+   "options_syncFeature": {
+      "message": "클라우드 동기화"
+   },
+   "options_syncFeatureDescription": {
+      "message": "클라우드를 통해 여러 기기간에 차단 목록을 동기화 할 수 있습니다."
+   },
+   "options_syncFeatureUpdated": {
+      "message": "동기화 기능이 업데이트 되었습니다. 계속 동기화를 사용하려면 \"동기화 설정\" 버튼을 눌러주세요."
+   },
+   "options_syncGeneral": {
+      "message": "일반 설정"
+   },
+   "options_syncInterval": {
+      "message": "동기화 주기"
+   },
+   "options_syncNever": {
+      "message": "동기화를 하지 않았습니다."
+   },
+   "options_syncNowButton": {
+      "message": "지금 동기화"
+   },
+   "options_syncReloadButton": {
+      "message": "새로고침"
+   },
+   "options_syncResult": {
+      "message": "최근 동기화"
+   },
+   "options_syncRunning": {
+      "message": "동기화 중..."
+   },
+   "options_syncSubscriptions": {
+      "message": "구독 목록"
+   },
+   "options_syncTitle": {
+      "message": "동기화"
+   },
+   "options_turnOffSync": {
+      "message": "동기화 중지"
+   },
+   "options_turnOnSync": {
+      "message": "동기화 설정"
+   },
+   "options_turnOnSyncDialog_altFlowAuthCodeLabel": {
+      "message": "인증 코드"
+   },
+   "options_turnOnSyncDialog_altFlowDescription": {
+      "message": "인증 과정중에 $1 에 대한 데이터 접근 권한을 요청하지만, 개인 정보는 해당 도메인에 저장되지 않습니다."
+   },
+   "options_turnOnSyncDialog_title": {
+      "message": "동기화 설정"
+   },
+   "options_turnOnSyncDialog_turnOnSyncButton": {
+      "message": "확인"
+   },
+   "options_turnOnSyncDialog_useAltFlow": {
+      "message": "새 탭에서 인증 페이지 열기"
+   },
+   "options_updateAllSubscriptionsNowButton": {
+      "message": "지금 업데이트"
+   },
+   "options_updateInterval": {
+      "message": "업데이트 주기"
+   },
+   "options_updateSubscriptionNowMenu": {
+      "message": "지금 업데이트"
+   },
+   "popup_activateButton": {
+      "message": "활성화"
+   },
+   "popup_active": {
+      "message": "uBlacklist 가 활성화 되었습니다."
+   },
+   "popup_addedRulesLabel": {
+      "message": "추가할 규칙"
+   },
+   "popup_blockSiteButton": {
+      "message": "차단"
+   },
+   "popup_blockSiteTitle": {
+      "message": "이 사이트 차단하기"
+   },
+   "popup_details": {
+      "message": "자세히"
+   },
+   "popup_inactive": {
+      "message": "uBlacklist 가 비활성화 되었습니다."
+   },
+   "popup_openOptionsLink": {
+      "message": "옵션"
+   },
+   "popup_pageTitleLabel": {
+      "message": "페이지 제목"
+   },
+   "popup_pageURLLabel": {
+      "message": "페이지 URL"
+   },
+   "popup_pathDepth": {
+      "message": "계층"
+   },
+   "popup_removedRulesLabel": {
+      "message": "제거할 규칙"
+   },
+   "popup_unblockSiteButton": {
+      "message": "차단 해제"
+   },
+   "popup_unblockSiteTitle": {
+      "message": "이 사이트 차단 해제하기"
+   },
+   "unauthorizedError": {
+      "message": "계정 인증에 실패했습니다. 동기화 중단 후 다시 설정해 주세요."
+   }
+}

@@ -1,0 +1,221 @@
+{
+   "about": {
+      "message": "Favorites hakkında..."
+   },
+   "add": {
+      "message": "Ekle"
+   },
+   "add_bookmark": {
+      "message": "Yer işaretlerine ekleyin"
+   },
+   "add_folder": {
+      "message": "Klasör ekle..."
+   },
+   "add_page": {
+      "message": "Sayfa ekle..."
+   },
+   "apps": {
+      "message": "Uygulamalar"
+   },
+   "back": {
+      "message": "Geri"
+   },
+   "bookmark": {
+      "message": "Yer İşareti"
+   },
+   "bookmark_manager": {
+      "message": "Yer İşareti Yöneticisi"
+   },
+   "bookmarks": {
+      "message": "Favoriler"
+   },
+   "cancel": {
+      "message": "İptal"
+   },
+   "cancelled": {
+      "message": "İptal Edildi"
+   },
+   "click_to_open_x": {
+      "message": "$1 ögesini açmak için tıklayın"
+   },
+   "close": {
+      "message": "Kapat"
+   },
+   "colors_": {
+      "message": "Renkler…"
+   },
+   "complete": {
+      "message": "Tamamlandı"
+   },
+   "confirm": {
+      "message": "Onayla"
+   },
+   "confirm_changes": {
+      "message": "Değişiklikleri Onayla"
+   },
+   "confirm_permiission": {
+      "message": "İzinleri Onayla"
+   },
+   "context_menu": {
+      "message": "İçerik menüsü"
+   },
+   "copy": {
+      "message": "Kopyala"
+   },
+   "cut": {
+      "message": "Kes"
+   },
+   "dark": {
+      "message": "Siyah"
+   },
+   "default": {
+      "message": "Varsayılan"
+   },
+   "delete": {
+      "message": "Sil..."
+   },
+   "delete_item_confirm_many": {
+      "message": "$1 öğeyi silmek istediğiniz emin misiniz?"
+   },
+   "delete_item_confirm_single": {
+      "message": "\"$1\" öğesini silmek istediğiniz emin misiniz?"
+   },
+   "deleted": {
+      "message": "Silindi"
+   },
+   "do_not_show_again": {
+      "message": "Anladım, bunu bir daha gösterme."
+   },
+   "downloads": {
+      "message": "İndirilenler"
+   },
+   "edit": {
+      "message": "Düzenle..."
+   },
+   "empty": {
+      "message": "Boş."
+   },
+   "experimental": {
+      "message": "Deneysel"
+   },
+   "extensions": {
+      "message": "Uzantılar"
+   },
+   "favorites": {
+      "message": "Yer İmleri"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites yeni izinler gerektiriyor"
+   },
+   "folder": {
+      "message": "Klasör"
+   },
+   "forward": {
+      "message": "İleri"
+   },
+   "got_it": {
+      "message": "Anlaşıldı"
+   },
+   "help": {
+      "message": "Yardım"
+   },
+   "history": {
+      "message": "Geçmiş"
+   },
+   "more_information": {
+      "message": "Daha fazla bilgi"
+   },
+   "name": {
+      "message": "Ad"
+   },
+   "new_tab": {
+      "message": "Yeni Sekme"
+   },
+   "no_search_results_found": {
+      "message": "Arama sonucu bulunamadı"
+   },
+   "not_found": {
+      "message": "Bulunamadı"
+   },
+   "ok": {
+      "message": "Tamam"
+   },
+   "open": {
+      "message": "Aç"
+   },
+   "open_all_links": {
+      "message": "Tüm Yer İşaretlerini Aç"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Tüm Yer İşaretlerini Gizli Pencerede Aç"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Tüm Yer İşaretlerini Yeni Pencerede Aç"
+   },
+   "open_in_incognito_window": {
+      "message": "Gizli pencerede aç"
+   },
+   "open_in_new_tab": {
+      "message": "Yeni sekmede aç"
+   },
+   "open_in_new_window": {
+      "message": "Yeni pencerede aç"
+   },
+   "paste": {
+      "message": "Yapıştır"
+   },
+   "permission_symbols": {
+      "message": "Ziyaret ettiğiniz web sitelerinin simgelerini okuma"
+   },
+   "reload": {
+      "message": "Yeniden Yükle"
+   },
+   "remove": {
+      "message": "Kaldır"
+   },
+   "reorder_by_title": {
+      "message": "Başlığa göre yeniden sırala"
+   },
+   "search": {
+      "message": "Ara"
+   },
+   "search_": {
+      "message": "Ara..."
+   },
+   "search_the_web": {
+      "message": "Web’de ara..."
+   },
+   "set_wallpaper_": {
+      "message": "Duvar kağıdını ayarla..."
+   },
+   "settings": {
+      "message": "Ayarlar"
+   },
+   "show_all": {
+      "message": "Tümünü göster"
+   },
+   "show_in_folder": {
+      "message": "Klasörde Göster"
+   },
+   "status": {
+      "message": "Durum"
+   },
+   "subscribe": {
+      "message": "Abone ol"
+   },
+   "support": {
+      "message": "Destek"
+   },
+   "today": {
+      "message": "Bugün"
+   },
+   "unsubscribe": {
+      "message": "Abonelikten çık"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "Dün"
+   }
+}

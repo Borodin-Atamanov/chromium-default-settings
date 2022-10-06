@@ -1,0 +1,221 @@
+{
+   "about": {
+      "message": "Om Favorites..."
+   },
+   "add": {
+      "message": "Tilføj"
+   },
+   "add_bookmark": {
+      "message": "Tilføj bogmærke"
+   },
+   "add_folder": {
+      "message": "Tilføj mappe..."
+   },
+   "add_page": {
+      "message": "Tilføj side..."
+   },
+   "apps": {
+      "message": "Apps"
+   },
+   "back": {
+      "message": "Tilbage"
+   },
+   "bookmark": {
+      "message": "Bogmærke"
+   },
+   "bookmark_manager": {
+      "message": "Bogmærkeadministrator"
+   },
+   "bookmarks": {
+      "message": "Bogmærker"
+   },
+   "cancel": {
+      "message": "Annuller"
+   },
+   "cancelled": {
+      "message": "Annulleret"
+   },
+   "click_to_open_x": {
+      "message": "Klik for at åbne $1"
+   },
+   "close": {
+      "message": "Luk"
+   },
+   "colors_": {
+      "message": "Farver…"
+   },
+   "complete": {
+      "message": "Fuldført"
+   },
+   "confirm": {
+      "message": "Bekræft"
+   },
+   "confirm_changes": {
+      "message": "Bekræft ændringer"
+   },
+   "confirm_permiission": {
+      "message": "Bekræft tilladelser"
+   },
+   "context_menu": {
+      "message": "Genvejsmenu"
+   },
+   "copy": {
+      "message": "Kopiér"
+   },
+   "cut": {
+      "message": "Klip"
+   },
+   "dark": {
+      "message": "Mørk"
+   },
+   "default": {
+      "message": "Standard"
+   },
+   "delete": {
+      "message": "Slet..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Er du sikker på, at du vil slette $1 elementer?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Er du sikker på, at du vil slette \"$1\"?"
+   },
+   "deleted": {
+      "message": "Slettet"
+   },
+   "do_not_show_again": {
+      "message": "Det er forstået. Vis det ikke igen."
+   },
+   "downloads": {
+      "message": "Downloads"
+   },
+   "edit": {
+      "message": "Rediger..."
+   },
+   "empty": {
+      "message": "Tom."
+   },
+   "experimental": {
+      "message": "Eksperimentel"
+   },
+   "extensions": {
+      "message": "Udvidelser"
+   },
+   "favorites": {
+      "message": "Favoritter"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites kræver nye tilladelser"
+   },
+   "folder": {
+      "message": "Mappe"
+   },
+   "forward": {
+      "message": "Frem"
+   },
+   "got_it": {
+      "message": "Forstået"
+   },
+   "help": {
+      "message": "Hjælp"
+   },
+   "history": {
+      "message": "Historik"
+   },
+   "more_information": {
+      "message": "Flere oplysninger"
+   },
+   "name": {
+      "message": "Navn"
+   },
+   "new_tab": {
+      "message": "Ny fane"
+   },
+   "no_search_results_found": {
+      "message": "Der blev ikke fundet nogen søgeresultater"
+   },
+   "not_found": {
+      "message": "Ikke fundet"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open": {
+      "message": "Åbn"
+   },
+   "open_all_links": {
+      "message": "Åbn alle bogmærker"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Åbn alle bogmærker i inkognitovindue"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Åbn alle bogmærker i nyt vindue"
+   },
+   "open_in_incognito_window": {
+      "message": "Åbn i inkognitovindue"
+   },
+   "open_in_new_tab": {
+      "message": "Åbn på ny fane"
+   },
+   "open_in_new_window": {
+      "message": "Åbn i nyt vindue"
+   },
+   "paste": {
+      "message": "Indsæt"
+   },
+   "permission_symbols": {
+      "message": "Læs ikonerne for de websites, du besøger"
+   },
+   "reload": {
+      "message": "Genindlæs"
+   },
+   "remove": {
+      "message": "Fjern"
+   },
+   "reorder_by_title": {
+      "message": "Omorganiser efter titel"
+   },
+   "search": {
+      "message": "Søg"
+   },
+   "search_": {
+      "message": "Søg..."
+   },
+   "search_the_web": {
+      "message": "Søg på nettet..."
+   },
+   "set_wallpaper_": {
+      "message": "Vælg baggrund..."
+   },
+   "settings": {
+      "message": "Indstillinger"
+   },
+   "show_all": {
+      "message": "Vis alle"
+   },
+   "show_in_folder": {
+      "message": "Vis i mappe"
+   },
+   "status": {
+      "message": "Status"
+   },
+   "subscribe": {
+      "message": "Abonner"
+   },
+   "support": {
+      "message": "Support"
+   },
+   "today": {
+      "message": "I dag"
+   },
+   "unsubscribe": {
+      "message": "Fjern abonnement"
+   },
+   "url": {
+      "message": "Webadresse"
+   },
+   "yesterday": {
+      "message": "I går"
+   }
+}

@@ -1,0 +1,197 @@
+{
+   "about": {
+      "message": "Favorites നെ കുറിച്ച്..."
+   },
+   "add": {
+      "message": "ചേര്‍ക്കൂ"
+   },
+   "add_bookmark": {
+      "message": "ബുക്ക്‌മാർക്ക് ചേർക്കുക"
+   },
+   "add_folder": {
+      "message": "ഫോൾഡർ ചേർക്കൂ..."
+   },
+   "add_page": {
+      "message": "പേജ് ചേർക്കുക..."
+   },
+   "apps": {
+      "message": "ആപ്സ്"
+   },
+   "back": {
+      "message": "പിന്നോട്ട്"
+   },
+   "bookmark": {
+      "message": "ബുക്മാര്‍ക്ക്"
+   },
+   "bookmark_manager": {
+      "message": "ബുക്ക്മാര്‍ക്ക് മാനേജര്‍"
+   },
+   "bookmarks": {
+      "message": "ബുക്ക്‌മാര്‍ക്കുകള്‍"
+   },
+   "cancel": {
+      "message": "റദ്ദാക്കൂ"
+   },
+   "cancelled": {
+      "message": "റദ്ദാക്കി"
+   },
+   "close": {
+      "message": "അടയ്ക്കുക"
+   },
+   "complete": {
+      "message": "പൂര്‍ത്തിയാക്കൂ"
+   },
+   "confirm": {
+      "message": "സ്ഥിരീകരിക്കുക"
+   },
+   "confirm_changes": {
+      "message": "മാറ്റങ്ങൾ സ്ഥിരീകരിക്കുക"
+   },
+   "confirm_permiission": {
+      "message": "അനുവാദങ്ങൾ സ്ഥിരീകരിക്കുക"
+   },
+   "context_menu": {
+      "message": "സന്ദർഭ മെനു"
+   },
+   "copy": {
+      "message": "പകര്‍ത്തുക"
+   },
+   "cut": {
+      "message": "മുറിക്കുക"
+   },
+   "default": {
+      "message": "സ്ഥിരസ്ഥിതി"
+   },
+   "delete": {
+      "message": "ഇല്ലാതാക്കുക..."
+   },
+   "delete_item_confirm_many": {
+      "message": "$1 ഇനങ്ങൾ ഇല്ലാതാക്കാൻ നിങ്ങൾ താൽപ്പര്യപ്പെടുന്നോ?"
+   },
+   "delete_item_confirm_single": {
+      "message": "\"$1\" ഇല്ലാതാക്കാൻ നിങ്ങൾ താൽപ്പര്യപ്പെടുന്നുവെന്ന് തീർച്ചയാണോ?"
+   },
+   "deleted": {
+      "message": "ഇല്ലാതാക്കി"
+   },
+   "do_not_show_again": {
+      "message": "മനസിലായി, ഇത് വീണ്ടും കാണിക്കരുത്."
+   },
+   "downloads": {
+      "message": "ഡൌണ്‍ലോഡുകള്‍"
+   },
+   "edit": {
+      "message": "എഡിറ്റ്..."
+   },
+   "experimental": {
+      "message": "പരീക്ഷണാത്മകം"
+   },
+   "extensions": {
+      "message": "വിപുലീകരണങ്ങള്‍"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites-ന് പുതിയ അനുമതികൾ ആവശ്യമുണ്ട്"
+   },
+   "folder": {
+      "message": "ഫോൾഡർ"
+   },
+   "forward": {
+      "message": "മുന്നോട്ട്"
+   },
+   "got_it": {
+      "message": "വിജയകരം"
+   },
+   "help": {
+      "message": "സഹായം"
+   },
+   "history": {
+      "message": "ചരിത്രം"
+   },
+   "more_information": {
+      "message": "കൂടുതൽ വിവരങ്ങൾ"
+   },
+   "name": {
+      "message": "പേര്"
+   },
+   "new_tab": {
+      "message": "പുതിയ ടാബ്"
+   },
+   "no_search_results_found": {
+      "message": "തിരയൽ ഫലങ്ങളൊന്നും കണ്ടെത്തിയില്ല"
+   },
+   "not_found": {
+      "message": "കണ്ടെത്തിയില്ല"
+   },
+   "ok": {
+      "message": "ശരി"
+   },
+   "open": {
+      "message": "തുറക്കുക"
+   },
+   "open_all_links": {
+      "message": "എല്ലാ ബുക്ക്‍മാര്‍ക്കുകളും തുറക്കുക"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "എല്ലാ ബുക്ക്‌മാര്‍ക്കുകളും വേഷ പ്രച്ഛന്ന വിന്‍ഡോയില്‍‌ തുറക്കുക"
+   },
+   "open_all_links_in_new_window": {
+      "message": "എല്ലാ ബുക്ക്‌മാര്‍ക്കുകളും പുതിയ വിന്‍‌ഡോയില്‍‌ തുറക്കുക"
+   },
+   "open_in_incognito_window": {
+      "message": "വേഷ പ്രച്ഛന്ന വിന്‍ഡോയില്‍ തുറക്കുക"
+   },
+   "open_in_new_tab": {
+      "message": "പുതിയ ടാബില്‍ തുറക്കുക"
+   },
+   "open_in_new_window": {
+      "message": "പുതിയ വിന്‍‌ഡോയില്‍‌ തുറക്കുക"
+   },
+   "paste": {
+      "message": "ഒട്ടിക്കുക"
+   },
+   "permission_symbols": {
+      "message": "നിങ്ങൾ സന്ദർശിക്കുന്ന വെബ്‌സൈറ്റുകളുടെ ഐക്കൺ റീഡുചെയ്യുക"
+   },
+   "reload": {
+      "message": "വീണ്ടും ലോഡുചെയ്യുക"
+   },
+   "remove": {
+      "message": "നീക്കംചെയ്യുക"
+   },
+   "reorder_by_title": {
+      "message": "ശീര്‍ഷക പ്രകാരം പുനര്‍ക്രമീകരിക്കുക"
+   },
+   "search": {
+      "message": "തിരയൂ"
+   },
+   "search_": {
+      "message": "തിരയൂ..."
+   },
+   "search_the_web": {
+      "message": "വെബില്‍‌ തിരയുക..."
+   },
+   "set_wallpaper_": {
+      "message": "വാൾപേപ്പർ സജ്ജമാക്കുക..."
+   },
+   "settings": {
+      "message": "ക്രമീകരണങ്ങള്‍"
+   },
+   "show_all": {
+      "message": "എല്ലാം കാണിക്കുക"
+   },
+   "show_in_folder": {
+      "message": "ഫോള്‍ഡറില്‍ കാണിക്കുക"
+   },
+   "status": {
+      "message": "നില"
+   },
+   "today": {
+      "message": "ഇന്ന്"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "ഇന്നലെ"
+   }
+}

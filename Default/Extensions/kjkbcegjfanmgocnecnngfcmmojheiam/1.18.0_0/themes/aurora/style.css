@@ -1,0 +1,57 @@
+:root {
+  --theme-background-color: #2d1635;
+}
+html:before {
+  content: '';
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -1000;
+  background-color: #2d1635;
+  background-image: url("data:image/png;base64,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");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-blend-mode: initial;
+  background-position: initial;
+}
+:root {
+  --theme-dock-background-color: rgba(255, 255, 255, 0.1);
+  --theme-icon-border-radius: 5px;
+  --theme-icon-filter: drop-shadow(4px 4px 3px rgba(0, 0, 0, 0.2));
+  --theme-text-color: #ffffff;
+  --theme-text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+  --theme-path-border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+  --theme-dock-box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.01);
+  --theme-scrollbar-thumb-background-color: rgba(255, 255, 255, 0.1);
+  --theme-scrollbar-thumb-background-color-hover: rgba(255, 255, 255, 0.4);
+  --theme-overlay-color: rgba(255, 255, 255, 0.06);
+  --theme-overlay-color-input: rgba(255, 255, 255, 0.125);
+  --theme-overlay-color-selected: rgba(255, 255, 255, 0.125);
+  --theme-overlay-color-hover: rgba(255, 255, 255, 0.05);
+  --theme-overlay-color-border: rgba(255, 255, 255, 0.075);
+}
+:root {
+  --theme-icon-folder-color: #ffffff;
+  --theme-icon-folder-background-color: #1C2B41;
+  --theme-icon-bookmarks-color: #ffffff;
+  --theme-icon-bookmarks-background-color: #1C2B41;
+  --theme-icon-history-color: #ffffff;
+  --theme-icon-history-background-color: #1C2B41;
+  --theme-icon-downloads-color: #ffffff;
+  --theme-icon-downloads-background-color: #1C2B41;
+  --theme-icon-settings-color: #ffffff;
+  --theme-icon-settings-background-color: #1C2B41;
+  --theme-icon-extensions-color: #ffffff;
+  --theme-icon-extensions-background-color: #1C2B41;
+  --theme-icon-apps-color: #ffffff;
+  --theme-icon-apps-background-color: #1C2B41;
+  --theme-icon-games-color: #ffffff;
+  --theme-icon-games-background-color: #1C2B41;
+  --theme-icon-news-color: #ffffff;
+  --theme-icon-news-background-color: #1C2B41;
+  --theme-icon-chrome-color: #ffffff;
+  --theme-icon-chrome-background-color: #1C2B41;
+}

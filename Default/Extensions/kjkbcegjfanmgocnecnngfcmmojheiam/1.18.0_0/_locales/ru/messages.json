@@ -1,0 +1,221 @@
+{
+   "about": {
+      "message": "О Favorites..."
+   },
+   "add": {
+      "message": "Добавить"
+   },
+   "add_bookmark": {
+      "message": "Добавить закладку"
+   },
+   "add_folder": {
+      "message": "Добавить папку"
+   },
+   "add_page": {
+      "message": "Добавить страницу"
+   },
+   "apps": {
+      "message": "Сервисы"
+   },
+   "back": {
+      "message": "Назад"
+   },
+   "bookmark": {
+      "message": "Закладка"
+   },
+   "bookmark_manager": {
+      "message": "Диспетчер закладок"
+   },
+   "bookmarks": {
+      "message": "Закладки"
+   },
+   "cancel": {
+      "message": "Отмена"
+   },
+   "cancelled": {
+      "message": "Отменено"
+   },
+   "click_to_open_x": {
+      "message": "Нажмите, чтобы открыть $1"
+   },
+   "close": {
+      "message": "Закрыть"
+   },
+   "colors_": {
+      "message": "Цвета…"
+   },
+   "complete": {
+      "message": "Готово"
+   },
+   "confirm": {
+      "message": "Подтвердить"
+   },
+   "confirm_changes": {
+      "message": "Подтверждение изменений"
+   },
+   "confirm_permiission": {
+      "message": "Подтверждение разрешений"
+   },
+   "context_menu": {
+      "message": "Контекстное меню"
+   },
+   "copy": {
+      "message": "Копировать"
+   },
+   "cut": {
+      "message": "Вырезать"
+   },
+   "dark": {
+      "message": "Темный"
+   },
+   "default": {
+      "message": "По умолчанию"
+   },
+   "delete": {
+      "message": "Удалить..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Действительно удалить объекты ($1)?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Действительно удалить \"$1\"?"
+   },
+   "deleted": {
+      "message": "Удалено"
+   },
+   "do_not_show_again": {
+      "message": "Больше не показывать это сообщение"
+   },
+   "downloads": {
+      "message": "Скачанные файлы"
+   },
+   "edit": {
+      "message": "Изменить..."
+   },
+   "empty": {
+      "message": "Пусто."
+   },
+   "experimental": {
+      "message": "Экспериментальная функция"
+   },
+   "extensions": {
+      "message": "Расширения"
+   },
+   "favorites": {
+      "message": "Избранное"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Для расширения \"Favorites\" требуется повторная проверка разрешений"
+   },
+   "folder": {
+      "message": "Папка"
+   },
+   "forward": {
+      "message": "Вперед"
+   },
+   "got_it": {
+      "message": "Готово"
+   },
+   "help": {
+      "message": "Справка"
+   },
+   "history": {
+      "message": "История"
+   },
+   "more_information": {
+      "message": "Дополнительная информация"
+   },
+   "name": {
+      "message": "Название"
+   },
+   "new_tab": {
+      "message": "Новая вкладка"
+   },
+   "no_search_results_found": {
+      "message": "Ничего не найдено"
+   },
+   "not_found": {
+      "message": "Не найдено"
+   },
+   "ok": {
+      "message": "ОК"
+   },
+   "open": {
+      "message": "Открыть"
+   },
+   "open_all_links": {
+      "message": "Открыть все закладки"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Открыть все закладки в режиме инкогнито"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Открыть все закладки в новом окне"
+   },
+   "open_in_incognito_window": {
+      "message": "Открыть в режиме инкогнито"
+   },
+   "open_in_new_tab": {
+      "message": "Открыть в новой вкладке"
+   },
+   "open_in_new_window": {
+      "message": "Открыть в новом окне"
+   },
+   "paste": {
+      "message": "Вставить"
+   },
+   "permission_symbols": {
+      "message": "Доступ к значкам посещаемых сайтов"
+   },
+   "reload": {
+      "message": "Перезагрузить"
+   },
+   "remove": {
+      "message": "Удалить"
+   },
+   "reorder_by_title": {
+      "message": "Упорядочить по заголовкам"
+   },
+   "search": {
+      "message": "Поиск"
+   },
+   "search_": {
+      "message": "Поиск..."
+   },
+   "search_the_web": {
+      "message": "Поиск в Интернете..."
+   },
+   "set_wallpaper_": {
+      "message": "Выбрать обои"
+   },
+   "settings": {
+      "message": "Настройки"
+   },
+   "show_all": {
+      "message": "Показать все"
+   },
+   "show_in_folder": {
+      "message": "Показать в папке"
+   },
+   "status": {
+      "message": "Состояние"
+   },
+   "subscribe": {
+      "message": "Подписаться"
+   },
+   "support": {
+      "message": "Поддержка"
+   },
+   "today": {
+      "message": "Сегодня,"
+   },
+   "unsubscribe": {
+      "message": "Отписаться"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "Вчера,"
+   }
+}

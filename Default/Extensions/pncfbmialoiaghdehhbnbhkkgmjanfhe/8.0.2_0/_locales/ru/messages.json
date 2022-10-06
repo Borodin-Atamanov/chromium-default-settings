@@ -1,0 +1,392 @@
+{
+   "cancelButton": {
+      "message": "Отмена"
+   },
+   "clouds_dropboxSync": {
+      "message": "Синхронизировать с Dropbox"
+   },
+   "clouds_dropboxSyncDescription": {
+      "message": "Файл будет создан в папке \"/Apps/uBlacklist/\"."
+   },
+   "clouds_dropboxSyncTurnedOn": {
+      "message": "Синхронизирован с Dropbox"
+   },
+   "clouds_googleDriveSync": {
+      "message": "Синхронизировать с Google Диском"
+   },
+   "clouds_googleDriveSyncDescription": {
+      "message": "Файл будет создан в папке данных приложения, скрытой от пользователя."
+   },
+   "clouds_googleDriveSyncTurnedOn": {
+      "message": "Синхронизирован с Google Диском"
+   },
+   "content_blockSiteLink": {
+      "message": "Заблокировать сайт"
+   },
+   "content_hideBlockedSitesLink": {
+      "message": "Скрыть"
+   },
+   "content_multipleSitesBlocked": {
+      "message": "uBlacklist заблокировал $1 сайт(ов)"
+   },
+   "content_showBlockedSitesLink": {
+      "message": "Показать"
+   },
+   "content_singleSiteBlocked": {
+      "message": "uBlacklist заблокировал 1 сайт"
+   },
+   "content_unblockSiteLink": {
+      "message": "Разблокировать сайт"
+   },
+   "error": {
+      "message": "Ошибка: $1"
+   },
+   "extensionDescription": {
+      "message": "Блокирует сайты в поисковой выдаче Google"
+   },
+   "extensionName": {
+      "message": "uBlacklist"
+   },
+   "lang": {
+      "message": "ru"
+   },
+   "okButton": {
+      "message": "ОК"
+   },
+   "options_aboutDocumentation": {
+      "message": "Документация"
+   },
+   "options_aboutPrivacyPolicy": {
+      "message": "Политика конфиденциальности"
+   },
+   "options_aboutReleaseNotes": {
+      "message": "Примечания к выпуску"
+   },
+   "options_aboutThirdPartyNotices": {
+      "message": "Уведомления третьих лиц"
+   },
+   "options_aboutTitle": {
+      "message": "О uBlacklist"
+   },
+   "options_aboutVersion": {
+      "message": "Версия"
+   },
+   "options_addSubscriptionButton": {
+      "message": "Добавить подписку"
+   },
+   "options_addSubscriptionDialog_addButton": {
+      "message": "Добавить"
+   },
+   "options_addSubscriptionDialog_nameLabel": {
+      "message": "Название"
+   },
+   "options_addSubscriptionDialog_title": {
+      "message": "Добавить подписку"
+   },
+   "options_addSubscriptionDialog_urlLabel": {
+      "message": "URL"
+   },
+   "options_appearanceTitle": {
+      "message": "Внешний вид"
+   },
+   "options_blacklistExample": {
+      "message": "Пример: $1"
+   },
+   "options_blacklistHelper": {
+      "message": "Вы можете использовать [шаблоны совпадения](https://developer.mozilla.org/ru/docs/Mozilla/Add-ons/WebExtensions/Match_patterns) или [регулярные выражения](https://developer.mozilla.org/ru/docs/Web/JavaScript/Guide/Regular_Expressions)."
+   },
+   "options_blacklistLabel": {
+      "message": "Выбранные сайты не будут отображаться в поисковой выдаче Google"
+   },
+   "options_blacklistUpdated": {
+      "message": "Внесены изменения"
+   },
+   "options_blockByTitle": {
+      "message": "Чтобы блокировать сайты по заголовку страницы, добавьте «title» к регулярным выражениям."
+   },
+   "options_blockColor": {
+      "message": "Цвет заблокированных результатов поиска"
+   },
+   "options_blockWholeSiteDescription": {
+      "message": "Например, для блокировки страницы \"https://a.b.example.uk.com/\", необходимо добавить правило \"*://*.example.uk.com/*\"."
+   },
+   "options_blockWholeSiteLabel": {
+      "message": "Добавить правила, блокирующие целые сайты по умолчанию"
+   },
+   "options_colorSpecify": {
+      "message": "Пользовательский"
+   },
+   "options_colorUseDefault": {
+      "message": "По умолчанию"
+   },
+   "options_dialogTheme": {
+      "message": "Тема диалога \"Заблокировать сайт\" в результатах поиска"
+   },
+   "options_dialogThemeDark": {
+      "message": "Темная"
+   },
+   "options_dialogThemeDefault": {
+      "message": "По умолчанию"
+   },
+   "options_dialogThemeLight": {
+      "message": "Светлая"
+   },
+   "options_exportBlacklistButton": {
+      "message": "Экспорт"
+   },
+   "options_generalTitle": {
+      "message": "Общие"
+   },
+   "options_hideBlockLinksLabel": {
+      "message": "Не показывать ссылки \"Заблокировать сайт\""
+   },
+   "options_hideControlLabel": {
+      "message": "Скрывать количество заблокированных сайтов и ссылку \"Показать\""
+   },
+   "options_highlightColorAdd": {
+      "message": "Добавить цвет"
+   },
+   "options_highlightColorNth": {
+      "message": "Цвет $1"
+   },
+   "options_highlightColorRemove": {
+      "message": "Удалить цвет"
+   },
+   "options_highlightColors": {
+      "message": "Цвет выделенных результатов поиска"
+   },
+   "options_highlightDescription": {
+      "message": "Чтобы выделить результаты поиска цветом N, добавьте к правилам \"@N\"."
+   },
+   "options_importBlacklistButton": {
+      "message": "Импорт"
+   },
+   "options_importBlacklistDialog_append": {
+      "message": "Добавить в конец текущего списка"
+   },
+   "options_importBlacklistDialog_fromFile": {
+      "message": "Импорт из файла"
+   },
+   "options_importBlacklistDialog_fromPB": {
+      "message": "Импорт из Personal Blocklist"
+   },
+   "options_importBlacklistDialog_helper": {
+      "message": "Вставьте список доменов из Personal Blocklist."
+   },
+   "options_importBlacklistDialog_importButton": {
+      "message": "Импортировать"
+   },
+   "options_importBlacklistDialog_pbLabel": {
+      "message": "Список доменов"
+   },
+   "options_importBlacklistDialog_selectFile": {
+      "message": "Выбрать файл"
+   },
+   "options_importBlacklistDialog_title": {
+      "message": "Импорт"
+   },
+   "options_linkColor": {
+      "message": "Цвет ссылок"
+   },
+   "options_noSubscriptionsAdded": {
+      "message": "Нет подписок"
+   },
+   "options_otherSearchEngines": {
+      "message": "Поисковые системы"
+   },
+   "options_otherSearchEnginesDescription": {
+      "message": "Вы можете использовать расширение с другими поисковыми системами."
+   },
+   "options_registerSearchEngine": {
+      "message": "Включить"
+   },
+   "options_reloadBlacklistButton": {
+      "message": "Обновить список"
+   },
+   "options_removeSubscriptionMenu": {
+      "message": "Удалить"
+   },
+   "options_saveBlacklistButton": {
+      "message": "Сохранить"
+   },
+   "options_searchEngineRegistered": {
+      "message": "Включено"
+   },
+   "options_showSubscriptionDialog_blacklistLabel": {
+      "message": "Список правил подписки"
+   },
+   "options_showSubscriptionMenu": {
+      "message": "Показать"
+   },
+   "options_skipBlockDialogLabel": {
+      "message": "Пропустить диалог \"Заблокировать сайт\""
+   },
+   "options_subscriptionFeature": {
+      "message": "Подписаться на чёрные списки"
+   },
+   "options_subscriptionFeatureDescription": {
+      "message": "Если Вы добавите подписку, то список блокируемых сайтов будет регулярно загружаться по указанному URL."
+   },
+   "options_subscriptionMenuButtonLabel": {
+      "message": "Меню подписок"
+   },
+   "options_subscriptionNameHeader": {
+      "message": "Название"
+   },
+   "options_subscriptionTitle": {
+      "message": "Подписки"
+   },
+   "options_subscriptionURLHeader": {
+      "message": "URL"
+   },
+   "options_subscriptionUpdateResultHeader": {
+      "message": "Последнее обновление"
+   },
+   "options_subscriptionUpdateRunning": {
+      "message": "Обновляем..."
+   },
+   "options_syncAppearance": {
+      "message": "Внешний вид"
+   },
+   "options_syncBlocklist": {
+      "message": "Заблокированные сайты"
+   },
+   "options_syncCategories": {
+      "message": "Что синхронизировать"
+   },
+   "options_syncFeature": {
+      "message": "Синхронизация с облаком"
+   },
+   "options_syncFeatureDescription": {
+      "message": "Вы можете синхронизировать чёрные списки между Вашими устройствами."
+   },
+   "options_syncFeatureUpdated": {
+      "message": "Функция синхронизации была обновлена. Чтобы продолжить использование синхронизации, нажмите кнопку \"Включить синхронизацию\"."
+   },
+   "options_syncGeneral": {
+      "message": "Общие настройки"
+   },
+   "options_syncInterval": {
+      "message": "Интервал синхронизации"
+   },
+   "options_syncNever": {
+      "message": "Синхронизация отключена"
+   },
+   "options_syncNowButton": {
+      "message": "Синхронизировать"
+   },
+   "options_syncReloadButton": {
+      "message": "Обновить"
+   },
+   "options_syncResult": {
+      "message": "Последняя синхронизация"
+   },
+   "options_syncRunning": {
+      "message": "Синхронизируем..."
+   },
+   "options_syncSubscriptions": {
+      "message": "Подписки"
+   },
+   "options_syncTitle": {
+      "message": "Синхронизация"
+   },
+   "options_turnOffSync": {
+      "message": "Отключить"
+   },
+   "options_turnOnSync": {
+      "message": "Включить синхронизацию"
+   },
+   "options_turnOnSyncDialog_altFlowAuthCodeLabel": {
+      "message": "Код авторизации"
+   },
+   "options_turnOnSyncDialog_altFlowDescription": {
+      "message": "У Вас могут попросить разрешение на доступ к $1 перед аутентификацией, но ваша личная информация НЕ будет храниться в этом домене."
+   },
+   "options_turnOnSyncDialog_title": {
+      "message": "Включить синхронизацию"
+   },
+   "options_turnOnSyncDialog_turnOnSyncButton": {
+      "message": "Включить"
+   },
+   "options_turnOnSyncDialog_useAltFlow": {
+      "message": "Открыть страницу аутентификации в новой вкладке"
+   },
+   "options_updateAllSubscriptionsNowButton": {
+      "message": "Обновить все подписки"
+   },
+   "options_updateInterval": {
+      "message": "Интервал обновления"
+   },
+   "options_updateSubscriptionNowMenu": {
+      "message": "Обновить"
+   },
+   "popup_activateButton": {
+      "message": "Включить"
+   },
+   "popup_active": {
+      "message": "uBlacklist включен"
+   },
+   "popup_addedRulesLabel": {
+      "message": "Правила, которые будут добавлены"
+   },
+   "popup_blockSiteButton": {
+      "message": "Заблокировать"
+   },
+   "popup_blockSiteTitle": {
+      "message": "Заблокировать сайт"
+   },
+   "popup_details": {
+      "message": "Подробности"
+   },
+   "popup_inactive": {
+      "message": "uBlacklist выключен"
+   },
+   "popup_openOptionsLink": {
+      "message": "Настройки"
+   },
+   "popup_pageTitleLabel": {
+      "message": "Заголовок страницы"
+   },
+   "popup_pageURLLabel": {
+      "message": "URL страницы"
+   },
+   "popup_pathDepth": {
+      "message": "глубина"
+   },
+   "popup_removedRulesLabel": {
+      "message": "Правила, которые будут удалены"
+   },
+   "popup_unblockSiteButton": {
+      "message": "Разблокировать"
+   },
+   "popup_unblockSiteTitle": {
+      "message": "Разблокировать сайт"
+   },
+   "searchEngines_bingName": {
+      "message": "Bing"
+   },
+   "searchEngines_braveName": {
+      "message": "Brave"
+   },
+   "searchEngines_duckduckgoName": {
+      "message": "DuckDuckGo"
+   },
+   "searchEngines_ecosiaName": {
+      "message": "Ecosia"
+   },
+   "searchEngines_googleName": {
+      "message": "Google"
+   },
+   "searchEngines_qwantName": {
+      "message": "Qwant"
+   },
+   "searchEngines_startpageName": {
+      "message": "Startpage.com"
+   },
+   "searchEngines_yandexName": {
+      "message": "Яндекс"
+   },
+   "unauthorizedError": {
+      "message": "Ошибка авторизации. Пожалуйста, выключите синхронизацию и включите снова."
+   }
+}

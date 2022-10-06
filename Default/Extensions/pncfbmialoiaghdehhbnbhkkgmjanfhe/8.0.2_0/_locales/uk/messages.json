@@ -1,0 +1,395 @@
+{
+   "cancelButton": {
+      "message": "Скасувати"
+   },
+   "clouds_dropboxSync": {
+      "message": "Синхр. з Dropbox"
+   },
+   "clouds_dropboxSyncDescription": {
+      "message": "Файл створиться в \"/Apps/uBlacklist/\"."
+   },
+   "clouds_dropboxSyncTurnedOn": {
+      "message": "Синхронізовано з Dropbox"
+   },
+   "clouds_googleDriveSync": {
+      "message": "Синхр. з Google Drive"
+   },
+   "clouds_googleDriveSyncDescription": {
+      "message": "Файл створиться в теці для програмних даних, що прихована від користувача."
+   },
+   "clouds_googleDriveSyncTurnedOn": {
+      "message": "Синхронізовано з Google Drive"
+   },
+   "content_blockSiteLink": {
+      "message": "Заблокувати сайт"
+   },
+   "content_hideBlockedSitesLink": {
+      "message": "Сховати"
+   },
+   "content_multipleSitesBlocked": {
+      "message": "uBlacklist заблокував $1 сайтів"
+   },
+   "content_showBlockedSitesLink": {
+      "message": "Показати"
+   },
+   "content_singleSiteBlocked": {
+      "message": "uBlacklist заблокував 1 сайт"
+   },
+   "content_unblockSiteLink": {
+      "message": "Розблокувати сайт"
+   },
+   "error": {
+      "message": "Помилка: $1"
+   },
+   "extensionDescription": {
+      "message": "Блокує визначені Вами сайти, що появляються в результатах пошуку Google"
+   },
+   "extensionName": {
+      "message": "uBlacklist"
+   },
+   "lang": {
+      "message": "uk"
+   },
+   "okButton": {
+      "message": "Гаразд"
+   },
+   "options_aboutDocumentation": {
+      "message": "Документація"
+   },
+   "options_aboutPrivacyPolicy": {
+      "message": "Політика приватності"
+   },
+   "options_aboutReleaseNotes": {
+      "message": "Нотатки до випуску"
+   },
+   "options_aboutThirdPartyNotices": {
+      "message": "Сторонні примітки"
+   },
+   "options_aboutTitle": {
+      "message": "Про uBlacklist"
+   },
+   "options_aboutVersion": {
+      "message": "Версія"
+   },
+   "options_addSubscriptionButton": {
+      "message": "Додати джерело"
+   },
+   "options_addSubscriptionDialog_addButton": {
+      "message": "Додати"
+   },
+   "options_addSubscriptionDialog_nameLabel": {
+      "message": "Назва"
+   },
+   "options_addSubscriptionDialog_title": {
+      "message": "Додати джерело"
+   },
+   "options_addSubscriptionDialog_urlLabel": {
+      "message": "URL-адреса"
+   },
+   "options_appearanceTitle": {
+      "message": "Вигляд"
+   },
+   "options_blacklistExample": {
+      "message": "Приклад: $1"
+   },
+   "options_blacklistHelper": {
+      "message": "Можна використовувати [зіставляння з маскою](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Match_patterns) або [регулярні вирази](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)."
+   },
+   "options_blacklistLabel": {
+      "message": "Сайти, що вилучаються з пошукових результатів Google"
+   },
+   "options_blacklistUpdated": {
+      "message": "Оновлено"
+   },
+   "options_blockByTitle": {
+      "message": "Щоб заблокувати сайт за заголовком сторінки, додайте перед регулярним виразом \"title\"."
+   },
+   "options_blockColor": {
+      "message": "Колір заблокованих пошукових результатів"
+   },
+   "options_blockWholeSiteDescription": {
+      "message": "Наприклад, щоб заблокувати сторінку \"https://a.b.example.uk.com/\", буде додано правило \"*://*.example.uk.com/*\"."
+   },
+   "options_blockWholeSiteLabel": {
+      "message": "Додавати правила, що блокують цілі сайти за замовчуванням"
+   },
+   "options_colorSpecify": {
+      "message": "Власний"
+   },
+   "options_colorUseDefault": {
+      "message": "Типовий"
+   },
+   "options_dialogTheme": {
+      "message": "Тема вікна «Заблокувати цей сайт» у результатах пошуку"
+   },
+   "options_dialogThemeDark": {
+      "message": "Темна"
+   },
+   "options_dialogThemeDefault": {
+      "message": "Типова"
+   },
+   "options_dialogThemeLight": {
+      "message": "Світла"
+   },
+   "options_exportBlacklistButton": {
+      "message": "Експорт"
+   },
+   "options_generalTitle": {
+      "message": "Загальні"
+   },
+   "options_hideBlockLinksLabel": {
+      "message": "Xовати посилання «Заблокувати сайт»"
+   },
+   "options_hideControlLabel": {
+      "message": "Ховати к-сть заблокованих сайтів і ланку «Показати»"
+   },
+   "options_highlightColorAdd": {
+      "message": "Додати"
+   },
+   "options_highlightColorNth": {
+      "message": "Колір $1"
+   },
+   "options_highlightColorRemove": {
+      "message": "Вилучити"
+   },
+   "options_highlightColors": {
+      "message": "Кольори виділених результатів пошуку"
+   },
+   "options_highlightDescription": {
+      "message": "Для виділення пошукового результату кольором N додайте на початку правила «@N»."
+   },
+   "options_importBlacklistButton": {
+      "message": "Імпорт"
+   },
+   "options_importBlacklistDialog_append": {
+      "message": "Дописати до наявного списку"
+   },
+   "options_importBlacklistDialog_fromFile": {
+      "message": "Імпортувати з файлу"
+   },
+   "options_importBlacklistDialog_fromPB": {
+      "message": "Імпортувати особистий список"
+   },
+   "options_importBlacklistDialog_helper": {
+      "message": "Вставте домени з Вашого особистого списку."
+   },
+   "options_importBlacklistDialog_importButton": {
+      "message": "Імпорт"
+   },
+   "options_importBlacklistDialog_pbLabel": {
+      "message": "Домени"
+   },
+   "options_importBlacklistDialog_selectFile": {
+      "message": "Обрати файл"
+   },
+   "options_importBlacklistDialog_title": {
+      "message": "Імпортувати"
+   },
+   "options_linkColor": {
+      "message": "Колір посилань"
+   },
+   "options_noSubscriptionsAdded": {
+      "message": "Не додано підписок"
+   },
+   "options_otherSearchEngines": {
+      "message": "Інші пошукові системи"
+   },
+   "options_otherSearchEnginesDescription": {
+      "message": "Це розширення можна використовувати для перелічених нижче пошуковиків."
+   },
+   "options_registerSearchEngine": {
+      "message": "Дозволити"
+   },
+   "options_reloadBlacklistButton": {
+      "message": "Оновити"
+   },
+   "options_removeSubscriptionMenu": {
+      "message": "Вилучити"
+   },
+   "options_saveBlacklistButton": {
+      "message": "Зберегти"
+   },
+   "options_searchEngineRegistered": {
+      "message": "Дозволено"
+   },
+   "options_showSubscriptionDialog_blacklistLabel": {
+      "message": "Правила"
+   },
+   "options_showSubscriptionMenu": {
+      "message": "Показати"
+   },
+   "options_skipBlockDialogLabel": {
+      "message": "Пропускати вікно «Заблокувати цей сайт»"
+   },
+   "options_subscriptionCheckBoxLabel": {
+      "message": "Дозволено"
+   },
+   "options_subscriptionFeature": {
+      "message": "Підписатися на списки блокування"
+   },
+   "options_subscriptionFeatureDescription": {
+      "message": "Коли Ви додасьте підписку — списки блокування періодично завантажуватимуться з вказаної URL-адреси."
+   },
+   "options_subscriptionMenuButtonLabel": {
+      "message": "Меню"
+   },
+   "options_subscriptionNameHeader": {
+      "message": "Назва"
+   },
+   "options_subscriptionTitle": {
+      "message": "Підписка"
+   },
+   "options_subscriptionURLHeader": {
+      "message": "URL-адреса"
+   },
+   "options_subscriptionUpdateResultHeader": {
+      "message": "Востаннє оновлено"
+   },
+   "options_subscriptionUpdateRunning": {
+      "message": "Оновлення..."
+   },
+   "options_syncAppearance": {
+      "message": "Вигляд"
+   },
+   "options_syncBlocklist": {
+      "message": "Заблоковані сайти"
+   },
+   "options_syncCategories": {
+      "message": "Що синхронізувати?"
+   },
+   "options_syncFeature": {
+      "message": "Синхронізувати з хмарою"
+   },
+   "options_syncFeatureDescription": {
+      "message": "Списки блокування можна синхронізувати з Вашими пристроями через хмару."
+   },
+   "options_syncFeatureUpdated": {
+      "message": "Функцію синхронізування оновлено. Щоб продовжити користуватися синхронізуванням, натисніть кнопку «Увімкнути»."
+   },
+   "options_syncGeneral": {
+      "message": "Загальні налаштування"
+   },
+   "options_syncInterval": {
+      "message": "Період синхронізації"
+   },
+   "options_syncNever": {
+      "message": "Не синхронізовано"
+   },
+   "options_syncNowButton": {
+      "message": "Синхр. зараз"
+   },
+   "options_syncReloadButton": {
+      "message": "Оновити"
+   },
+   "options_syncResult": {
+      "message": "Остання синхронізація"
+   },
+   "options_syncRunning": {
+      "message": "Синхронізування..."
+   },
+   "options_syncSubscriptions": {
+      "message": "Підписки"
+   },
+   "options_syncTitle": {
+      "message": "Синхронізація"
+   },
+   "options_turnOffSync": {
+      "message": "Вимкнути"
+   },
+   "options_turnOnSync": {
+      "message": "Увімкнути"
+   },
+   "options_turnOnSyncDialog_altFlowAuthCodeLabel": {
+      "message": "Код авторизації"
+   },
+   "options_turnOnSyncDialog_altFlowDescription": {
+      "message": "Вас можуть запитати дозвіл доступу до $1 перед автентифікацією, але Ваша персональна інформація не зберігатиметься на цьому домені."
+   },
+   "options_turnOnSyncDialog_title": {
+      "message": "Увімкнути синхронізацію"
+   },
+   "options_turnOnSyncDialog_turnOnSyncButton": {
+      "message": "Увімкнути"
+   },
+   "options_turnOnSyncDialog_useAltFlow": {
+      "message": "Відкрити сторінку автентифікації в новій вкладці"
+   },
+   "options_updateAllSubscriptionsNowButton": {
+      "message": "Оновити зараз"
+   },
+   "options_updateInterval": {
+      "message": "Період оновлення"
+   },
+   "options_updateSubscriptionNowMenu": {
+      "message": "Оновити зараз"
+   },
+   "popup_activateButton": {
+      "message": "Активувати"
+   },
+   "popup_active": {
+      "message": "uBlacklist активовано"
+   },
+   "popup_addedRulesLabel": {
+      "message": "Правила, що додаються"
+   },
+   "popup_blockSiteButton": {
+      "message": "Блокувати"
+   },
+   "popup_blockSiteTitle": {
+      "message": "Заблокувати цей сайт"
+   },
+   "popup_details": {
+      "message": "Деталі"
+   },
+   "popup_inactive": {
+      "message": "uBlacklist не активовано"
+   },
+   "popup_openOptionsLink": {
+      "message": "Параметри"
+   },
+   "popup_pageTitleLabel": {
+      "message": "Заголовок сторінки"
+   },
+   "popup_pageURLLabel": {
+      "message": "URL сторінки"
+   },
+   "popup_pathDepth": {
+      "message": "Depth"
+   },
+   "popup_removedRulesLabel": {
+      "message": "Правила, що вилучаються"
+   },
+   "popup_unblockSiteButton": {
+      "message": "Розблокувати"
+   },
+   "popup_unblockSiteTitle": {
+      "message": "Розблокувати цей сайт"
+   },
+   "searchEngines_bingName": {
+      "message": "Bing"
+   },
+   "searchEngines_braveName": {
+      "message": "Brave"
+   },
+   "searchEngines_duckduckgoName": {
+      "message": "DuckDuckGo"
+   },
+   "searchEngines_ecosiaName": {
+      "message": "Ecosia"
+   },
+   "searchEngines_googleName": {
+      "message": "Google"
+   },
+   "searchEngines_qwantName": {
+      "message": "Qwant"
+   },
+   "searchEngines_startpageName": {
+      "message": "Startpage.com"
+   },
+   "searchEngines_yahooJapanName": {
+      "message": "Yahoo! JAPAN"
+   },
+   "unauthorizedError": {
+      "message": "Не авторизовано. Вимкніть синхронізацію і спробуйте ще раз."
+   }
+}

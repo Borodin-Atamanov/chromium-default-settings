@@ -1,0 +1,407 @@
+{
+   "cancelButton": {
+      "message": "Cancel"
+   },
+   "clouds_dropboxSync": {
+      "message": "Sync with Dropbox"
+   },
+   "clouds_dropboxSyncDescription": {
+      "message": "A file will be created within \"/Apps/uBlacklist/\"."
+   },
+   "clouds_dropboxSyncTurnedOn": {
+      "message": "Synced with Dropbox"
+   },
+   "clouds_googleDriveSync": {
+      "message": "Sync with Google Drive"
+   },
+   "clouds_googleDriveSyncDescription": {
+      "message": "A file will be created within the application data folder hidden from the user."
+   },
+   "clouds_googleDriveSyncTurnedOn": {
+      "message": "Synced with Google Drive"
+   },
+   "content_blockSiteLink": {
+      "message": "Block this site"
+   },
+   "content_hideBlockedSitesLink": {
+      "message": "Hide"
+   },
+   "content_multipleSitesBlocked": {
+      "message": "uBlacklist has blocked $1 sites"
+   },
+   "content_showBlockedSitesLink": {
+      "message": "Show"
+   },
+   "content_singleSiteBlocked": {
+      "message": "uBlacklist has blocked 1 site"
+   },
+   "content_unblockSiteLink": {
+      "message": "Unblock this site"
+   },
+   "error": {
+      "message": "Error: $1"
+   },
+   "extensionDescription": {
+      "message": "Blocks sites you specify from appearing in Google search results"
+   },
+   "extensionName": {
+      "message": "uBlacklist"
+   },
+   "lang": {
+      "message": "en"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "options_aboutDocumentation": {
+      "message": "Documentation"
+   },
+   "options_aboutPrivacyPolicy": {
+      "message": "Privacy Policy"
+   },
+   "options_aboutReleaseNotes": {
+      "message": "Release Notes"
+   },
+   "options_aboutThirdPartyNotices": {
+      "message": "Third-Party Notices"
+   },
+   "options_aboutTitle": {
+      "message": "About uBlacklist"
+   },
+   "options_aboutVersion": {
+      "message": "Version"
+   },
+   "options_addSubscriptionButton": {
+      "message": "Add a subscription"
+   },
+   "options_addSubscriptionDialog_addButton": {
+      "message": "Add"
+   },
+   "options_addSubscriptionDialog_nameLabel": {
+      "message": "Name"
+   },
+   "options_addSubscriptionDialog_title": {
+      "message": "Add a subscription"
+   },
+   "options_addSubscriptionDialog_urlLabel": {
+      "message": "URL"
+   },
+   "options_appearanceTitle": {
+      "message": "Appearance"
+   },
+   "options_blacklistExample": {
+      "message": "Example: $1"
+   },
+   "options_blacklistHelper": {
+      "message": "You can use [match patterns](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Match_patterns) or [regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)."
+   },
+   "options_blacklistLabel": {
+      "message": "Sites blocked from appearing in Google search results"
+   },
+   "options_blacklistUpdated": {
+      "message": "Updated"
+   },
+   "options_blockByTitle": {
+      "message": "To block sites by page title, prepend \"title\" to regular expressions."
+   },
+   "options_blockColor": {
+      "message": "The color of blocked search results"
+   },
+   "options_blockWholeSiteDescription": {
+      "message": "For example, to block the page \"https://a.b.example.uk.com/\", a rule \"*://*.example.uk.com/*\" will be added."
+   },
+   "options_blockWholeSiteLabel": {
+      "message": "Add rules blocking whole sites by default"
+   },
+   "options_colorSpecify": {
+      "message": "Custom"
+   },
+   "options_colorUseDefault": {
+      "message": "Default"
+   },
+   "options_dialogTheme": {
+      "message": "The theme of the \"Block this site\" dialog on search results"
+   },
+   "options_dialogThemeDark": {
+      "message": "Dark"
+   },
+   "options_dialogThemeDefault": {
+      "message": "Default"
+   },
+   "options_dialogThemeLight": {
+      "message": "Light"
+   },
+   "options_exportBlacklistButton": {
+      "message": "Export"
+   },
+   "options_generalTitle": {
+      "message": "General"
+   },
+   "options_hideBlockLinksLabel": {
+      "message": "Hide the \"Block this site\" links"
+   },
+   "options_hideControlLabel": {
+      "message": "Hide the number of blocked sites and the \"Show\" link"
+   },
+   "options_highlightColorAdd": {
+      "message": "Add"
+   },
+   "options_highlightColorNth": {
+      "message": "Color $1"
+   },
+   "options_highlightColorRemove": {
+      "message": "Remove"
+   },
+   "options_highlightColors": {
+      "message": "The colors of highlighted search results"
+   },
+   "options_highlightDescription": {
+      "message": "To highlight search results with Color N, prepend \"@N\" to rules."
+   },
+   "options_importBlacklistButton": {
+      "message": "Import"
+   },
+   "options_importBlacklistDialog_append": {
+      "message": "Append to the existing list"
+   },
+   "options_importBlacklistDialog_fromFile": {
+      "message": "Import from a file"
+   },
+   "options_importBlacklistDialog_fromPB": {
+      "message": "Import from Personal Blocklist"
+   },
+   "options_importBlacklistDialog_helper": {
+      "message": "Paste the domains exported from Personal Blocklist."
+   },
+   "options_importBlacklistDialog_importButton": {
+      "message": "Import"
+   },
+   "options_importBlacklistDialog_pbLabel": {
+      "message": "Domains"
+   },
+   "options_importBlacklistDialog_selectFile": {
+      "message": "Select a file"
+   },
+   "options_importBlacklistDialog_title": {
+      "message": "Import"
+   },
+   "options_linkColor": {
+      "message": "The color of links"
+   },
+   "options_noSubscriptionsAdded": {
+      "message": "No subscriptions added"
+   },
+   "options_otherSearchEngines": {
+      "message": "Other search engines"
+   },
+   "options_otherSearchEnginesDescription": {
+      "message": "You can use this extension on the below search engines."
+   },
+   "options_registerSearchEngine": {
+      "message": "Enable"
+   },
+   "options_reloadBlacklistButton": {
+      "message": "Reload"
+   },
+   "options_removeSubscriptionMenu": {
+      "message": "Remove"
+   },
+   "options_saveBlacklistButton": {
+      "message": "Save"
+   },
+   "options_searchEngineRegistered": {
+      "message": "Enabled"
+   },
+   "options_showSubscriptionDialog_blacklistLabel": {
+      "message": "Rules"
+   },
+   "options_showSubscriptionMenu": {
+      "message": "Show"
+   },
+   "options_skipBlockDialogLabel": {
+      "message": "Skip the \"Block this site\" dialog"
+   },
+   "options_subscriptionCheckBoxLabel": {
+      "message": "Enabled"
+   },
+   "options_subscriptionFeature": {
+      "message": "Subscribe to blacklists"
+   },
+   "options_subscriptionFeatureDescription": {
+      "message": "If you add a subscription, blacklists will be regularly downloaded from the specified URL."
+   },
+   "options_subscriptionMenuButtonLabel": {
+      "message": "Menu"
+   },
+   "options_subscriptionNameHeader": {
+      "message": "Name"
+   },
+   "options_subscriptionTitle": {
+      "message": "Subscription"
+   },
+   "options_subscriptionURLHeader": {
+      "message": "URL"
+   },
+   "options_subscriptionUpdateResultHeader": {
+      "message": "Last update"
+   },
+   "options_subscriptionUpdateRunning": {
+      "message": "Updating..."
+   },
+   "options_syncAppearance": {
+      "message": "Appearance"
+   },
+   "options_syncBlocklist": {
+      "message": "Blocked sites"
+   },
+   "options_syncCategories": {
+      "message": "What to sync"
+   },
+   "options_syncFeature": {
+      "message": "Sync with a cloud"
+   },
+   "options_syncFeatureDescription": {
+      "message": "You can synchronize blacklists across your devices through a cloud."
+   },
+   "options_syncFeatureUpdated": {
+      "message": "The sync feature has been updated. To continue using sync, press the \"Turn on sync\" button."
+   },
+   "options_syncGeneral": {
+      "message": "General settings"
+   },
+   "options_syncInterval": {
+      "message": "Sync interval"
+   },
+   "options_syncNever": {
+      "message": "Never synced"
+   },
+   "options_syncNowButton": {
+      "message": "Sync now"
+   },
+   "options_syncReloadButton": {
+      "message": "Reload"
+   },
+   "options_syncResult": {
+      "message": "Last sync"
+   },
+   "options_syncRunning": {
+      "message": "Syncing..."
+   },
+   "options_syncSubscriptions": {
+      "message": "Subscriptions"
+   },
+   "options_syncTitle": {
+      "message": "Sync"
+   },
+   "options_turnOffSync": {
+      "message": "Turn off"
+   },
+   "options_turnOnSync": {
+      "message": "Turn on sync"
+   },
+   "options_turnOnSyncDialog_altFlowAuthCodeLabel": {
+      "message": "Authorization code"
+   },
+   "options_turnOnSyncDialog_altFlowDescription": {
+      "message": "You may be asked for permission to access $1 before authentication, but your personal information will NOT be stored in that domain."
+   },
+   "options_turnOnSyncDialog_title": {
+      "message": "Turn on sync"
+   },
+   "options_turnOnSyncDialog_turnOnSyncButton": {
+      "message": "Turn on"
+   },
+   "options_turnOnSyncDialog_useAltFlow": {
+      "message": "Open the authentication page in a new tab"
+   },
+   "options_updateAllSubscriptionsNowButton": {
+      "message": "Update now"
+   },
+   "options_updateInterval": {
+      "message": "Update interval"
+   },
+   "options_updateSubscriptionNowMenu": {
+      "message": "Update now"
+   },
+   "popup_activateButton": {
+      "message": "Activate"
+   },
+   "popup_active": {
+      "message": "uBlacklist is active"
+   },
+   "popup_addedRulesLabel": {
+      "message": "Rules to be added"
+   },
+   "popup_blockSiteButton": {
+      "message": "Block"
+   },
+   "popup_blockSiteTitle": {
+      "message": "Block this site"
+   },
+   "popup_details": {
+      "message": "Details"
+   },
+   "popup_inactive": {
+      "message": "uBlacklist is inactive"
+   },
+   "popup_openOptionsLink": {
+      "message": "Options"
+   },
+   "popup_pageTitleLabel": {
+      "message": "Page title"
+   },
+   "popup_pageURLLabel": {
+      "message": "Page URL"
+   },
+   "popup_pathDepth": {
+      "message": "Depth"
+   },
+   "popup_removedRulesLabel": {
+      "message": "Rules to be removed"
+   },
+   "popup_unblockSiteButton": {
+      "message": "Unblock"
+   },
+   "popup_unblockSiteTitle": {
+      "message": "Unblock this site"
+   },
+   "searchEngines_bingDescription_firefox": {
+      "message": "Turn off \"Open links from search results in a new tab or window\"."
+   },
+   "searchEngines_bingName": {
+      "message": "Bing"
+   },
+   "searchEngines_braveName": {
+      "message": "Brave"
+   },
+   "searchEngines_duckduckgoName": {
+      "message": "DuckDuckGo"
+   },
+   "searchEngines_ecosiaName": {
+      "message": "Ecosia"
+   },
+   "searchEngines_googleName": {
+      "message": "Google"
+   },
+   "searchEngines_qwantDescription": {
+      "message": "Turn off \"Always play videos on Qwant.com\"."
+   },
+   "searchEngines_qwantName": {
+      "message": "Qwant"
+   },
+   "searchEngines_startpageName": {
+      "message": "Startpage.com"
+   },
+   "searchEngines_yahooJapanName": {
+      "message": "Yahoo! JAPAN"
+   },
+   "searchEngines_yandexName": {
+      "message": "Yandex"
+   },
+   "unauthorizedError": {
+      "message": "Unauthorized. Please turn sync off and on again."
+   },
+   "websiteLocale": {
+      "message": "en"
+   }
+}

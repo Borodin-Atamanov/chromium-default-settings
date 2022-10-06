@@ -1,0 +1,58 @@
+:root {
+  --theme-background-color: #F2F2F2;
+}
+html:before {
+  content: '';
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -1000;
+  background-color: #F2F2F2;
+  background-image: initial;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: initial;
+  background-position: initial;
+}
+:root {
+  --theme-icon-border-radius: 4px;
+  --theme-icon-filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.2));
+  --theme-text-color: #404040;
+  --theme-path-border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  --theme-dock-box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.01);
+  --theme-scrollbar-thumb-background-color: rgba(0, 0, 0, 0.1);
+  --theme-scrollbar-thumb-background-color-hover: rgba(0, 0, 0, 0.3);
+  --theme-overlay-color: rgba(0, 0, 0, 0.03);
+  --theme-overlay-color-input: rgba(0, 0, 0, 0.07);
+  --theme-overlay-color-selected: rgba(0, 0, 0, 0.07);
+  --theme-overlay-color-hover: rgba(0, 0, 0, 0.03);
+  --theme-overlay-color-border: rgba(0, 0, 0, 0.07);
+}
+:root {
+  --theme-dock-background-color: #F8F8F8;
+}
+:root {
+  --theme-icon-folder-color: #1976d2;
+  --theme-icon-folder-background-color: #eaeaea;
+  --theme-icon-bookmarks-color: #1976d2;
+  --theme-icon-bookmarks-background-color: #eaeaea;
+  --theme-icon-history-color: #1976d2;
+  --theme-icon-history-background-color: #eaeaea;
+  --theme-icon-downloads-color: #1976d2;
+  --theme-icon-downloads-background-color: #eaeaea;
+  --theme-icon-settings-color: #1976d2;
+  --theme-icon-settings-background-color: #eaeaea;
+  --theme-icon-extensions-color: #1976d2;
+  --theme-icon-extensions-background-color: #eaeaea;
+  --theme-icon-apps-color: #1976d2;
+  --theme-icon-apps-background-color: #eaeaea;
+  --theme-icon-games-color: #1976d2;
+  --theme-icon-games-background-color: #eaeaea;
+  --theme-icon-news-color: #1976d2;
+  --theme-icon-news-background-color: #eaeaea;
+  --theme-icon-chrome-color: #1976d2;
+  --theme-icon-chrome-background-color: #eaeaea;
+}

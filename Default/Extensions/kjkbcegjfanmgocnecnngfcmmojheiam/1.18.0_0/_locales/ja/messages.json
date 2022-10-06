@@ -1,0 +1,215 @@
+{
+   "about": {
+      "message": "Favorites について..."
+   },
+   "add": {
+      "message": "追加"
+   },
+   "add_bookmark": {
+      "message": "ブックマークを追加"
+   },
+   "add_folder": {
+      "message": "フォルダを追加..."
+   },
+   "add_page": {
+      "message": "ページを追加..."
+   },
+   "apps": {
+      "message": "アプリ"
+   },
+   "back": {
+      "message": "戻る"
+   },
+   "bookmark": {
+      "message": "ブックマーク"
+   },
+   "bookmark_manager": {
+      "message": "ブックマーク マネージャ"
+   },
+   "bookmarks": {
+      "message": "ブックマーク"
+   },
+   "cancel": {
+      "message": "キャンセル"
+   },
+   "cancelled": {
+      "message": "キャンセルされました"
+   },
+   "close": {
+      "message": "閉じる"
+   },
+   "colors_": {
+      "message": "配色設定..."
+   },
+   "complete": {
+      "message": "完了"
+   },
+   "confirm": {
+      "message": "確認"
+   },
+   "confirm_changes": {
+      "message": "変更内容を確認"
+   },
+   "confirm_permiission": {
+      "message": "許可の確認"
+   },
+   "context_menu": {
+      "message": "コンテキスト メニュー"
+   },
+   "copy": {
+      "message": "コピー"
+   },
+   "cut": {
+      "message": "切り取り"
+   },
+   "dark": {
+      "message": "ダーク"
+   },
+   "default": {
+      "message": "既定"
+   },
+   "delete": {
+      "message": "削除..."
+   },
+   "delete_item_confirm_many": {
+      "message": "$1 項目を削除してもよろしいですか？"
+   },
+   "delete_item_confirm_single": {
+      "message": "「$1」を削除してもよろしいですか？"
+   },
+   "deleted": {
+      "message": "削除済み"
+   },
+   "do_not_show_again": {
+      "message": "了解。今後このメッセージを表示しない。"
+   },
+   "downloads": {
+      "message": "ダウンロード"
+   },
+   "edit": {
+      "message": "編集..."
+   },
+   "empty": {
+      "message": "レポートなし。"
+   },
+   "experimental": {
+      "message": "試験運用機能"
+   },
+   "extensions": {
+      "message": "拡張機能"
+   },
+   "favorites": {
+      "message": "お気に入り"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites をご利用になるには新たに権限を付与する必要があります"
+   },
+   "folder": {
+      "message": "フォルダ"
+   },
+   "forward": {
+      "message": "進む"
+   },
+   "got_it": {
+      "message": "閉じる"
+   },
+   "help": {
+      "message": "ヘルプ"
+   },
+   "history": {
+      "message": "履歴"
+   },
+   "more_information": {
+      "message": "詳細情報"
+   },
+   "name": {
+      "message": "名前"
+   },
+   "new_tab": {
+      "message": "新しいタブ"
+   },
+   "no_search_results_found": {
+      "message": "一致する結果は見つかりませんでした"
+   },
+   "not_found": {
+      "message": "見つかりませんでした"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open": {
+      "message": "開く"
+   },
+   "open_all_links": {
+      "message": "すべてのブックマークを開く"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "すべてのブックマークをシークレット ウィンドウで開く"
+   },
+   "open_all_links_in_new_window": {
+      "message": "すべてのブックマークを新しいウィンドウで開く"
+   },
+   "open_in_incognito_window": {
+      "message": "シークレット ウィンドウで開く"
+   },
+   "open_in_new_tab": {
+      "message": "新しいタブで開く"
+   },
+   "open_in_new_window": {
+      "message": "新しいウィンドウで開く"
+   },
+   "paste": {
+      "message": "貼り付け"
+   },
+   "permission_symbols": {
+      "message": "アクセスしたウェブサイトのアイコンの読み取り"
+   },
+   "reload": {
+      "message": "再読み込み"
+   },
+   "remove": {
+      "message": "削除"
+   },
+   "reorder_by_title": {
+      "message": "タイトルで並べ替え"
+   },
+   "search": {
+      "message": "検索"
+   },
+   "search_": {
+      "message": "検索..."
+   },
+   "search_the_web": {
+      "message": "ウェブ検索..."
+   },
+   "set_wallpaper_": {
+      "message": "壁紙を設定..."
+   },
+   "settings": {
+      "message": "設定"
+   },
+   "show_all": {
+      "message": "すべて表示"
+   },
+   "show_in_folder": {
+      "message": "フォルダで表示"
+   },
+   "status": {
+      "message": "ステータス"
+   },
+   "subscribe": {
+      "message": "購読"
+   },
+   "today": {
+      "message": "今日"
+   },
+   "unsubscribe": {
+      "message": "購読を解除"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "昨日"
+   }
+}

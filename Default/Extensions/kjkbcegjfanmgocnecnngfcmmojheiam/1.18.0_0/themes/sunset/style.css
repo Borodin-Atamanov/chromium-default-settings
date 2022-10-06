@@ -1,0 +1,58 @@
+:root {
+  --theme-background-color: #7aa490;
+}
+html:before {
+  content: '';
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -1000;
+  background-color: #7aa490;
+  background-image: url("data:image/png;base64,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");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-blend-mode: initial;
+  background-position: initial;
+}
+:root {
+  --theme-dock-background-color: rgba(255, 255, 255, 0.1);
+  --theme-icon-border-radius: 5px;
+  --theme-icon-filter: drop-shadow(4px 4px 3px rgba(0, 0, 0, 0.2));
+  --theme-text-color: #ffffff;
+  --theme-text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+  --theme-path-border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+  --theme-dock-box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.01);
+  --theme-scrollbar-thumb-background-color: rgba(255, 255, 255, 0.1);
+  --theme-scrollbar-thumb-background-color-hover: rgba(255, 255, 255, 0.4);
+  --clock-analog-2-hands-inner-color: #91245f;
+  --theme-overlay-color: rgba(255, 255, 255, 0.06);
+  --theme-overlay-color-input: rgba(255, 255, 255, 0.125);
+  --theme-overlay-color-selected: rgba(255, 255, 255, 0.125);
+  --theme-overlay-color-hover: rgba(255, 255, 255, 0.05);
+  --theme-overlay-color-border: rgba(255, 255, 255, 0.075);
+}
+:root {
+  --theme-icon-folder-color: #ffffff;
+  --theme-icon-folder-background-color: #91245f;
+  --theme-icon-bookmarks-color: #ffffff;
+  --theme-icon-bookmarks-background-color: #91245f;
+  --theme-icon-history-color: #ffffff;
+  --theme-icon-history-background-color: #91245f;
+  --theme-icon-downloads-color: #ffffff;
+  --theme-icon-downloads-background-color: #91245f;
+  --theme-icon-settings-color: #ffffff;
+  --theme-icon-settings-background-color: #91245f;
+  --theme-icon-extensions-color: #ffffff;
+  --theme-icon-extensions-background-color: #91245f;
+  --theme-icon-apps-color: #ffffff;
+  --theme-icon-apps-background-color: #91245f;
+  --theme-icon-games-color: #ffffff;
+  --theme-icon-games-background-color: #91245f;
+  --theme-icon-news-color: #ffffff;
+  --theme-icon-news-background-color: #91245f;
+  --theme-icon-chrome-color: #ffffff;
+  --theme-icon-chrome-background-color: #91245f;
+}

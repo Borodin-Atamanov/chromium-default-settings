@@ -1,0 +1,221 @@
+{
+   "about": {
+      "message": "À propos de Favorites..."
+   },
+   "add": {
+      "message": "Ajouter"
+   },
+   "add_bookmark": {
+      "message": "Ajouter aux favoris"
+   },
+   "add_folder": {
+      "message": "Ajouter un dossier..."
+   },
+   "add_page": {
+      "message": "Ajouter une page..."
+   },
+   "apps": {
+      "message": "Applications"
+   },
+   "back": {
+      "message": "Retour"
+   },
+   "bookmark": {
+      "message": "Favori"
+   },
+   "bookmark_manager": {
+      "message": "Gestionnaire de favoris"
+   },
+   "bookmarks": {
+      "message": "Favoris"
+   },
+   "cancel": {
+      "message": "Annuler"
+   },
+   "cancelled": {
+      "message": "Annulé"
+   },
+   "click_to_open_x": {
+      "message": "Cliquez pour ouvrir $1"
+   },
+   "close": {
+      "message": "Fermer"
+   },
+   "colors_": {
+      "message": "Couleurs…"
+   },
+   "complete": {
+      "message": "Terminé"
+   },
+   "confirm": {
+      "message": "Confirmer"
+   },
+   "confirm_changes": {
+      "message": "Confirmer les modifications"
+   },
+   "confirm_permiission": {
+      "message": "Confirmer les autorisations"
+   },
+   "context_menu": {
+      "message": "Menu contextuel"
+   },
+   "copy": {
+      "message": "Copier"
+   },
+   "cut": {
+      "message": "Couper"
+   },
+   "dark": {
+      "message": "Sombre"
+   },
+   "default": {
+      "message": "Par défaut"
+   },
+   "delete": {
+      "message": "Supprimer..."
+   },
+   "delete_item_confirm_many": {
+      "message": "Voulez-vous vraiment supprimer $1 éléments ?"
+   },
+   "delete_item_confirm_single": {
+      "message": "Voulez-vous vraiment supprimer \"$1\" ?"
+   },
+   "deleted": {
+      "message": "Supprimé"
+   },
+   "do_not_show_again": {
+      "message": "OK, ne plus afficher"
+   },
+   "downloads": {
+      "message": "Téléchargements"
+   },
+   "edit": {
+      "message": "Modifier..."
+   },
+   "empty": {
+      "message": "Rien à afficher."
+   },
+   "experimental": {
+      "message": "Fonctionnalités expérimentales"
+   },
+   "extensions": {
+      "message": "Extensions"
+   },
+   "favorites": {
+      "message": "Favoris"
+   },
+   "favorites_requires_new_permissions": {
+      "message": "Favorites requiert de nouvelles autorisations"
+   },
+   "folder": {
+      "message": "Dossier"
+   },
+   "forward": {
+      "message": "Avancer"
+   },
+   "got_it": {
+      "message": "OK"
+   },
+   "help": {
+      "message": "Aide"
+   },
+   "history": {
+      "message": "Historique"
+   },
+   "more_information": {
+      "message": "Plus d'informations"
+   },
+   "name": {
+      "message": "Nom"
+   },
+   "new_tab": {
+      "message": "Nouvel onglet"
+   },
+   "no_search_results_found": {
+      "message": "Aucun résultat de recherche n'a été trouvé."
+   },
+   "not_found": {
+      "message": "Introuvable"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open": {
+      "message": "Ouvrir"
+   },
+   "open_all_links": {
+      "message": "Ouvrir tous les favoris"
+   },
+   "open_all_links_in_new_incognito_window": {
+      "message": "Ouvrir tous les favoris dans une fenêtre de navigation privée"
+   },
+   "open_all_links_in_new_window": {
+      "message": "Ouvrir tous les favoris dans une nouvelle fenêtre"
+   },
+   "open_in_incognito_window": {
+      "message": "Ouvrir dans une fenêtre de navigation privée"
+   },
+   "open_in_new_tab": {
+      "message": "Ouvrir dans un nouvel onglet"
+   },
+   "open_in_new_window": {
+      "message": "Ouvrir dans une nouvelle fenêtre"
+   },
+   "paste": {
+      "message": "Coller"
+   },
+   "permission_symbols": {
+      "message": "Accéder aux icônes des sites Web que vous consultez"
+   },
+   "reload": {
+      "message": "Actualiser"
+   },
+   "remove": {
+      "message": "Supprimer"
+   },
+   "reorder_by_title": {
+      "message": "Trier par nom"
+   },
+   "search": {
+      "message": "Rechercher"
+   },
+   "search_": {
+      "message": "Rechercher..."
+   },
+   "search_the_web": {
+      "message": "Rechercher sur le Web..."
+   },
+   "set_wallpaper_": {
+      "message": "Définir un fond d'écran…"
+   },
+   "settings": {
+      "message": "Paramètres"
+   },
+   "show_all": {
+      "message": "Tout afficher"
+   },
+   "show_in_folder": {
+      "message": "Afficher dans le dossier"
+   },
+   "status": {
+      "message": "État"
+   },
+   "subscribe": {
+      "message": "S’abonner"
+   },
+   "support": {
+      "message": "Prise en charge"
+   },
+   "today": {
+      "message": "Aujourd'hui à"
+   },
+   "unsubscribe": {
+      "message": "Se désabonner"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "yesterday": {
+      "message": "Hier à"
+   }
+}
