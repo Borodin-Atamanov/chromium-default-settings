@@ -20,3 +20,8 @@
 # Preferences file is a machine-generated tamper-evident copy; Chrome
 # recreates it on first launch, so it stays ignored.
 !/Default/Preferences
+
+# Keep the repository git hooks (the pre-commit pretty-formatting hook).
+!/hooks/
+/hooks/*
+!/hooks/pre-commit

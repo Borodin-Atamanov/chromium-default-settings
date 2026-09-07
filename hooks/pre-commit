@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+# Formats the staged Chrome profile preferences file as pretty JSON.
+# Google Chrome stores Default/Preferences as compact single-line JSON, but
+# the repository keeps a pretty-printed copy for readable diffs. When the
+# file is staged, this hook re-applies the pretty layout and stages it again,
+# so a compact copy is never committed.
+set -u
+
+target_file="Default/Preferences"
+
+if ! git diff --cached --name-only -- "$target_file" | grep -q .; then
+  exit 0
+fi
+
+if ! command -v python3 >/dev/null 2>&1; then
+  echo "pre-commit: python3 is required to format $target_file" >&2
+  exit 1
+fi
+
+python3 - "$target_file" <<'PY'
+import json
+import sys
+
+path = sys.argv[1]
+try:
+    with open(path, encoding="utf-8") as handle:
+        value = json.load(handle)
+except json.JSONDecodeError as exc:
+    sys.exit(f"pre-commit: {path} is not valid JSON: {exc}")
+formatted = json.dumps(value, indent=2, ensure_ascii=False) + "\n"
+with open(path, "w", encoding="utf-8") as handle:
+    handle.write(formatted)
+PY
+hook_status=$?
+if [ "$hook_status" -ne 0 ]; then
+  echo "pre-commit: could not format $target_file" >&2
+  exit 1
+fi
+
+git add -- "$target_file"
+exit 0
