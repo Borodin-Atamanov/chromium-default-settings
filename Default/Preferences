@@ -1770,7 +1770,7 @@
   },
   "google": {
     "services": {
-      "signin_scoped_device_id": "10854d66-2f81-4980-b9bb-ba3c553a5834"
+      "signin_scoped_device_id": "b44cc2e4-9ee9-4fab-806c-8759965288e7"
     }
   },
   "https_upgrade_navigations": {
@@ -1837,7 +1837,7 @@
     "recent_session_start_times": [
       "13433290894727194"
     ],
-    "session_last_active_time": "13433295338889080",
+    "session_last_active_time": "13433296894333082",
     "session_number": 2,
     "session_start_time": "13433290894727194",
     "shown_notices": [
@@ -1867,7 +1867,7 @@
     }
   },
   "language_model_counters": {
-    "en": 12,
+    "en": 14,
     "ru": 1
   },
   "management": {
@@ -1893,7 +1893,7 @@
     "custom_background_inspiration": false,
     "custom_background_local_to_device": false,
     "last_shortcuts_staleness_update": "13433290923845536",
-    "num_personal_suggestions": 3
+    "num_personal_suggestions": 5
   },
   "omnibox": {
     "aim_hint_daily_impressions_count": 3,
@@ -2009,6 +2009,10 @@
           "last_modified": "13433292367934041",
           "zoom_level": 3.8017840169239308
         },
+        "management": {
+          "last_modified": "13433296619975731",
+          "zoom_level": 3.069389038663465
+        },
         "settings": {
           "last_modified": "13433291169650406",
           "zoom_level": 2.223901085741545
@@ -2105,6 +2109,22 @@
         "camera_pan_tilt_zoom": {},
         "captured_surface_control": {},
         "client_hints": {
+          "https://accounts.google.com:443,*": {
+            "last_modified": "13433296552315167",
+            "setting": {
+              "client_hints": [
+                9,
+                10,
+                11,
+                13,
+                14,
+                16,
+                23,
+                25,
+                29
+              ]
+            }
+          },
           "https://chromewebstore.google.com:443,*": {
             "last_modified": "13433295271096529",
             "setting": {
@@ -2161,11 +2181,15 @@
             "setting": {}
           },
           "https://[*.]google.com,*": {
-            "last_modified": "13433295271108989",
+            "last_modified": "13433296552534179",
             "setting": {}
           },
           "https://[*.]webtopdf.space,*": {
             "last_modified": "13433293516120276",
+            "setting": {}
+          },
+          "https://[*.]whoer.net,*": {
+            "last_modified": "13433296565759626",
             "setting": {}
           }
         },
@@ -2236,14 +2260,14 @@
         },
         "media_engagement": {
           "https://2ip.io:443,*": {
-            "expiration": "13441069296975999",
-            "last_modified": "13433293296976008",
+            "expiration": "13441072677625535",
+            "last_modified": "13433296677625543",
             "lifetime": "7776000000000",
             "setting": {
               "hasHighScore": false,
               "lastMediaPlaybackTime": 0.0,
               "mediaPlaybacks": 0,
-              "visits": 1
+              "visits": 2
             }
           },
           "https://2ip.ru:443,*": {
@@ -2280,14 +2304,14 @@
             }
           },
           "https://duckduckgo.com:443,*": {
-            "expiration": "13441071344509175",
-            "last_modified": "13433295344509178",
+            "expiration": "13441072902469097",
+            "last_modified": "13433296902469103",
             "lifetime": "7776000000000",
             "setting": {
               "hasHighScore": false,
               "lastMediaPlaybackTime": 0.0,
               "mediaPlaybacks": 0,
-              "visits": 11
+              "visits": 16
             }
           },
           "https://github.com:443,*": {
@@ -2326,6 +2350,28 @@
           "https://webtopdf.space:443,*": {
             "expiration": "13441069611952918",
             "last_modified": "13433293611952928",
+            "lifetime": "7776000000000",
+            "setting": {
+              "hasHighScore": false,
+              "lastMediaPlaybackTime": 0.0,
+              "mediaPlaybacks": 0,
+              "visits": 1
+            }
+          },
+          "https://whoer.net:443,*": {
+            "expiration": "13441072677615044",
+            "last_modified": "13433296677615050",
+            "lifetime": "7776000000000",
+            "setting": {
+              "hasHighScore": false,
+              "lastMediaPlaybackTime": 0.0,
+              "mediaPlaybacks": 0,
+              "visits": 1
+            }
+          },
+          "https://workspace.google.com:443,*": {
+            "expiration": "13441072677637424",
+            "last_modified": "13433296677637432",
             "lifetime": "7776000000000",
             "setting": {
               "hasHighScore": false,
@@ -2432,12 +2478,12 @@
             }
           },
           "chrome://extensions/,*": {
-            "last_modified": "13433295344509320",
+            "last_modified": "13433296676723693",
             "setting": {
-              "lastEngagementTime": 1.3433295344509302e+16,
+              "lastEngagementTime": 1.3433296676723664e+16,
               "lastShortcutLaunchTime": 0.0,
-              "pointsAddedToday": 6.6,
-              "rawScore": 6.6
+              "pointsAddedToday": 11.7,
+              "rawScore": 11.7
             }
           },
           "chrome://flags/,*": {
@@ -2449,28 +2495,37 @@
               "rawScore": 15.0
             }
           },
-          "chrome://newtab/,*": {
-            "last_modified": "13433295340575025",
+          "chrome://management/,*": {
+            "last_modified": "13433296662702036",
             "setting": {
-              "lastEngagementTime": 1.3433295340574992e+16,
+              "lastEngagementTime": 1.343329666270201e+16,
+              "lastShortcutLaunchTime": 0.0,
+              "pointsAddedToday": 3.3000000000000003,
+              "rawScore": 3.3000000000000003
+            }
+          },
+          "chrome://newtab/,*": {
+            "last_modified": "13433296894857336",
+            "setting": {
+              "lastEngagementTime": 1.3433296894857272e+16,
               "lastShortcutLaunchTime": 0.0,
               "pointsAddedToday": 15.0,
               "rawScore": 15.0
             }
           },
           "chrome://omnibox-popup.top-chrome/,*": {
-            "last_modified": "13433295339126953",
+            "last_modified": "13433296894515134",
             "setting": {
-              "lastEngagementTime": 1.34332953391269e+16,
+              "lastEngagementTime": 1.3433296894515092e+16,
               "lastShortcutLaunchTime": 0.0,
-              "pointsAddedToday": 13.5,
-              "rawScore": 13.5
+              "pointsAddedToday": 15.0,
+              "rawScore": 15.0
             }
           },
           "chrome://settings/,*": {
-            "last_modified": "13433293586104801",
+            "last_modified": "13433297013695836",
             "setting": {
-              "lastEngagementTime": 1.3433293586104748e+16,
+              "lastEngagementTime": 1.34332970136958e+16,
               "lastShortcutLaunchTime": 0.0,
               "pointsAddedToday": 15.0,
               "rawScore": 15.0
@@ -2483,6 +2538,15 @@
               "lastShortcutLaunchTime": 0.0,
               "pointsAddedToday": 3.0,
               "rawScore": 3.0
+            }
+          },
+          "https://2ip.io:443,*": {
+            "last_modified": "13433296572620686",
+            "setting": {
+              "lastEngagementTime": 1.343329657262064e+16,
+              "lastShortcutLaunchTime": 0.0,
+              "pointsAddedToday": 3.6,
+              "rawScore": 3.6
             }
           },
           "https://2ip.ru:443,*": {
@@ -2537,6 +2601,24 @@
               "lastShortcutLaunchTime": 0.0,
               "pointsAddedToday": 3.9000000000000004,
               "rawScore": 3.9000000000000004
+            }
+          },
+          "https://whoer.net:443,*": {
+            "last_modified": "13433296586477064",
+            "setting": {
+              "lastEngagementTime": 1.3433296586477038e+16,
+              "lastShortcutLaunchTime": 0.0,
+              "pointsAddedToday": 3.6,
+              "rawScore": 3.6
+            }
+          },
+          "https://workspace.google.com:443,*": {
+            "last_modified": "13433296552535322",
+            "setting": {
+              "lastEngagementTime": 1.3433296552535318e+16,
+              "lastShortcutLaunchTime": 0.0,
+              "pointsAddedToday": 3.0,
+              "rawScore": 3.0
             }
           },
           "https://www.google.com:443,*": {
@@ -2630,9 +2712,9 @@
       "notifications": 2,
       "payment_handler": 2
     },
-    "exit_type": "SessionEnded",
+    "exit_type": "Crashed",
     "family_member_role": "not_in_family",
-    "last_engagement_time": "13433295344509302",
+    "last_engagement_time": "13433297013695801",
     "last_time_obsolete_http_credentials_removed": 1788817354.627516,
     "last_time_password_store_metrics_reported": 1788817324.626766,
     "managed": {
@@ -2646,7 +2728,7 @@
       "extensions": {
         "isCurrentlyActive": false,
         "result": {
-          "timestamp": "13433291635206731",
+          "timestamp": "13433296900578595",
           "triggeringExtensions": []
         }
       },
@@ -2654,7 +2736,7 @@
         "isCurrentlyActive": false,
         "result": {
           "passwordCheckOrigins": [],
-          "timestamp": "13433290895112501"
+          "timestamp": "13433296894661492"
         }
       },
       "safe-browsing": {
@@ -2662,14 +2744,14 @@
         "onlyShowAfterTime": "13433377374849617",
         "result": {
           "safeBrowsingStatus": 1,
-          "timestamp": "13433291635206683"
+          "timestamp": "13433296900578505"
         }
       },
       "unused-site-permissions": {
         "isCurrentlyActive": false,
         "result": {
           "permissions": [],
-          "timestamp": "13433290902795280"
+          "timestamp": "13433296897471710"
         }
       }
     },
@@ -2774,8 +2856,8 @@
         "incidents_sent": "F1827D0C55798CE7843DAF5DDEAB06A9BB2F9628970A5DCDA2543102436E4749",
         "incidents_sent_encrypted_hash": "djExyJHqZ6VYE54x+JIR3zjju/yi2kAqbrgyJGBZu5Dd8tDUMhcfkBg2OYCqRbrae3Pi"
       },
-      "schedule_to_flush_to_disk": "D3179103CB4833D0FBE7D5B0A5D0858E766C27050AC0AB6E46E5AFC9B6D531EC",
-      "schedule_to_flush_to_disk_encrypted_hash": "djExdJW0IHUfCag6CB+K59QKDwF3q4SPSGRPBOdh6k/SOcnvK6zcCeiC5VIB/nSsOdYI",
+      "schedule_to_flush_to_disk": "57BECB89B6ADADADAB5FBD157E98B0D88692AC264FA2397063B7C2F9F13768CB",
+      "schedule_to_flush_to_disk_encrypted_hash": "djExpM4VlDWaiQl4s1pzOQE16Nl7hKRDYnK28UmwlnJZYr5wy4zvV4D6Z8ywa6wPBVLj",
       "search_provider_overrides": "99AC1EA12DA6196886F08A934B3B5006A725063DF41E9D0EE38F1FCFFDFDD5B0",
       "search_provider_overrides_encrypted_hash": "djExARUhyAg1tWQfcM+VsH7zHeGcTjAuVHOs8B9kyM8LXcV73cWMSgEbPrH94AKEn0C+",
       "session": {
@@ -2785,7 +2867,7 @@
         "startup_urls_encrypted_hash": "djExjYCbPL0UHi/KSq7jIgZpBN9I+P/05AH7hZF9s7/vdkQ9WEgjXUNs1SrFpGgktYJ1"
       }
     },
-    "super_encrypted_hash": "djExQlJ6Fqh/3aZ0URzUTpR8g73RN/GBomnhJ4LVcMvZcCc6K+2lxudITdU02ZrnOo98"
+    "super_encrypted_hash": "djExRgZVBhfeQxh705tAL/lwLt94vjyGg2yzNJylSIlKaGjDSF/YN6bWgr/CH4swAXxL"
   },
   "safebrowsing": {
     "event_timestamps": {
@@ -2810,7 +2892,7 @@
     "did_enable_shared_tab_groups_in_last_session": true,
     "specifics_to_data_migration": true
   },
-  "schedule_to_flush_to_disk": "13433295339263025",
+  "schedule_to_flush_to_disk": "13433296894659261",
   "segmentation_platform": {
     "client_result_prefs": "ClIKDXNob3BwaW5nX3VzZXISQQo2DQAAAAAQrIWIopyw7hcaJAocChoNAAAAPxIMU2hvcHBpbmdVc2VyGgVPdGhlchIEEAIYBCADENGFiKKcsO4X",
     "device_switcher_util": {
@@ -2902,6 +2984,24 @@
         "time": "13433295360071134",
         "type": 2,
         "window_count": 1
+      },
+      {
+        "crashed": false,
+        "time": "13433296517414764",
+        "type": 0
+      },
+      {
+        "did_schedule_command": true,
+        "first_session_service": true,
+        "tab_count": 5,
+        "time": "13433296677596397",
+        "type": 2,
+        "window_count": 1
+      },
+      {
+        "crashed": false,
+        "time": "13433296894324769",
+        "type": 0
       }
     ],
     "session_data_status": 1
@@ -3016,7 +3116,7 @@
   "translate_blocked_languages": [
     "ru"
   ],
-  "translate_force_trigger_on_english_count_for_backoff_1": 11,
+  "translate_force_trigger_on_english_count_for_backoff_1": 13,
   "translate_ignored_count_for_language": {
     "en": 7
   },
@@ -3027,14 +3127,14 @@
         "cohortname": "",
         "dlrc": 7189,
         "installdate": 7189,
-        "pf": "ebd93e9b-94a8-4564-b899-cb4284cb780f"
+        "pf": "333d0835-43c7-4ec2-92e0-795f4c14ecc2"
       },
       "eimadpbcbfnmbkopoojfekhnkhdbieeh": {
         "cohort": "1::",
         "cohortname": "",
         "dlrc": 7189,
         "installdate": 7189,
-        "pf": "a2e1d265-a253-4279-aa02-0070eb4d8df3"
+        "pf": "f71c21f8-448f-44c3-a62a-c6361784d65a"
       },
       "ghbmnnjooekpmoecnnnilnnbdlolhkhi": {
         "cohort": "1::",
@@ -3048,14 +3148,14 @@
         "cohortname": "",
         "dlrc": 7189,
         "installdate": 7189,
-        "pf": "2789f919-02ff-4a1b-aeaf-ddde3a305625"
+        "pf": "3ffb16a4-6d46-4de5-8ff7-f05ded529f1d"
       },
       "pamnlaoeobcmhkliljfaofekeddpmfoh": {
         "cohort": "1::",
         "cohortname": "",
         "dlrc": 7189,
         "installdate": 7189,
-        "pf": "f8d1b3bc-aed4-4a20-b5e0-f3e91cc7f06c"
+        "pf": "1781a077-4f28-403b-bb48-8f303e83a343"
       }
     }
   },
