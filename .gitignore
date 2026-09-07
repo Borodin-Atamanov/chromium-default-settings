@@ -1,0 +1,22 @@
+# The repository working tree doubles as a live Chrome profile directory.
+# Chrome writes a lot of data into it on every run. Only the small
+# configuration files below are tracked. Caches, history, cookies,
+# extension code and downloaded components are never committed.
+
+# Ignore everything Chrome creates at the profile root.
+/*
+
+# Keep the repository housekeeping files.
+!/.gitignore
+!/README.md
+!/LICENSE
+
+# Keep the Default profile directory itself but ignore its bulk contents.
+!/Default/
+/Default/*
+
+# Keep the per-profile configuration file that stores browser settings,
+# the enabled extensions and the active theme. The adjacent Secure
+# Preferences file is a machine-generated tamper-evident copy; Chrome
+# recreates it on first launch, so it stays ignored.
+!/Default/Preferences
