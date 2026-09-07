@@ -25,3 +25,8 @@
 !/hooks/
 /hooks/*
 !/hooks/pre-commit
+
+# Keep the system-level Chrome configuration. File paths under system/
+# mirror absolute target locations, for example system/etc/opt/chrome
+# maps to /etc/opt/chrome on the target machine.
+!/system/
